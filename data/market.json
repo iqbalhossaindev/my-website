@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-28 23:39 UTC",
+  "updated_at": "2026-03-28 23:48 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66394,
-      "change_24h": 0.3183919905785624
+      "price": 66345,
+      "change_24h": 0.04825317583285279
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 1996.34,
-      "change_24h": 0.3820095640960143
+      "price": 1994.06,
+      "change_24h": 0.13899085640608844
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 611.41,
-      "change_24h": -0.02418915960566247
+      "price": 610.83,
+      "change_24h": -0.3231971634382958
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 82.13,
-      "change_24h": -0.7706860796613069
+      "price": 82.12,
+      "change_24h": -0.9659401638172943
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.33,
-      "change_24h": 0.9890637769975825
+      "change_24h": 0.7676168438912221
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246571,
-      "change_24h": 0.3688775625566969
+      "price": 0.246122,
+      "change_24h": 0.058099740885883704
     }
   ],
   "bullish": [
     {
       "name": "Siren",
       "symbol": "SIREN",
-      "price": 1.7,
-      "change_24h": 109.98110635373183
+      "price": 1.71,
+      "change_24h": 111.78707652942437
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01368956,
-      "change_24h": 19.872433975242014
+      "price": 0.01368708,
+      "change_24h": 19.84405032307531
     },
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.051445,
-      "change_24h": 12.910017174958396
+      "price": 0.05124,
+      "change_24h": 12.175227785886849
     },
     {
       "name": "Canton",
       "symbol": "CC",
-      "price": 0.154354,
-      "change_24h": 9.661684324108345
+      "price": 0.154025,
+      "change_24h": 9.297802597914878
     },
     {
       "name": "Worldcoin",
       "symbol": "WLD",
-      "price": 0.269819,
-      "change_24h": 6.976322108667656
+      "price": 0.269301,
+      "change_24h": 6.576947228296504
     }
   ],
   "bearish": [
     {
       "name": "Aptos",
       "symbol": "APT",
-      "price": 0.931048,
-      "change_24h": -4.794049530993353
+      "price": 0.931239,
+      "change_24h": -4.868752007002997
     },
     {
       "name": "Filecoin",
       "symbol": "FIL",
-      "price": 0.801798,
-      "change_24h": -4.301244034489163
+      "price": 0.802238,
+      "change_24h": -4.461707704250658
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00807667,
-      "change_24h": -2.6765344098432187
+      "price": 0.00807537,
+      "change_24h": -2.749713086492666
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "price": 0.857908,
+      "change_24h": -2.3173234455776717
     },
     {
       "name": "Polkadot",
       "symbol": "DOT",
       "price": 1.26,
-      "change_24h": -2.120135790207174
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "price": 0.859253,
-      "change_24h": -2.1152980343843995
+      "change_24h": -2.302909916257358
     }
   ]
 }
