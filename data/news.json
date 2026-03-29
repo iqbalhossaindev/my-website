@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-03-29 21:03 UTC",
+  "updated_at": "2026-03-29 23:06 UTC",
   "headlines": [
-    "Do you mean the last 24 hours (Mar 28–29, 2026)?"
+    "Bitcoin hit by $14B options expiry as geopolitics raise volatility risk",
+    "Major stablecoin USR (Resolv) suffers massive minting exploit and depeg",
+    "Coinbase + Better roll out Fannie‑backed crypto‑collateral mortgages",
+    "U.S. spot Bitcoin and Ether ETFs see renewed inflows after volatile March",
+    "Tether says it engaged a Big‑Four auditor for a full USDT audit plan — market reacts"
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Bitcoin hit by $14B options expiry as geopolitics raise volatility risk",
+      "summary": "Roughly $14 billion of Bitcoin options rolled off in late March, removing a big derivatives ‘cushion’ and leaving BTC more exposed to geopolitical news — traders warn volatility could jump now that the expiry is done. (Story built around March 26–28 market events.)",
+      "source": "Fortune / Bloomberg",
+      "url": "https://fortune.com/2026/03/26/bitcoin-faces-14-billion-options-expiry-while-middle-east-turmoil-mounts/",
+      "published_at": "March 26, 2026",
+      "category": "Market / Derivatives"
+    },
+    {
+      "title": "Resolv’s USR stablecoin: attacker mints millions, peg collapses",
+      "summary": "DeFi protocol Resolv was exploited when a privileged key allowed ~80M unbacked USR to be minted; the attacker converted a large chunk to ETH and USR crashed well below $1, forcing the protocol to pause while investigators and on‑chain trackers assess losses. This is a major stablecoin/DeFi security incident.",
+      "source": "Chainalysis; CoinMarketCap",
+      "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+      "published_at": "March 22–24, 2026",
+      "category": "Stablecoin / Security"
+    },
+    {
+      "title": "Coinbase and Better launch Fannie‑backed crypto‑collateral mortgages",
+      "summary": "Better Home & Finance and Coinbase announced a token‑backed mortgage product (Bitcoin and USDC collateral) that meets Fannie Mae guidelines, letting borrowers pledge crypto for down‑payments without immediate sale — a notable step toward mainstream finance integration.",
+      "source": "AP; Axios",
+      "url": "https://apnews.com/article/9bb1c1357aff246afc22153dedf38c2e",
+      "published_at": "March 26, 2026",
+      "category": "Adoption / TradFi"
+    },
+    {
+      "title": "Spot Bitcoin and Ether ETFs register fresh inflow streaks",
+      "summary": "U.S. spot Bitcoin and spot Ether ETF products have shown renewed institutional demand in March, with multiple days of inflows that industry watchers say help stabilize price discovery and bring more tradfi liquidity to crypto markets.",
+      "source": "Cointelegraph; CoinCentral",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-five-day-inflow-streak-2026",
+      "published_at": "mid–March 2026 (ongoing)",
+      "category": "ETF / Flows"
+    },
+    {
+      "title": "Tether hires Big‑Four auditor for a full USDT review — a milestone for stablecoins",
+      "summary": "Tether announced it engaged a Big‑Four audit firm to run an inaugural full audit of USDT reserves and controls. That move prompted market and stock reactions and could reshape the competitive balance among major stablecoin issuers.",
+      "source": "CoinGape; Kitco News",
+      "url": "https://coingape.com/news/stocks/circle-stock-crashes-17-as-rival-tether-set-to-complete-first-full-audit-for-usdt/",
+      "published_at": "March 24, 2026",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Ethereum’s ‘Glamsterdam’ upgrade advances — ePBS and parallel execution in focus",
+      "summary": "Ethereum developers are moving toward the Glamsterdam hard fork (targeted H1 2026), which enshrines Proposer‑Builder Separation (ePBS) and introduces execution improvements aimed at reducing MEV and raising throughput — a major protocol milestone for ETH scaling and MEV fairness.",
+      "source": "ethereum.org; Etherworld",
+      "url": "https://ethereum.org/de/roadmap/glamsterdam/",
+      "published_at": "ongoing — H1 2026 target",
+      "category": "Ethereum / Protocol"
+    },
+    {
+      "title": "EU MiCA compliance: March 2026 marks new tests for crypto services",
+      "summary": "EU crypto rules (MiCA) are entering test and compliance phases this month, putting pressure on exchanges, stablecoin issuers and service providers across Europe as regulators start enforcing the framework and preparing final rollouts.",
+      "source": "Brussels Times",
+      "url": "https://www.brusselstimes.com/eu-affairs/1968584/march-2026-marks-new-test-for-crypto-services-under-eu-regulation",
+      "published_at": "March 2026",
+      "category": "Regulation / Europe"
+    },
+    {
+      "title": "CME Group expands around‑the‑clock crypto futures & infrastructure upgrades",
+      "summary": "CME Group is rolling out documentation and milestones to support expanded 24/7 crypto futures and options access — a big step in institutional infrastructure that affects liquidity and trading hours for professional participants.",
+      "source": "CME Group",
+      "url": "https://www.cmegroup.com/markets/cryptocurrencies/files/client-facing-cryptocurrency-futures-and-options-expansion-to-24-7-trading.pdf",
+      "published_at": "March 29, 2026 (milestone doc)",
+      "category": "Exchange / Infrastructure"
+    }
+  ]
 }

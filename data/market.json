@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-29 21:02 UTC",
+  "updated_at": "2026-03-29 23:04 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66581,
-      "change_24h": -0.42529589666580947
+      "price": 66023,
+      "change_24h": -0.9321466370766305
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2002.22,
-      "change_24h": -1.025902785314567
+      "price": 1983.25,
+      "change_24h": -1.20944734953529
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 609.27,
-      "change_24h": -1.327293543056504
+      "price": 605.4,
+      "change_24h": -1.5451549548581047
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.86,
-      "change_24h": -1.8057879280468498
+      "price": 80.8,
+      "change_24h": -2.3042239069212234
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": -1.6350864354759682
+      "change_24h": -1.6168237300385353
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.240619,
-      "change_24h": -3.7614009717657813
+      "price": 0.238141,
+      "change_24h": -4.066825905091914
     }
   ],
   "bullish": [
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00842023,
-      "change_24h": 2.3786440200705092
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 1.77,
+      "change_24h": 4.959300819049237
     },
     {
-      "name": "TRON",
-      "symbol": "TRX",
-      "price": 0.323345,
-      "change_24h": 2.116814814030375
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.23,
+      "change_24h": 2.5314228924735622
     },
     {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.0718,
-      "change_24h": 1.923432358971554
+      "price": 0.071605,
+      "change_24h": 2.0996387923050452
     },
     {
-      "name": "LEO Token",
-      "symbol": "LEO",
-      "price": 9.66,
-      "change_24h": 0.899291203608427
+      "name": "TRON",
+      "symbol": "TRX",
+      "price": 0.322562,
+      "change_24h": 1.9779310589088315
     },
     {
-      "name": "HTX DAO",
-      "symbol": "HTX",
-      "price": 1.73e-06,
-      "change_24h": 0.6558840137599856
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00826069,
+      "change_24h": 1.4462235932407648
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01124062,
-      "change_24h": -18.324890904105622
+      "price": 0.01123094,
+      "change_24h": -17.650344072218264
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02383823,
-      "change_24h": -8.577920735839093
+      "price": 0.02389447,
+      "change_24h": -7.733143987711477
     },
     {
       "name": "Kaspa",
       "symbol": "KAS",
-      "price": 0.03273261,
-      "change_24h": -6.498816436394188
+      "price": 0.03250488,
+      "change_24h": -6.740257248289572
     },
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.08,
-      "change_24h": -5.977294594418365
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price": 450.89,
+      "change_24h": -6.503257275541014
     },
     {
-      "name": "Artificial Superintelligence Alliance",
-      "symbol": "FET",
-      "price": 0.231576,
-      "change_24h": -5.923057581034763
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price": 0.257392,
+      "change_24h": -5.8090772966325055
     }
   ]
 }
