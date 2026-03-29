@@ -3,29 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CryptoUAE AI | Live Crypto Prices and AI News</title>
+  <title>CryptoUAE AI | Professional Crypto Media Platform</title>
   <meta
     name="description"
-    content="CryptoUAE AI brings live crypto prices, top bullish and bearish movers, and AI powered crypto news in a modern liquid glass interface."
+    content="CryptoUAE AI is a professional crypto media platform with live market prices, top bullish and bearish movers, and AI-powered crypto news updates."
   />
+  <meta name="theme-color" content="#07111f" />
   <style>
     :root {
-      --bg-1: #06111f;
-      --bg-2: #081a2e;
-      --bg-3: #0d2542;
-      --glass: rgba(255, 255, 255, 0.08);
-      --glass-strong: rgba(255, 255, 255, 0.12);
-      --border: rgba(255, 255, 255, 0.18);
-      --text: #eef6ff;
-      --muted: #a8b9cc;
-      --primary: #3fc8ff;
-      --primary-soft: rgba(63, 200, 255, 0.2);
-      --green: #4cff9a;
-      --red: #ff6b8f;
-      --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
-      --radius: 24px;
-      --radius-sm: 18px;
-      --max: 1200px;
+      --bg-main: #050c17;
+      --bg-soft: #0a1628;
+      --bg-card: rgba(255, 255, 255, 0.08);
+      --bg-card-strong: rgba(255, 255, 255, 0.11);
+      --line: rgba(255, 255, 255, 0.12);
+      --line-strong: rgba(255, 255, 255, 0.18);
+      --text-main: #eef4ff;
+      --text-soft: #9db0c8;
+      --text-dim: #7f92ab;
+      --primary: #39c6ff;
+      --primary-soft: rgba(57, 198, 255, 0.16);
+      --green: #42e28a;
+      --red: #ff6a8f;
+      --gold: #f7c75f;
+      --shadow: 0 24px 70px rgba(0, 0, 0, 0.35);
+      --radius-xl: 30px;
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --max-width: 1220px;
     }
 
     * {
@@ -40,14 +44,20 @@
 
     body {
       font-family: Arial, sans-serif;
-      color: var(--text);
       background:
-        radial-gradient(circle at top left, rgba(63, 200, 255, 0.12), transparent 28%),
-        radial-gradient(circle at top right, rgba(86, 255, 193, 0.10), transparent 25%),
-        linear-gradient(180deg, var(--bg-2), var(--bg-1) 45%, #030b16 100%);
+        radial-gradient(circle at 10% 10%, rgba(57, 198, 255, 0.12), transparent 24%),
+        radial-gradient(circle at 90% 18%, rgba(99, 255, 192, 0.10), transparent 20%),
+        radial-gradient(circle at 30% 88%, rgba(255, 255, 255, 0.05), transparent 16%),
+        linear-gradient(180deg, #081423 0%, #06101d 38%, #030814 100%);
+      color: var(--text-main);
       min-height: 100vh;
       overflow-x: hidden;
       line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
     }
 
     a {
@@ -55,134 +65,138 @@
       text-decoration: none;
     }
 
+    button {
+      font: inherit;
+    }
+
     .bg-orb {
       position: fixed;
       border-radius: 50%;
-      filter: blur(24px);
-      opacity: 0.35;
+      filter: blur(32px);
       z-index: 0;
-      animation: floatOrb 14s ease-in-out infinite;
       pointer-events: none;
+      opacity: 0.34;
+      animation: orbFloat 16s ease-in-out infinite;
     }
 
-    .orb-1 {
+    .orb-a {
       width: 260px;
       height: 260px;
-      background: rgba(63, 200, 255, 0.24);
-      top: 90px;
-      left: -40px;
+      top: 70px;
+      left: -50px;
+      background: rgba(57, 198, 255, 0.18);
     }
 
-    .orb-2 {
+    .orb-b {
       width: 320px;
       height: 320px;
-      background: rgba(114, 255, 210, 0.16);
-      top: 260px;
-      right: -70px;
+      top: 300px;
+      right: -80px;
+      background: rgba(73, 255, 205, 0.14);
       animation-delay: 2s;
     }
 
-    .orb-3 {
-      width: 220px;
-      height: 220px;
-      background: rgba(140, 110, 255, 0.18);
-      bottom: 120px;
-      left: 10%;
+    .orb-c {
+      width: 240px;
+      height: 240px;
+      bottom: 70px;
+      left: 8%;
+      background: rgba(126, 122, 255, 0.13);
       animation-delay: 4s;
     }
 
-    .orb-4 {
-      width: 280px;
-      height: 280px;
-      background: rgba(255, 255, 255, 0.08);
-      bottom: 40px;
-      right: 5%;
-      animation-delay: 1s;
-    }
-
-    @keyframes floatOrb {
+    @keyframes orbFloat {
       0%, 100% {
-        transform: translateY(0px) translateX(0px) scale(1);
+        transform: translateY(0) translateX(0) scale(1);
       }
       50% {
-        transform: translateY(-28px) translateX(18px) scale(1.08);
+        transform: translateY(-24px) translateX(18px) scale(1.06);
       }
     }
 
-    .wrap {
+    .page {
       position: relative;
       z-index: 1;
     }
 
     .container {
-      width: min(92%, var(--max));
+      width: min(92%, var(--max-width));
       margin: 0 auto;
     }
 
-    .glass {
-      position: relative;
+    .panel {
       background: linear-gradient(
         180deg,
-        rgba(255, 255, 255, 0.14),
-        rgba(255, 255, 255, 0.06)
+        rgba(255, 255, 255, 0.11),
+        rgba(255, 255, 255, 0.05)
       );
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
+      border: 1px solid var(--line);
       box-shadow: var(--shadow);
       backdrop-filter: blur(18px) saturate(160%);
       -webkit-backdrop-filter: blur(18px) saturate(160%);
+      border-radius: var(--radius-xl);
+      position: relative;
       overflow: hidden;
     }
 
-    .glass::before {
+    .panel::before {
       content: "";
       position: absolute;
       inset: 0;
       background:
         linear-gradient(
           120deg,
-          transparent 20%,
-          rgba(255, 255, 255, 0.12) 35%,
+          transparent 18%,
+          rgba(255, 255, 255, 0.08) 34%,
           transparent 55%
         );
       transform: translateX(-120%);
-      animation: shine 8s linear infinite;
+      animation: panelShine 10s linear infinite;
       pointer-events: none;
     }
 
-    @keyframes shine {
+    @keyframes panelShine {
       100% {
         transform: translateX(120%);
       }
     }
 
-    .ticker-shell {
+    .reveal {
+      opacity: 0;
+      transform: translateY(26px);
+      transition: 0.8s ease;
+    }
+
+    .reveal.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .top-strip-wrap {
       position: sticky;
       top: 0;
-      z-index: 30;
-      padding-top: 12px;
+      z-index: 50;
+      padding-top: 14px;
     }
 
     .ticker {
-      display: flex;
-      gap: 32px;
-      white-space: nowrap;
-      overflow: hidden;
       padding: 14px 18px;
       border-radius: 999px;
+      overflow: hidden;
+      white-space: nowrap;
       font-size: 14px;
-      color: #dff8ff;
+      color: #d9f5ff;
       margin-bottom: 14px;
     }
 
     .ticker-track {
       display: inline-flex;
-      gap: 32px;
+      gap: 30px;
       min-width: max-content;
-      animation: tickerMove 28s linear infinite;
+      animation: scrollTicker 26s linear infinite;
     }
 
-    @keyframes tickerMove {
+    @keyframes scrollTicker {
       0% {
         transform: translateX(0);
       }
@@ -199,7 +213,8 @@
 
     .ticker-symbol {
       color: var(--primary);
-      font-weight: 700;
+      font-weight: 800;
+      letter-spacing: 0.3px;
     }
 
     .ticker-price {
@@ -209,66 +224,85 @@
 
     .ticker-change.up {
       color: var(--green);
+      font-weight: 700;
     }
 
     .ticker-change.down {
       color: var(--red);
+      font-weight: 700;
     }
 
     header {
-      padding: 10px 0 16px;
+      padding-top: 4px;
     }
 
     .nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 20px;
       padding: 18px 22px;
       border-radius: 999px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
     }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 12px;
-      font-size: 26px;
-      font-weight: 800;
-      color: var(--primary);
-      letter-spacing: 0.4px;
+      gap: 14px;
+      min-width: 0;
     }
 
     .brand-mark {
-      width: 42px;
-      height: 42px;
+      width: 46px;
+      height: 46px;
       border-radius: 14px;
-      background: linear-gradient(135deg, rgba(63, 200, 255, 0.85), rgba(119, 255, 219, 0.5));
-      box-shadow: 0 0 24px rgba(63, 200, 255, 0.35);
+      background: linear-gradient(135deg, rgba(57, 198, 255, 1), rgba(86, 255, 204, 0.65));
+      box-shadow: 0 0 26px rgba(57, 198, 255, 0.3);
       position: relative;
       overflow: hidden;
+      flex: 0 0 auto;
     }
 
     .brand-mark::after {
       content: "";
       position: absolute;
-      inset: 8px;
+      inset: 9px;
       border-radius: 10px;
-      background: rgba(255, 255, 255, 0.22);
-      backdrop-filter: blur(6px);
+      background: rgba(255, 255, 255, 0.25);
+    }
+
+    .brand-text {
+      min-width: 0;
+    }
+
+    .brand-title {
+      font-size: 24px;
+      font-weight: 800;
+      color: var(--text-main);
+      letter-spacing: 0.2px;
+    }
+
+    .brand-subtitle {
+      font-size: 12px;
+      color: var(--text-soft);
+      letter-spacing: 0.3px;
+      text-transform: uppercase;
     }
 
     .nav-links {
       display: flex;
       flex-wrap: wrap;
-      gap: 14px;
+      gap: 12px;
+      justify-content: flex-end;
     }
 
     .nav-links a {
-      padding: 10px 16px;
+      padding: 10px 15px;
       border-radius: 999px;
-      color: #dbe8f6;
+      color: #dbe6f2;
       transition: 0.25s ease;
       border: 1px solid transparent;
+      font-weight: 600;
     }
 
     .nav-links a:hover {
@@ -278,177 +312,188 @@
     }
 
     .hero {
+      margin-top: 22px;
       display: grid;
       grid-template-columns: 1.15fr 0.85fr;
       gap: 20px;
-      align-items: stretch;
-      margin-top: 22px;
     }
 
     .hero-main,
     .hero-side {
-      padding: 32px;
+      padding: 34px;
       min-height: 100%;
     }
 
-    .eyebrow {
+    .tag {
       display: inline-flex;
       align-items: center;
       gap: 10px;
       padding: 10px 14px;
-      background: rgba(255, 255, 255, 0.08);
       border-radius: 999px;
-      color: #dff8ff;
+      background: rgba(255, 255, 255, 0.07);
+      color: #dff5ff;
       font-size: 13px;
-      margin-bottom: 16px;
+      margin-bottom: 18px;
     }
 
-    .eyebrow-dot {
+    .tag-dot {
       width: 9px;
       height: 9px;
       border-radius: 50%;
       background: var(--green);
-      box-shadow: 0 0 14px var(--green);
-      animation: pulseDot 1.8s infinite;
+      box-shadow: 0 0 16px var(--green);
+      animation: pulse 1.8s infinite;
     }
 
-    @keyframes pulseDot {
+    @keyframes pulse {
       0%, 100% {
         transform: scale(1);
         opacity: 1;
       }
       50% {
-        transform: scale(1.25);
-        opacity: 0.65;
+        transform: scale(1.22);
+        opacity: 0.68;
       }
     }
 
-    h1 {
-      font-size: clamp(38px, 7vw, 76px);
+    .hero h1 {
+      font-size: clamp(40px, 7vw, 76px);
       line-height: 1.02;
-      margin-bottom: 18px;
       letter-spacing: -1.8px;
+      margin-bottom: 16px;
+      max-width: 760px;
     }
 
-    .accent-text {
-      background: linear-gradient(90deg, #ffffff, #9fe8ff, #6affc4);
+    .hero-highlight {
+      background: linear-gradient(90deg, #ffffff, #ccefff, #78ebff);
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
     }
 
-    .hero p {
-      color: var(--muted);
-      font-size: clamp(16px, 2.3vw, 20px);
-      max-width: 720px;
+    .hero-copy {
+      color: var(--text-soft);
+      font-size: clamp(17px, 2.4vw, 20px);
+      max-width: 760px;
     }
 
-    .hero-actions {
+    .hero-buttons {
       display: flex;
-      gap: 14px;
       flex-wrap: wrap;
+      gap: 14px;
       margin-top: 26px;
     }
 
     .btn {
       padding: 14px 20px;
       border-radius: 999px;
-      font-weight: 700;
-      transition: 0.3s ease;
-      border: 1px solid rgba(255, 255, 255, 0.14);
+      font-weight: 800;
+      transition: 0.28s ease;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.12);
     }
 
     .btn-primary {
-      background: linear-gradient(90deg, rgba(63, 200, 255, 0.9), rgba(88, 255, 210, 0.75));
-      color: #03111d;
-      box-shadow: 0 14px 32px rgba(63, 200, 255, 0.28);
+      background: linear-gradient(90deg, rgba(57, 198, 255, 0.95), rgba(86, 255, 204, 0.75));
+      color: #03111b;
+      box-shadow: 0 18px 40px rgba(57, 198, 255, 0.24);
     }
 
     .btn-secondary {
-      background: rgba(255, 255, 255, 0.06);
-      color: #ebf6ff;
+      background: rgba(255, 255, 255, 0.07);
+      color: #ecf4ff;
     }
 
     .btn:hover {
-      transform: translateY(-3px) scale(1.02);
+      transform: translateY(-3px);
     }
 
-    .mini-stats {
+    .hero-side-grid {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: 1fr 1fr;
       gap: 14px;
-      margin-top: 24px;
+      margin-top: 14px;
     }
 
-    .stat-box {
-      padding: 18px;
-      border-radius: var(--radius-sm);
+    .metric-card {
+      padding: 20px;
+      border-radius: var(--radius-lg);
       background: rgba(255, 255, 255, 0.06);
       border: 1px solid rgba(255, 255, 255, 0.12);
       transition: 0.3s ease;
     }
 
-    .stat-box:hover {
-      transform: translateY(-4px);
+    .metric-card:hover {
+      transform: translateY(-5px);
       background: rgba(255, 255, 255, 0.08);
     }
 
-    .stat-label {
+    .metric-label {
+      color: var(--text-soft);
       font-size: 13px;
-      color: var(--muted);
       margin-bottom: 6px;
     }
 
-    .stat-value {
-      font-size: 24px;
+    .metric-value {
+      font-size: 28px;
       font-weight: 800;
-      color: #fff;
+      color: #ffffff;
+    }
+
+    .mini-note {
+      margin-top: 18px;
+      color: var(--text-dim);
+      font-size: 13px;
     }
 
     section {
       margin-top: 26px;
     }
 
-    .section-card {
-      padding: 26px;
+    .section-panel {
+      padding: 28px;
     }
 
     .section-head {
       display: flex;
       justify-content: space-between;
-      align-items: end;
+      align-items: flex-end;
       gap: 18px;
-      margin-bottom: 20px;
+      margin-bottom: 22px;
     }
 
     .section-title {
       font-size: clamp(28px, 4vw, 42px);
       line-height: 1.08;
+      letter-spacing: -0.8px;
     }
 
-    .section-subtitle {
-      color: var(--muted);
+    .section-copy {
+      color: var(--text-soft);
       font-size: 15px;
+      max-width: 640px;
     }
 
-    .headline-slider {
+    .headlines-stage {
+      min-height: 230px;
       position: relative;
-      min-height: 220px;
       display: grid;
       align-items: center;
-      padding: 14px 8px 8px;
     }
 
     .headline-slide {
       display: none;
-      animation: slideFade 0.45s ease;
+      animation: fadeSlide 0.45s ease;
     }
 
     .headline-slide.active {
       display: block;
     }
 
-    @keyframes slideFade {
+    @keyframes fadeSlide {
       from {
         opacity: 0;
         transform: translateY(12px);
@@ -459,28 +504,30 @@
       }
     }
 
-    .headline-badge {
+    .headline-label {
       display: inline-block;
       padding: 8px 12px;
       border-radius: 999px;
       background: var(--primary-soft);
-      color: #bff4ff;
+      color: #d7f8ff;
       font-size: 12px;
       font-weight: 700;
+      letter-spacing: 0.2px;
       margin-bottom: 14px;
     }
 
-    .headline-text {
-      font-size: clamp(22px, 3vw, 38px);
+    .headline-title {
+      font-size: clamp(24px, 3vw, 40px);
+      line-height: 1.16;
       font-weight: 800;
-      line-height: 1.15;
-      max-width: 850px;
+      max-width: 900px;
     }
 
     .headline-dots {
       display: flex;
       gap: 10px;
-      margin-top: 20px;
+      margin-top: 18px;
+      flex-wrap: wrap;
     }
 
     .headline-dot {
@@ -494,8 +541,8 @@
 
     .headline-dot.active {
       background: var(--primary);
-      box-shadow: 0 0 12px rgba(63, 200, 255, 0.55);
-      transform: scale(1.18);
+      box-shadow: 0 0 14px rgba(57, 198, 255, 0.55);
+      transform: scale(1.15);
     }
 
     .tabs {
@@ -506,21 +553,19 @@
     }
 
     .tab-btn {
-      border: 0;
-      outline: 0;
       padding: 12px 18px;
       border-radius: 999px;
-      cursor: pointer;
-      color: #dff1ff;
-      font-weight: 700;
       background: rgba(255, 255, 255, 0.06);
       border: 1px solid rgba(255, 255, 255, 0.12);
+      color: #dce9f7;
+      font-weight: 700;
+      cursor: pointer;
       transition: 0.25s ease;
     }
 
     .tab-btn.active {
-      background: linear-gradient(90deg, rgba(63, 200, 255, 0.25), rgba(108, 255, 194, 0.2));
-      border-color: rgba(63, 200, 255, 0.45);
+      background: linear-gradient(90deg, rgba(57, 198, 255, 0.24), rgba(77, 255, 203, 0.18));
+      border-color: rgba(57, 198, 255, 0.4);
       color: #ffffff;
     }
 
@@ -532,44 +577,44 @@
 
     .mover-card {
       padding: 18px;
-      border-radius: var(--radius-sm);
+      border-radius: var(--radius-lg);
       background: rgba(255, 255, 255, 0.06);
       border: 1px solid rgba(255, 255, 255, 0.1);
+      min-height: 160px;
       transition: 0.3s ease;
-      min-height: 150px;
     }
 
     .mover-card:hover {
-      transform: translateY(-6px) scale(1.015);
+      transform: translateY(-6px);
       background: rgba(255, 255, 255, 0.08);
     }
 
-    .coin-name {
+    .mover-name {
+      font-size: 19px;
       font-weight: 800;
       margin-bottom: 4px;
-      font-size: 18px;
     }
 
-    .coin-symbol {
-      color: var(--muted);
+    .mover-symbol {
       font-size: 13px;
+      color: var(--text-soft);
       margin-bottom: 14px;
     }
 
-    .coin-price {
-      font-size: 20px;
+    .mover-price {
+      font-size: 22px;
       font-weight: 800;
       margin-bottom: 8px;
     }
 
-    .coin-change.up {
+    .mover-change.up {
       color: var(--green);
-      font-weight: 700;
+      font-weight: 800;
     }
 
-    .coin-change.down {
+    .mover-change.down {
       color: var(--red);
-      font-weight: 700;
+      font-weight: 800;
     }
 
     .news-grid {
@@ -579,37 +624,39 @@
     }
 
     .news-card {
-      padding: 22px;
-      border-radius: var(--radius);
       min-height: 100%;
-      transition: 0.3s ease;
+      padding: 22px;
+      border-radius: var(--radius-xl);
       background: linear-gradient(
         180deg,
         rgba(255, 255, 255, 0.10),
         rgba(255, 255, 255, 0.05)
       );
       border: 1px solid rgba(255, 255, 255, 0.12);
-      position: relative;
-      overflow: hidden;
+      transition: 0.32s ease;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 14px;
     }
 
     .news-card:hover {
       transform: translateY(-8px);
-      box-shadow: 0 22px 50px rgba(0, 0, 0, 0.35);
+      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.34);
     }
 
     .news-top {
       display: flex;
       justify-content: space-between;
-      gap: 10px;
       align-items: center;
-      margin-bottom: 14px;
+      gap: 12px;
+      flex-wrap: wrap;
     }
 
     .news-source {
-      color: var(--primary);
       font-size: 12px;
       font-weight: 800;
+      color: var(--primary);
       letter-spacing: 0.3px;
     }
 
@@ -617,77 +664,97 @@
       padding: 7px 10px;
       border-radius: 999px;
       background: rgba(255, 255, 255, 0.08);
+      color: #dbe8f6;
       font-size: 11px;
-      color: #d7e8f7;
       white-space: nowrap;
     }
 
     .news-title {
       font-size: 22px;
       line-height: 1.2;
-      margin-bottom: 12px;
       font-weight: 800;
     }
 
     .news-summary {
-      color: var(--muted);
+      color: var(--text-soft);
       font-size: 15px;
-      margin-bottom: 16px;
     }
 
     .news-footer {
       display: flex;
-      justify-content: space-between;
       align-items: center;
+      justify-content: space-between;
       gap: 12px;
       flex-wrap: wrap;
-      margin-top: auto;
     }
 
     .news-date {
       font-size: 13px;
-      color: #bdd0df;
+      color: var(--text-dim);
     }
 
-    .read-link {
-      font-weight: 800;
-      color: #ffffff;
+    .news-link {
       padding: 10px 14px;
       border-radius: 999px;
       background: rgba(255, 255, 255, 0.08);
+      font-weight: 800;
       transition: 0.25s ease;
     }
 
-    .read-link:hover {
-      background: rgba(63, 200, 255, 0.16);
-      color: #d6f7ff;
+    .news-link:hover {
+      background: rgba(57, 198, 255, 0.16);
+      color: #dff8ff;
     }
 
-    .empty {
-      padding: 22px;
-      border-radius: var(--radius-sm);
-      background: rgba(255, 255, 255, 0.05);
-      color: var(--muted);
-      border: 1px dashed rgba(255, 255, 255, 0.15);
+    .logo-cloud {
+      padding: 24px;
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 14px;
+      align-items: center;
     }
 
-    .footer {
+    .logo-item {
+      height: 72px;
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 14px;
+      transition: 0.28s ease;
+    }
+
+    .logo-item:hover {
+      transform: translateY(-4px) scale(1.02);
+      background: rgba(255, 255, 255, 0.09);
+    }
+
+    .logo-item img {
+      width: 34px;
+      height: 34px;
+      object-fit: contain;
+      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.18));
+    }
+
+    .empty-state {
+      padding: 20px;
+      border-radius: var(--radius-lg);
+      border: 1px dashed rgba(255, 255, 255, 0.16);
+      color: var(--text-soft);
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    footer {
       margin: 28px 0 34px;
+    }
+
+    .footer-panel {
       padding: 22px;
       text-align: center;
-      color: var(--muted);
+      color: var(--text-dim);
       font-size: 14px;
-    }
-
-    .reveal {
-      opacity: 0;
-      transform: translateY(24px);
-      transition: 0.7s ease;
-    }
-
-    .reveal.show {
-      opacity: 1;
-      transform: translateY(0);
     }
 
     @media (max-width: 1100px) {
@@ -702,51 +769,55 @@
       .news-grid {
         grid-template-columns: 1fr 1fr;
       }
+
+      .logo-cloud {
+        grid-template-columns: repeat(4, 1fr);
+      }
     }
 
-    @media (max-width: 700px) {
+    @media (max-width: 760px) {
       .nav {
         border-radius: 28px;
       }
 
-      .brand {
-        font-size: 22px;
-      }
-
       .hero-main,
       .hero-side,
-      .section-card {
+      .section-panel {
         padding: 22px;
       }
 
+      .hero-side-grid,
       .movers-grid,
       .news-grid,
-      .mini-stats {
+      .logo-cloud {
         grid-template-columns: 1fr;
       }
 
-      .headline-text {
-        font-size: 28px;
+      .brand-title {
+        font-size: 21px;
       }
 
       .section-title {
         font-size: 30px;
       }
+
+      .headline-title {
+        font-size: 28px;
+      }
     }
   </style>
 </head>
 <body>
-  <div class="bg-orb orb-1"></div>
-  <div class="bg-orb orb-2"></div>
-  <div class="bg-orb orb-3"></div>
-  <div class="bg-orb orb-4"></div>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+  <div class="bg-orb orb-c"></div>
 
-  <div class="wrap">
-    <div class="ticker-shell">
+  <div class="page">
+    <div class="top-strip-wrap">
       <div class="container">
-        <div class="ticker glass" id="tickerBar">
+        <div class="ticker panel" id="tickerBar">
           <div class="ticker-track" id="tickerTrack">
-            <span>Loading live prices...</span>
+            <span>Loading live market prices...</span>
           </div>
         </div>
       </div>
@@ -754,15 +825,20 @@
 
     <header>
       <div class="container">
-        <nav class="nav glass reveal">
+        <nav class="nav panel reveal">
           <div class="brand">
-            <span class="brand-mark"></span>
-            <span>CryptoUAE AI</span>
+            <div class="brand-mark"></div>
+            <div class="brand-text">
+              <div class="brand-title">CryptoUAE AI</div>
+              <div class="brand-subtitle">Professional Crypto Intelligence Platform</div>
+            </div>
           </div>
+
           <div class="nav-links">
             <a href="#headlines">Headlines</a>
-            <a href="#movers">Movers</a>
+            <a href="#movers">Top Movers</a>
             <a href="#news">AI News</a>
+            <a href="#market-icons">Markets</a>
           </div>
         </nav>
       </div>
@@ -770,66 +846,75 @@
 
     <main class="container">
       <section class="hero">
-        <div class="hero-main glass reveal">
-          <div class="eyebrow">
-            <span class="eyebrow-dot"></span>
-            <span>Live market data and AI selected crypto news</span>
+        <div class="hero-main panel reveal">
+          <div class="tag">
+            <span class="tag-dot"></span>
+            <span>Live prices, AI news, market movers, and automated updates</span>
           </div>
 
           <h1>
-            <span class="accent-text">Liquid Glass</span><br />
-            Crypto Intelligence
+            The <span class="hero-highlight">Professional</span><br />
+            Crypto Media Experience
           </h1>
 
-          <p>
-            Live crypto prices, top bullish and bearish movers, and AI powered
-            crypto coverage in a more animated premium experience.
+          <p class="hero-copy">
+            CryptoUAE AI delivers real-time price tracking, AI-powered news coverage,
+            top bullish and bearish market movers, and a premium reading experience
+            designed for a modern crypto audience.
           </p>
 
-          <div class="hero-actions">
-            <a class="btn btn-primary" href="#news">View AI News</a>
-            <a class="btn btn-secondary" href="#movers">Top Movers</a>
+          <div class="hero-buttons">
+            <a class="btn btn-primary" href="#news">Explore AI News</a>
+            <a class="btn btn-secondary" href="#movers">View Top Movers</a>
           </div>
         </div>
 
-        <div class="hero-side glass reveal">
-          <div class="section-subtitle">Quick market snapshot</div>
+        <div class="hero-side panel reveal">
+          <div class="section-copy">
+            Real-time market intelligence built for a premium crypto brand.
+          </div>
 
-          <div class="mini-stats">
-            <div class="stat-box">
-              <div class="stat-label">Live coins in ticker</div>
-              <div class="stat-value" id="statCoins">0</div>
+          <div class="hero-side-grid">
+            <div class="metric-card">
+              <div class="metric-label">Coins in live ticker</div>
+              <div class="metric-value" id="statCoins">0</div>
             </div>
 
-            <div class="stat-box">
-              <div class="stat-label">AI headlines</div>
-              <div class="stat-value" id="statHeadlines">0</div>
+            <div class="metric-card">
+              <div class="metric-label">Top AI headlines</div>
+              <div class="metric-value" id="statHeadlines">0</div>
             </div>
 
-            <div class="stat-box">
-              <div class="stat-label">Top bullish list</div>
-              <div class="stat-value" id="statBullish">0</div>
+            <div class="metric-card">
+              <div class="metric-label">Bullish movers</div>
+              <div class="metric-value" id="statBullish">0</div>
             </div>
 
-            <div class="stat-box">
-              <div class="stat-label">Top bearish list</div>
-              <div class="stat-value" id="statBearish">0</div>
+            <div class="metric-card">
+              <div class="metric-label">Bearish movers</div>
+              <div class="metric-value" id="statBearish">0</div>
             </div>
           </div>
+
+          <p class="mini-note">
+            Updated automatically from your live data pipeline.
+          </p>
         </div>
       </section>
 
       <section id="headlines" class="reveal">
-        <div class="glass section-card">
+        <div class="section-panel panel">
           <div class="section-head">
             <div>
               <h2 class="section-title">Top Headlines</h2>
-              <p class="section-subtitle">Animated AI selected crypto story slider</p>
+              <p class="section-copy">
+                A premium rotating headline area for the most important crypto stories.
+              </p>
             </div>
           </div>
 
-          <div class="headline-slider" id="headlineSlider">
-            <div class="empty">Waiting for headline data...</div>
+          <div class="headlines-stage" id="headlineSlider">
+            <div class="empty-state">Waiting for AI headline updates...</div>
           </div>
 
           <div class="headline-dots" id="headlineDots"></div>
@@ -837,11 +922,13 @@
       </section>
 
       <section id="movers" class="reveal">
-        <div class="glass section-card">
+        <div class="section-panel panel">
           <div class="section-head">
             <div>
               <h2 class="section-title">Top Movers</h2>
-              <p class="section-subtitle">Switch between bullish and bearish coins</p>
+              <p class="section-copy">
+                Switch between daily gainers and daily losers in one professional market panel.
+              </p>
             </div>
           </div>
 
@@ -851,32 +938,63 @@
           </div>
 
           <div class="movers-grid" id="moversGrid">
-            <div class="empty">Loading market movers...</div>
+            <div class="empty-state">Loading market movers...</div>
           </div>
         </div>
       </section>
 
       <section id="news" class="reveal">
-        <div class="glass section-card">
+        <div class="section-panel panel">
           <div class="section-head">
             <div>
               <h2 class="section-title">AI News Feed</h2>
-              <p class="section-subtitle">SEO friendly crypto news blocks powered by your data pipeline</p>
+              <p class="section-copy">
+                Structured, premium style news cards generated from your automated AI news workflow.
+              </p>
             </div>
           </div>
 
           <div class="news-grid" id="newsGrid">
-            <div class="empty">Waiting for AI news...</div>
+            <div class="empty-state">Waiting for AI news updates...</div>
           </div>
         </div>
       </section>
 
-      <footer class="footer glass reveal">
-        <p>CryptoUAE AI • Live data • AI powered updates • Glass UI experience</p>
+      <section id="market-icons" class="reveal">
+        <div class="section-panel panel">
+          <div class="section-head">
+            <div>
+              <h2 class="section-title">Market Coverage</h2>
+              <p class="section-copy">
+                Coverage across major crypto assets and trending market names.
+              </p>
+            </div>
+          </div>
+
+                   <div class="logo-cloud">
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/btc/200" alt="Bitcoin" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/eth/200" alt="Ethereum" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/bnb/200" alt="BNB" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/sol/200" alt="Solana" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/xrp/200" alt="XRP" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ada/200" alt="Cardano" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/doge/200" alt="Dogecoin" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/trx/200" alt="TRON" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/link/200" alt="Chainlink" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/avax/200" alt="Avalanche" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ltc/200" alt="Litecoin" /></div>
+            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ton/200" alt="Toncoin" /></div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="reveal">
+        <div class="footer-panel panel">
+          <p>CryptoUAE AI • Live market data • AI-powered crypto publishing • Premium digital media presentation</p>
+        </div>
       </footer>
     </main>
   </div>
-
   <script>
     let marketData = null;
     let newsData = null;
@@ -895,5 +1013,216 @@
     function formatPrice(value) {
       if (value === null || value === undefined || Number.isNaN(value)) return "N/A";
 
-      if (value >= 1000) return `$${value.toLocaleString(undefined, { maximumFractionDigits: 2 })}`;
-      if (value
+      if (value >= 1000) {
+        return `$${value.toLocaleString(undefined, { maximumFractionDigits: 2 })}`;
+      }
+
+      if (value >= 1) {
+        return `$${value.toLocaleString(undefined, { maximumFractionDigits: 4 })}`;
+      }
+
+      return `$${value.toLocaleString(undefined, { maximumFractionDigits: 6 })}`;
+    }
+
+    function formatChange(value) {
+      if (value === null || value === undefined || Number.isNaN(value)) return "0.00%";
+      const prefix = value > 0 ? "+" : "";
+      return `${prefix}${value.toFixed(2)}%`;
+    }
+
+    function renderTicker(prices) {
+      const tickerTrack = document.getElementById("tickerTrack");
+      const statCoins = document.getElementById("statCoins");
+
+      if (!prices || !prices.length) {
+        tickerTrack.innerHTML = "<span>Live prices not available yet.</span>";
+        statCoins.textContent = "0";
+        return;
+      }
+
+      statCoins.textContent = prices.length;
+
+      const items = prices.map(item => {
+        const changeClass = (item.change_24h || 0) >= 0 ? "up" : "down";
+        return `
+          <div class="ticker-item">
+            <span class="ticker-symbol">${item.symbol}</span>
+            <span class="ticker-price">${formatPrice(item.price)}</span>
+            <span class="ticker-change ${changeClass}">${formatChange(item.change_24h || 0)}</span>
+          </div>
+        `;
+      }).join("");
+
+      tickerTrack.innerHTML = items + items;
+    }
+
+    function renderHeadlines(headlines) {
+      const slider = document.getElementById("headlineSlider");
+      const dots = document.getElementById("headlineDots");
+      const statHeadlines = document.getElementById("statHeadlines");
+
+      statHeadlines.textContent = headlines && headlines.length ? headlines.length : 0;
+
+      if (!headlines || !headlines.length) {
+        slider.innerHTML = `<div class="empty-state">No AI headlines available yet.</div>`;
+        dots.innerHTML = "";
+        return;
+      }
+
+      slider.innerHTML = headlines.map((headline, index) => `
+        <div class="headline-slide ${index === 0 ? "active" : ""}">
+          <div class="headline-label">Top Story ${index + 1}</div>
+          <div class="headline-title">${headline}</div>
+        </div>
+      `).join("");
+
+      dots.innerHTML = headlines.map((_, index) => `
+        <div class="headline-dot ${index === 0 ? "active" : ""}" data-index="${index}"></div>
+      `).join("");
+
+      sliderIndex = 0;
+
+      document.querySelectorAll(".headline-dot").forEach(dot => {
+        dot.addEventListener("click", () => {
+          sliderIndex = Number(dot.dataset.index);
+          updateSlider(headlines);
+          restartSlider(headlines);
+        });
+      });
+
+      restartSlider(headlines);
+    }
+
+    function updateSlider(headlines) {
+      const slides = document.querySelectorAll(".headline-slide");
+      const dots = document.querySelectorAll(".headline-dot");
+
+      slides.forEach((slide, index) => {
+        slide.classList.toggle("active", index === sliderIndex);
+      });
+
+      dots.forEach((dot, index) => {
+        dot.classList.toggle("active", index === sliderIndex);
+      });
+    }
+
+    function restartSlider(headlines) {
+      clearInterval(sliderTimer);
+
+      if (!headlines || headlines.length <= 1) return;
+
+      sliderTimer = setInterval(() => {
+        sliderIndex = (sliderIndex + 1) % headlines.length;
+        updateSlider(headlines);
+      }, 3500);
+    }
+
+    function renderMovers() {
+      const moversGrid = document.getElementById("moversGrid");
+
+      if (!marketData || !marketData[activeTab] || !marketData[activeTab].length) {
+        moversGrid.innerHTML = `<div class="empty-state">No ${activeTab} market data available.</div>`;
+        return;
+      }
+
+      const items = marketData[activeTab];
+
+      moversGrid.innerHTML = items.map(item => {
+        const isUp = (item.change_24h || 0) >= 0;
+        return `
+          <div class="mover-card">
+            <div class="mover-name">${item.name}</div>
+            <div class="mover-symbol">${item.symbol}</div>
+            <div class="mover-price">${formatPrice(item.price)}</div>
+            <div class="mover-change ${isUp ? "up" : "down"}">${formatChange(item.change_24h || 0)}</div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function renderNews(articles) {
+      const newsGrid = document.getElementById("newsGrid");
+
+    if (!articles || !articles.length) {
+        newsGrid.innerHTML = `<div class="empty-state">No AI news articles available yet.</div>`;
+        return;
+      }
+
+      newsGrid.innerHTML = articles.map(article => `
+        <article class="news-card">
+          <div class="news-top">
+            <div class="news-source">${article.source || "Crypto Source"}</div>
+            <div class="news-category">${article.category || "Market"}</div>
+          </div>
+
+          <h3 class="news-title">${article.title || "Untitled article"}</h3>
+          <p class="news-summary">${article.summary || "No summary available."}</p>
+
+          <div class="news-footer">
+            <div class="news-date">${article.published_at || "Latest update"}</div>
+            <a class="news-link" href="${article.url || "#"}" target="_blank" rel="noopener noreferrer">Read Article</a>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function updateStats() {
+      document.getElementById("statBullish").textContent =
+        marketData && marketData.bullish ? marketData.bullish.length : 0;
+
+      document.getElementById("statBearish").textContent =
+        marketData && marketData.bearish ? marketData.bearish.length : 0;
+    }
+
+    function bindTabs() {
+      document.querySelectorAll(".tab-btn").forEach(button => {
+        button.addEventListener("click", () => {
+          document.querySelectorAll(".tab-btn").forEach(btn => btn.classList.remove("active"));
+          button.classList.add("active");
+          activeTab = button.dataset.tab;
+          renderMovers();
+        });
+      });
+    }
+
+    function initReveal() {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("show");
+          }
+        });
+      }, { threshold: 0.12 });
+
+      document.querySelectorAll(".reveal").forEach(item => observer.observe(item));
+    }
+
+    async function loadData() {
+      try {
+        marketData = await fetchJson("./data/market.json");
+        renderTicker(marketData.prices || []);
+        renderMovers();
+        updateStats();
+      } catch (error) {
+        document.getElementById("tickerTrack").innerHTML = "<span>Live prices not available yet.</span>";
+        document.getElementById("moversGrid").innerHTML = `<div class="empty-state">Market data could not be loaded.</div>`;
+      }
+
+      try {
+        newsData = await fetchJson("./data/news.json");
+        renderHeadlines(newsData.headlines || []);
+        renderNews(newsData.articles || []);
+      } catch (error) {
+        document.getElementById("headlineSlider").innerHTML = `<div class="empty-state">Headline data could not be loaded.</div>`;
+        document.getElementById("newsGrid").innerHTML = `<div class="empty-state">AI news could not be loaded.</div>`;
+      }
+    }
+
+    bindTabs();
+    initReveal();
+    loadData();
+
+    setInterval(loadData, 300000);
+  </script>
+</body>
+</html>
