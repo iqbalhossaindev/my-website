@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-29 16:03 UTC",
+  "updated_at": "2026-03-29 17:06 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66468,
-      "change_24h": -0.6536350716007214
+      "price": 66435,
+      "change_24h": -0.6519192072679705
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 1991.34,
-      "change_24h": -1.6230638431003277
+      "price": 1995.95,
+      "change_24h": -1.3345245136948451
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 609.18,
-      "change_24h": -1.2121173799357634
+      "price": 609.17,
+      "change_24h": -1.2317967564050494
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 81.72,
-      "change_24h": -2.38696870466878
+      "price": 81.64,
+      "change_24h": -2.3248520816529927
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": -2.0678975796027457
+      "change_24h": -1.8742514124759495
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.24122,
-      "change_24h": -3.990587939971743
+      "price": 0.240851,
+      "change_24h": -4.018262510511617
     }
   ],
   "bullish": [
     {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 1.71,
-      "change_24h": 3.213779068494387
-    },
-    {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.26,
-      "change_24h": 2.1678728949666954
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.152301,
-      "change_24h": 2.0320326898993883
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01120315,
+      "change_24h": 2.4219587081625713
     },
     {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.071631,
-      "change_24h": 1.6278924670035615
+      "price": 0.072158,
+      "change_24h": 2.206168949224354
     },
     {
-      "name": "Monero",
-      "symbol": "XMR",
-      "price": 331.81,
-      "change_24h": 0.9869304675685034
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 1.71,
+      "change_24h": 2.100924715426951
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "price": 0.151294,
+      "change_24h": 1.389686899647086
+    },
+    {
+      "name": "LEO Token",
+      "symbol": "LEO",
+      "price": 9.65,
+      "change_24h": 0.7148242827642904
     }
   ],
   "bearish": [
     {
       "name": "Kaspa",
       "symbol": "KAS",
-      "price": 0.0326905,
-      "change_24h": -7.60877339960407
+      "price": 0.03285519,
+      "change_24h": -6.522578049636825
     },
     {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.04931318,
-      "change_24h": -6.42642580843436
-    },
-    {
-      "name": "Artificial Superintelligence Alliance",
-      "symbol": "FET",
-      "price": 0.235094,
-      "change_24h": -6.232647342327182
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "price": 451.11,
+      "change_24h": -6.405209919271088
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02447792,
-      "change_24h": -5.227936411317807
+      "price": 0.02437552,
+      "change_24h": -6.177040432264295
     },
     {
       "name": "Ondo",
       "symbol": "ONDO",
-      "price": 0.262721,
-      "change_24h": -5.119315632178516
+      "price": 0.262455,
+      "change_24h": -5.271421241375709
+    },
+    {
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "price": 0.234097,
+      "change_24h": -5.020148386419346
     }
   ]
 }
