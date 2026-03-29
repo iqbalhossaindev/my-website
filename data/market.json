@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-29 05:54 UTC",
+  "updated_at": "2026-03-29 08:03 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66706,
-      "change_24h": 0.5906310803629561
+      "price": 66620,
+      "change_24h": 0.211175432544361
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2004.11,
-      "change_24h": 0.564194265014365
+      "price": 2004.01,
+      "change_24h": -0.07186371339192986
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 613.19,
-      "change_24h": 0.20269004616383393
+      "price": 613.27,
+      "change_24h": -0.03634567899275068
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 82.65,
-      "change_24h": -0.005990967685413598
+      "price": 82.43,
+      "change_24h": -1.305926856458581
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.33,
-      "change_24h": -0.5253519765006436
+      "change_24h": -0.4544675731753372
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.245039,
-      "change_24h": -0.2279028782926773
+      "price": 0.245018,
+      "change_24h": -1.190868657663548
     }
   ],
   "bullish": [
     {
-      "name": "Worldcoin",
-      "symbol": "WLD",
-      "price": 0.273693,
-      "change_24h": 9.87606395519057
-    },
-    {
       "name": "Canton",
       "symbol": "CC",
-      "price": 0.155101,
-      "change_24h": 9.290180989336749
+      "price": 0.156493,
+      "change_24h": 6.741270402846888
+    },
+    {
+      "name": "OKB",
+      "symbol": "OKB",
+      "price": 85.72,
+      "change_24h": 3.082765728754213
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.180658,
+      "change_24h": 3.0381627726312184
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.21,
+      "change_24h": 2.7311779853687854
     },
     {
       "name": "Artificial Superintelligence Alliance",
       "symbol": "FET",
-      "price": 0.244051,
-      "change_24h": 7.3380383113916325
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.05015,
-      "change_24h": 5.132944171113494
-    },
-    {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "price": 0.270222,
-      "change_24h": 3.339848014787214
+      "price": 0.238048,
+      "change_24h": 2.730297182635809
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01051882,
-      "change_24h": -8.014388813369532
-    },
-    {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 1.58,
-      "change_24h": -7.369838628449221
+      "price": 0.01037148,
+      "change_24h": -9.188505932129113
     },
     {
       "name": "Beldex",
       "symbol": "BDX",
-      "price": 0.080216,
-      "change_24h": -3.391854597115726
+      "price": 0.080097,
+      "change_24h": -3.5187463771112824
     },
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.0253427,
-      "change_24h": -1.9493135406493
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "price": 2.0,
+      "change_24h": -3.140275833269713
     },
     {
-      "name": "Aptos",
-      "symbol": "APT",
-      "price": 0.931714,
-      "change_24h": -1.9331806785385885
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "price": 1.27,
+      "change_24h": -2.304693448762323
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 2.92,
+      "change_24h": -2.2732907249663494
     }
   ]
 }
