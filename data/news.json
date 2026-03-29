@@ -1,76 +1,11 @@
 {
-  "updated_at": "2026-03-28 23:49 UTC",
+  "updated_at": "2026-03-29 05:56 UTC",
   "headlines": [
-    "Large Bitcoin & Ether options expiry rattles markets",
-    "Kraken wins limited-purpose Federal Reserve master account (reaction from banks)",
-    "U.S. SEC issues interpretation on crypto securities (recent guidance)",
-    "Stablecoin supply and regulatory pressure remain a top story",
-    "Major exchange/derivatives events and liquidity moves after expiries (market impact)"
+    "Morgan Stanley advances in spot-Bitcoin ETF race",
+    "U.S. spot-Bitcoin ETF flows and market moves",
+    "SEC / U.S. regulation update affecting crypto firms",
+    "Ethereum / ETH ETF & market developments",
+    "Stablecoin regulatory or issuer news (USDC / Tether) – market impact story - confirmable source required? (see note)  ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼"
   ],
-  "articles": [
-    {
-      "title": "Massive Bitcoin/Ethereum options expiry fuels volatility",
-      "summary": "A large quarterly options expiry (Deribit and other venues) on March 27–28 pushed intraday volatility as billions in BTC/ETH options settled. Traders saw big liquidations and short-term price swings as max‑pain levels and open interest clusters forced rapid rebalancing.",
-      "source": "Market data & reporting (Deribit, trading desks)",
-      "url": "https://www.deribit.com (market notices)",
-      "published_at": "2026-03-27",
-      "category": "Market/Derivatives"
-    },
-    {
-      "title": "Kraken Financial approved for limited-purpose Federal Reserve master account",
-      "summary": "The Federal Reserve Bank of Kansas City approved a one‑year, limited-purpose master account for Kraken Financial in early March, giving Kraken direct access to Fed payment rails. The move sparked pushback from banking groups worried about transparency and risk controls.",
-      "source": "Federal Reserve Bank of Kansas City press release; coverage by major outlets",
-      "url": "https://www.kansascityfed.org/newsroom/2026-news-releases/federal-reserve-bank-of-kansas-city-approves-limited-account/",
-      "published_at": "2026-03-04",
-      "category": "Exchange/Banking"
-    },
-    {
-      "title": "SEC publishes interpretation clarifying how federal securities laws apply to crypto assets",
-      "summary": "The U.S. Securities and Exchange Commission issued an interpretation clarifying which crypto tokens and transactions may be securities under federal law—aimed at giving market participants more legal clarity but sparking debate over scope and enforcement.",
-      "source": "U.S. Securities and Exchange Commission press release",
-      "url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
-      "published_at": "2026-03-17",
-      "category": "Regulation"
-    },
-    {
-      "title": "Stablecoin supply growth and regulatory focus remain central",
-      "summary": "Stablecoin balances rose meaningfully in Q1 as investors piled into cash‑like crypto holdings amid market volatility. At the same time, lawmakers and regulators continued work on stablecoin frameworks that could reshape issuance and reserve rules.",
-      "source": "Cointelegraph / industry reports",
-      "url": "https://cointelegraph.com/news/stablecoins-30-b-q1-crypto-investors-entry-point",
-      "published_at": "2026-03-27",
-      "category": "Stablecoins/Regulation"
-    },
-    {
-      "title": "Bitcoin price action reacts to macro & derivatives events",
-      "summary": "Bitcoin traded in a wide intraday range around the mid‑$60k to $70k levels as macro headlines and the large options expiry caused rapid repositioning by institutional desks and retail traders.",
-      "source": "Market summaries (CoinDesk, Trading desks)",
-      "url": "https://www.coindesk.com/markets/",
-      "published_at": "2026-03-28",
-      "category": "Market/Bitcoin"
-    },
-    {
-      "title": "Ethereum markets pressured as ETF and derivatives flows shift",
-      "summary": "Ethereum prices moved lower on net as ETF rebalances, options expiries and reduced ETF inflows created selling pressure; analysts flagged derivatives positioning and ETF flows as key near‑term drivers.",
-      "source": "Crypto market reports (CryptoSlate / CoinDesk)",
-      "url": "https://cryptoslate.com/ethereum-battles-longest-monthly-loss-streak-since-2018/",
-      "published_at": "2026-03-05",
-      "category": "Market/Ethereum"
-    },
-    {
-      "title": "Exchange & derivatives liquidity monitored closely after expiries",
-      "summary": "Exchanges reported higher funding‑rate swings and concentrated liquidity gaps immediately after the March expiry window; risk desks warned traders to reduce leverage as short squeezes and rapid funding moves became more likely.",
-      "source": "Exchange notices and market analysis",
-      "url": "https://www.deribit.com (market notices)",
-      "published_at": "2026-03-27",
-      "category": "Exchange/Derivatives"
-    },
-    {
-      "title": "Major altcoins saw clustered sell pressure post‑expiry",
-      "summary": "Following the large options settlements, major altcoins including SOL, ADA and XRP experienced coordinated sell pressure and volatility as traders rotated risk and took profits, widening spreads on some decentralized exchanges.",
-      "source": "Market commentaries (Cointelegraph/CoinDesk)",
-      "url": "https://www.cointelegraph.com/",
-      "published_at": "2026-03-27",
-      "category": "Altcoins/Market"
-    }
-  ]
+  "articles": []
 }
