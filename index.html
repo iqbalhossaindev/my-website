@@ -3,33 +3,33 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CryptoUAE AI | Professional Crypto Media Platform</title>
+  <title>CryptoUAE AI | Crypto Media Platform</title>
   <meta
     name="description"
-    content="CryptoUAE AI is a professional crypto media platform with live market prices, top bullish and bearish movers, and AI-powered crypto news updates."
+    content="CryptoUAE AI is a professional crypto media platform with live prices, top market movers, and AI powered crypto news."
   />
   <meta name="theme-color" content="#07111f" />
   <style>
     :root {
-      --bg-main: #050c17;
-      --bg-soft: #0a1628;
-      --bg-card: rgba(255, 255, 255, 0.08);
-      --bg-card-strong: rgba(255, 255, 255, 0.11);
-      --line: rgba(255, 255, 255, 0.12);
-      --line-strong: rgba(255, 255, 255, 0.18);
-      --text-main: #eef4ff;
-      --text-soft: #9db0c8;
-      --text-dim: #7f92ab;
-      --primary: #39c6ff;
-      --primary-soft: rgba(57, 198, 255, 0.16);
-      --green: #42e28a;
-      --red: #ff6a8f;
-      --gold: #f7c75f;
-      --shadow: 0 24px 70px rgba(0, 0, 0, 0.35);
-      --radius-xl: 30px;
-      --radius-lg: 22px;
-      --radius-md: 16px;
-      --max-width: 1220px;
+      --bg-1: #07111f;
+      --bg-2: #0b1729;
+      --bg-3: #0e1d32;
+      --card: rgba(255, 255, 255, 0.08);
+      --card-strong: rgba(255, 255, 255, 0.11);
+      --border: rgba(255, 255, 255, 0.12);
+      --border-strong: rgba(255, 255, 255, 0.18);
+      --text: #edf4ff;
+      --muted: #9bb0c7;
+      --muted-2: #7f93aa;
+      --primary: #37c6ff;
+      --primary-soft: rgba(55, 198, 255, 0.16);
+      --green: #43df8f;
+      --red: #ff6c8e;
+      --shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
+      --radius-xl: 28px;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+      --max: 1200px;
     }
 
     * {
@@ -44,20 +44,14 @@
 
     body {
       font-family: Arial, sans-serif;
+      color: var(--text);
       background:
-        radial-gradient(circle at 10% 10%, rgba(57, 198, 255, 0.12), transparent 24%),
-        radial-gradient(circle at 90% 18%, rgba(99, 255, 192, 0.10), transparent 20%),
-        radial-gradient(circle at 30% 88%, rgba(255, 255, 255, 0.05), transparent 16%),
-        linear-gradient(180deg, #081423 0%, #06101d 38%, #030814 100%);
-      color: var(--text-main);
+        radial-gradient(circle at top left, rgba(55, 198, 255, 0.10), transparent 24%),
+        radial-gradient(circle at top right, rgba(87, 255, 201, 0.07), transparent 18%),
+        linear-gradient(180deg, var(--bg-3) 0%, var(--bg-2) 38%, var(--bg-1) 100%);
       min-height: 100vh;
-      overflow-x: hidden;
       line-height: 1.6;
-    }
-
-    img {
-      max-width: 100%;
-      display: block;
+      overflow-x: hidden;
     }
 
     a {
@@ -69,102 +63,37 @@
       font: inherit;
     }
 
-    .bg-orb {
-      position: fixed;
-      border-radius: 50%;
-      filter: blur(32px);
-      z-index: 0;
-      pointer-events: none;
-      opacity: 0.34;
-      animation: orbFloat 16s ease-in-out infinite;
-    }
-
-    .orb-a {
-      width: 260px;
-      height: 260px;
-      top: 70px;
-      left: -50px;
-      background: rgba(57, 198, 255, 0.18);
-    }
-
-    .orb-b {
-      width: 320px;
-      height: 320px;
-      top: 300px;
-      right: -80px;
-      background: rgba(73, 255, 205, 0.14);
-      animation-delay: 2s;
-    }
-
-    .orb-c {
-      width: 240px;
-      height: 240px;
-      bottom: 70px;
-      left: 8%;
-      background: rgba(126, 122, 255, 0.13);
-      animation-delay: 4s;
-    }
-
-    @keyframes orbFloat {
-      0%, 100% {
-        transform: translateY(0) translateX(0) scale(1);
-      }
-      50% {
-        transform: translateY(-24px) translateX(18px) scale(1.06);
-      }
+    img {
+      display: block;
+      max-width: 100%;
     }
 
     .page {
       position: relative;
-      z-index: 1;
     }
 
     .container {
-      width: min(92%, var(--max-width));
+      width: min(92%, var(--max));
       margin: 0 auto;
     }
 
-    .panel {
+    .glass {
       background: linear-gradient(
         180deg,
-        rgba(255, 255, 255, 0.11),
+        rgba(255, 255, 255, 0.10),
         rgba(255, 255, 255, 0.05)
       );
-      border: 1px solid var(--line);
-      box-shadow: var(--shadow);
-      backdrop-filter: blur(18px) saturate(160%);
-      -webkit-backdrop-filter: blur(18px) saturate(160%);
+      border: 1px solid var(--border);
       border-radius: var(--radius-xl);
-      position: relative;
-      overflow: hidden;
-    }
-
-    .panel::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background:
-        linear-gradient(
-          120deg,
-          transparent 18%,
-          rgba(255, 255, 255, 0.08) 34%,
-          transparent 55%
-        );
-      transform: translateX(-120%);
-      animation: panelShine 10s linear infinite;
-      pointer-events: none;
-    }
-
-    @keyframes panelShine {
-      100% {
-        transform: translateX(120%);
-      }
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
     }
 
     .reveal {
       opacity: 0;
-      transform: translateY(26px);
-      transition: 0.8s ease;
+      transform: translateY(20px);
+      transition: opacity 0.55s ease, transform 0.55s ease;
     }
 
     .reveal.show {
@@ -172,11 +101,11 @@
       transform: translateY(0);
     }
 
-    .top-strip-wrap {
+    .top-wrap {
       position: sticky;
       top: 0;
-      z-index: 50;
-      padding-top: 14px;
+      z-index: 30;
+      padding-top: 12px;
     }
 
     .ticker {
@@ -185,18 +114,19 @@
       overflow: hidden;
       white-space: nowrap;
       font-size: 14px;
-      color: #d9f5ff;
+      color: #dff6ff;
       margin-bottom: 14px;
     }
 
     .ticker-track {
       display: inline-flex;
-      gap: 30px;
+      gap: 28px;
       min-width: max-content;
-      animation: scrollTicker 26s linear infinite;
+      animation: tickerMove 28s linear infinite;
+      will-change: transform;
     }
 
-    @keyframes scrollTicker {
+    @keyframes tickerMove {
       0% {
         transform: translateX(0);
       }
@@ -214,7 +144,7 @@
     .ticker-symbol {
       color: var(--primary);
       font-weight: 800;
-      letter-spacing: 0.3px;
+      letter-spacing: 0.2px;
     }
 
     .ticker-price {
@@ -233,16 +163,17 @@
     }
 
     header {
-      padding-top: 4px;
+      padding-top: 2px;
     }
 
     .nav {
       padding: 18px 22px;
       border-radius: 999px;
       display: flex;
-      align-items: center;
       justify-content: space-between;
+      align-items: center;
       gap: 18px;
+      flex-wrap: wrap;
     }
 
     .brand {
@@ -253,14 +184,13 @@
     }
 
     .brand-mark {
-      width: 46px;
-      height: 46px;
+      width: 44px;
+      height: 44px;
       border-radius: 14px;
-      background: linear-gradient(135deg, rgba(57, 198, 255, 1), rgba(86, 255, 204, 0.65));
-      box-shadow: 0 0 26px rgba(57, 198, 255, 0.3);
-      position: relative;
-      overflow: hidden;
       flex: 0 0 auto;
+      background: linear-gradient(135deg, rgba(55, 198, 255, 0.95), rgba(96, 255, 206, 0.60));
+      box-shadow: 0 0 22px rgba(55, 198, 255, 0.22);
+      position: relative;
     }
 
     .brand-mark::after {
@@ -268,7 +198,7 @@
       position: absolute;
       inset: 9px;
       border-radius: 10px;
-      background: rgba(255, 255, 255, 0.25);
+      background: rgba(255, 255, 255, 0.22);
     }
 
     .brand-text {
@@ -278,50 +208,48 @@
     .brand-title {
       font-size: 24px;
       font-weight: 800;
-      color: var(--text-main);
       letter-spacing: 0.2px;
     }
 
     .brand-subtitle {
       font-size: 12px;
-      color: var(--text-soft);
-      letter-spacing: 0.3px;
+      color: var(--muted);
       text-transform: uppercase;
+      letter-spacing: 0.3px;
     }
 
     .nav-links {
       display: flex;
-      flex-wrap: wrap;
       gap: 12px;
+      flex-wrap: wrap;
       justify-content: flex-end;
     }
 
     .nav-links a {
       padding: 10px 15px;
       border-radius: 999px;
-      color: #dbe6f2;
-      transition: 0.25s ease;
-      border: 1px solid transparent;
+      color: #dce8f5;
       font-weight: 600;
+      transition: background 0.25s ease, transform 0.25s ease, border-color 0.25s ease;
+      border: 1px solid transparent;
     }
 
     .nav-links a:hover {
       background: rgba(255, 255, 255, 0.08);
-      border-color: rgba(255, 255, 255, 0.12);
+      border-color: rgba(255, 255, 255, 0.10);
       transform: translateY(-2px);
     }
 
     .hero {
-      margin-top: 22px;
       display: grid;
       grid-template-columns: 1.15fr 0.85fr;
       gap: 20px;
+      margin-top: 22px;
     }
 
     .hero-main,
     .hero-side {
-      padding: 34px;
-      min-height: 100%;
+      padding: 32px;
     }
 
     .tag {
@@ -331,7 +259,7 @@
       padding: 10px 14px;
       border-radius: 999px;
       background: rgba(255, 255, 255, 0.07);
-      color: #dff5ff;
+      color: #dff4ff;
       font-size: 13px;
       margin-bottom: 18px;
     }
@@ -341,7 +269,7 @@
       height: 9px;
       border-radius: 50%;
       background: var(--green);
-      box-shadow: 0 0 16px var(--green);
+      box-shadow: 0 0 12px var(--green);
       animation: pulse 1.8s infinite;
     }
 
@@ -351,33 +279,33 @@
         opacity: 1;
       }
       50% {
-        transform: scale(1.22);
-        opacity: 0.68;
+        transform: scale(1.18);
+        opacity: 0.72;
       }
     }
 
     .hero h1 {
-      font-size: clamp(40px, 7vw, 76px);
-      line-height: 1.02;
-      letter-spacing: -1.8px;
+      font-size: clamp(38px, 6vw, 72px);
+      line-height: 1.03;
+      letter-spacing: -1.6px;
       margin-bottom: 16px;
       max-width: 760px;
     }
 
-    .hero-highlight {
-      background: linear-gradient(90deg, #ffffff, #ccefff, #78ebff);
+    .hero-accent {
+      background: linear-gradient(90deg, #ffffff, #d0efff, #86e7ff);
       -webkit-background-clip: text;
       background-clip: text;
       color: transparent;
     }
 
     .hero-copy {
-      color: var(--text-soft);
-      font-size: clamp(17px, 2.4vw, 20px);
-      max-width: 760px;
+      color: var(--muted);
+      font-size: clamp(16px, 2.1vw, 20px);
+      max-width: 740px;
     }
 
-    .hero-buttons {
+    .hero-actions {
       display: flex;
       flex-wrap: wrap;
       gap: 14px;
@@ -385,75 +313,79 @@
     }
 
     .btn {
-      padding: 14px 20px;
-      border-radius: 999px;
-      font-weight: 800;
-      transition: 0.28s ease;
       display: inline-flex;
       align-items: center;
       justify-content: center;
       gap: 8px;
+      padding: 14px 20px;
+      border-radius: 999px;
+      font-weight: 800;
+      transition: transform 0.25s ease, opacity 0.25s ease, background 0.25s ease;
       border: 1px solid rgba(255, 255, 255, 0.12);
-    }
-
-    .btn-primary {
-      background: linear-gradient(90deg, rgba(57, 198, 255, 0.95), rgba(86, 255, 204, 0.75));
-      color: #03111b;
-      box-shadow: 0 18px 40px rgba(57, 198, 255, 0.24);
-    }
-
-    .btn-secondary {
-      background: rgba(255, 255, 255, 0.07);
-      color: #ecf4ff;
     }
 
     .btn:hover {
-      transform: translateY(-3px);
+      transform: translateY(-2px);
     }
 
-    .hero-side-grid {
+    .btn-primary {
+      background: linear-gradient(90deg, rgba(55, 198, 255, 0.95), rgba(95, 255, 206, 0.78));
+      color: #03101a;
+      box-shadow: 0 12px 32px rgba(55, 198, 255, 0.20);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.06);
+      color: #edf4ff;
+    }
+
+    .stats-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 14px;
-      margin-top: 14px;
+      margin-top: 10px;
     }
 
-    .metric-card {
-      padding: 20px;
+    .stat-card {
+      padding: 18px;
       border-radius: var(--radius-lg);
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      transition: 0.3s ease;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.10);
+      transition: transform 0.25s ease, background 0.25s ease;
     }
 
-    .metric-card:hover {
-      transform: translateY(-5px);
-      background: rgba(255, 255, 255, 0.08);
+    .stat-card:hover {
+      transform: translateY(-3px);
+      background: rgba(255, 255, 255, 0.07);
     }
 
-    .metric-label {
-      color: var(--text-soft);
+    .stat-label {
+      color: var(--muted);
       font-size: 13px;
       margin-bottom: 6px;
     }
 
-    .metric-value {
+    .stat-value {
       font-size: 28px;
       font-weight: 800;
       color: #ffffff;
     }
 
-    .mini-note {
-      margin-top: 18px;
-      color: var(--text-dim);
+    .updated-box {
+      margin-top: 16px;
+      padding: 14px 16px;
+      border-radius: var(--radius-md);
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--muted);
       font-size: 13px;
+      border: 1px solid rgba(255, 255, 255, 0.08);
     }
 
     section {
       margin-top: 26px;
     }
 
-    .section-panel {
+    .section-card {
       padding: 28px;
     }
 
@@ -461,8 +393,9 @@
       display: flex;
       justify-content: space-between;
       align-items: flex-end;
-      gap: 18px;
-      margin-bottom: 22px;
+      gap: 16px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
     }
 
     .section-title {
@@ -471,32 +404,31 @@
       letter-spacing: -0.8px;
     }
 
-    .section-copy {
-      color: var(--text-soft);
+    .section-subtitle {
+      color: var(--muted);
       font-size: 15px;
       max-width: 640px;
     }
 
-    .headlines-stage {
-      min-height: 230px;
-      position: relative;
+    .headline-stage {
+      min-height: 220px;
       display: grid;
       align-items: center;
     }
 
     .headline-slide {
       display: none;
-      animation: fadeSlide 0.45s ease;
+      animation: fadeInSlide 0.4s ease;
     }
 
     .headline-slide.active {
       display: block;
     }
 
-    @keyframes fadeSlide {
+    @keyframes fadeInSlide {
       from {
         opacity: 0;
-        transform: translateY(12px);
+        transform: translateY(10px);
       }
       to {
         opacity: 1;
@@ -509,25 +441,24 @@
       padding: 8px 12px;
       border-radius: 999px;
       background: var(--primary-soft);
-      color: #d7f8ff;
+      color: #d8f8ff;
       font-size: 12px;
       font-weight: 700;
-      letter-spacing: 0.2px;
       margin-bottom: 14px;
     }
 
     .headline-title {
-      font-size: clamp(24px, 3vw, 40px);
-      line-height: 1.16;
+      font-size: clamp(22px, 3vw, 38px);
       font-weight: 800;
-      max-width: 900px;
+      line-height: 1.16;
+      max-width: 880px;
     }
 
     .headline-dots {
       display: flex;
       gap: 10px;
-      margin-top: 18px;
       flex-wrap: wrap;
+      margin-top: 18px;
     }
 
     .headline-dot {
@@ -536,13 +467,13 @@
       border-radius: 50%;
       background: rgba(255, 255, 255, 0.18);
       cursor: pointer;
-      transition: 0.25s ease;
+      transition: transform 0.2s ease, background 0.2s ease;
     }
 
     .headline-dot.active {
       background: var(--primary);
-      box-shadow: 0 0 14px rgba(57, 198, 255, 0.55);
       transform: scale(1.15);
+      box-shadow: 0 0 10px rgba(55, 198, 255, 0.45);
     }
 
     .tabs {
@@ -555,17 +486,17 @@
     .tab-btn {
       padding: 12px 18px;
       border-radius: 999px;
-      background: rgba(255, 255, 255, 0.06);
       border: 1px solid rgba(255, 255, 255, 0.12);
-      color: #dce9f7;
+      background: rgba(255, 255, 255, 0.06);
+      color: #dce8f5;
       font-weight: 700;
       cursor: pointer;
-      transition: 0.25s ease;
+      transition: background 0.25s ease, transform 0.25s ease, border-color 0.25s ease;
     }
 
     .tab-btn.active {
-      background: linear-gradient(90deg, rgba(57, 198, 255, 0.24), rgba(77, 255, 203, 0.18));
-      border-color: rgba(57, 198, 255, 0.4);
+      background: linear-gradient(90deg, rgba(55, 198, 255, 0.22), rgba(90, 255, 205, 0.16));
+      border-color: rgba(55, 198, 255, 0.35);
       color: #ffffff;
     }
 
@@ -578,26 +509,26 @@
     .mover-card {
       padding: 18px;
       border-radius: var(--radius-lg);
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      min-height: 160px;
-      transition: 0.3s ease;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.10);
+      min-height: 156px;
+      transition: transform 0.25s ease, background 0.25s ease;
     }
 
     .mover-card:hover {
-      transform: translateY(-6px);
-      background: rgba(255, 255, 255, 0.08);
+      transform: translateY(-4px);
+      background: rgba(255, 255, 255, 0.07);
     }
 
     .mover-name {
-      font-size: 19px;
+      font-size: 18px;
       font-weight: 800;
       margin-bottom: 4px;
     }
 
     .mover-symbol {
       font-size: 13px;
-      color: var(--text-soft);
+      color: var(--muted);
       margin-bottom: 14px;
     }
 
@@ -624,25 +555,29 @@
     }
 
     .news-card {
-      min-height: 100%;
-      padding: 22px;
-      border-radius: var(--radius-xl);
-      background: linear-gradient(
-        180deg,
-        rgba(255, 255, 255, 0.10),
-        rgba(255, 255, 255, 0.05)
-      );
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      transition: 0.32s ease;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
       gap: 14px;
+      padding: 22px;
+      border-radius: var(--radius-xl);
+      background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.09),
+        rgba(255, 255, 255, 0.05)
+      );
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      transition: transform 0.28s ease, background 0.28s ease;
+      min-height: 100%;
     }
 
     .news-card:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 24px 60px rgba(0, 0, 0, 0.34);
+      transform: translateY(-5px);
+      background: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.11),
+        rgba(255, 255, 255, 0.06)
+      );
     }
 
     .news-top {
@@ -654,16 +589,16 @@
     }
 
     .news-source {
+      color: var(--primary);
       font-size: 12px;
       font-weight: 800;
-      color: var(--primary);
       letter-spacing: 0.3px;
     }
 
     .news-category {
       padding: 7px 10px;
       border-radius: 999px;
-      background: rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.07);
       color: #dbe8f6;
       font-size: 11px;
       white-space: nowrap;
@@ -676,84 +611,52 @@
     }
 
     .news-summary {
-      color: var(--text-soft);
+      color: var(--muted);
       font-size: 15px;
     }
 
     .news-footer {
       display: flex;
-      align-items: center;
       justify-content: space-between;
+      align-items: center;
       gap: 12px;
       flex-wrap: wrap;
     }
 
     .news-date {
+      color: var(--muted-2);
       font-size: 13px;
-      color: var(--text-dim);
     }
 
     .news-link {
       padding: 10px 14px;
       border-radius: 999px;
-      background: rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.07);
       font-weight: 800;
-      transition: 0.25s ease;
+      transition: background 0.25s ease, transform 0.25s ease;
     }
 
     .news-link:hover {
-      background: rgba(57, 198, 255, 0.16);
-      color: #dff8ff;
-    }
-
-    .logo-cloud {
-      padding: 24px;
-      display: grid;
-      grid-template-columns: repeat(6, 1fr);
-      gap: 14px;
-      align-items: center;
-    }
-
-    .logo-item {
-      height: 72px;
-      border-radius: 20px;
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 14px;
-      transition: 0.28s ease;
-    }
-
-    .logo-item:hover {
-      transform: translateY(-4px) scale(1.02);
-      background: rgba(255, 255, 255, 0.09);
-    }
-
-    .logo-item img {
-      width: 34px;
-      height: 34px;
-      object-fit: contain;
-      filter: drop-shadow(0 4px 12px rgba(0,0,0,0.18));
+      background: rgba(55, 198, 255, 0.15);
+      transform: translateY(-1px);
     }
 
     .empty-state {
       padding: 20px;
       border-radius: var(--radius-lg);
-      border: 1px dashed rgba(255, 255, 255, 0.16);
-      color: var(--text-soft);
+      border: 1px dashed rgba(255, 255, 255, 0.14);
       background: rgba(255, 255, 255, 0.04);
+      color: var(--muted);
     }
 
     footer {
       margin: 28px 0 34px;
     }
 
-    .footer-panel {
+    .footer-box {
       padding: 22px;
       text-align: center;
-      color: var(--text-dim);
+      color: var(--muted-2);
       font-size: 14px;
     }
 
@@ -769,10 +672,6 @@
       .news-grid {
         grid-template-columns: 1fr 1fr;
       }
-
-      .logo-cloud {
-        grid-template-columns: repeat(4, 1fr);
-      }
     }
 
     @media (max-width: 760px) {
@@ -782,14 +681,13 @@
 
       .hero-main,
       .hero-side,
-      .section-panel {
+      .section-card {
         padding: 22px;
       }
 
-      .hero-side-grid,
+      .stats-grid,
       .movers-grid,
-      .news-grid,
-      .logo-cloud {
+      .news-grid {
         grid-template-columns: 1fr;
       }
 
@@ -802,20 +700,42 @@
       }
 
       .headline-title {
-        font-size: 28px;
+        font-size: 27px;
+      }
+
+      .ticker {
+        font-size: 13px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html {
+        scroll-behavior: auto;
+      }
+
+      .ticker-track,
+      .tag-dot {
+        animation: none !important;
+      }
+
+      .reveal,
+      .headline-slide,
+      .btn,
+      .stat-card,
+      .mover-card,
+      .news-card,
+      .nav-links a,
+      .news-link {
+        transition: none !important;
       }
     }
   </style>
 </head>
 <body>
-  <div class="bg-orb orb-a"></div>
-  <div class="bg-orb orb-b"></div>
-  <div class="bg-orb orb-c"></div>
-
   <div class="page">
-    <div class="top-strip-wrap">
+    <div class="top-wrap">
       <div class="container">
-        <div class="ticker panel" id="tickerBar">
+        <div class="ticker glass">
           <div class="ticker-track" id="tickerTrack">
             <span>Loading live market prices...</span>
           </div>
@@ -825,12 +745,12 @@
 
     <header>
       <div class="container">
-        <nav class="nav panel reveal">
+        <nav class="nav glass reveal">
           <div class="brand">
             <div class="brand-mark"></div>
             <div class="brand-text">
               <div class="brand-title">CryptoUAE AI</div>
-              <div class="brand-subtitle">Professional Crypto Intelligence Platform</div>
+              <div class="brand-subtitle">Professional Crypto Media Platform</div>
             </div>
           </div>
 
@@ -838,7 +758,6 @@
             <a href="#headlines">Headlines</a>
             <a href="#movers">Top Movers</a>
             <a href="#news">AI News</a>
-            <a href="#market-icons">Markets</a>
           </div>
         </nav>
       </div>
@@ -846,75 +765,70 @@
 
     <main class="container">
       <section class="hero">
-        <div class="hero-main panel reveal">
+        <div class="hero-main glass reveal">
           <div class="tag">
             <span class="tag-dot"></span>
-            <span>Live prices, AI news, market movers, and automated updates</span>
+            <span>Live crypto prices, AI news, and market movers</span>
           </div>
 
           <h1>
-            The <span class="hero-highlight">Professional</span><br />
-            Crypto Media Experience
+            Premium <span class="hero-accent">Crypto News</span><br />
+            With Live Market Intelligence
           </h1>
 
           <p class="hero-copy">
-            CryptoUAE AI delivers real-time price tracking, AI-powered news coverage,
-            top bullish and bearish market movers, and a premium reading experience
-            designed for a modern crypto audience.
+            CryptoUAE AI delivers real time market visibility, AI powered crypto coverage,
+            and a polished reading experience designed for a serious modern audience.
           </p>
 
-          <div class="hero-buttons">
+          <div class="hero-actions">
             <a class="btn btn-primary" href="#news">Explore AI News</a>
             <a class="btn btn-secondary" href="#movers">View Top Movers</a>
           </div>
         </div>
 
-        <div class="hero-side panel reveal">
-          <div class="section-copy">
-            Real-time market intelligence built for a premium crypto brand.
-          </div>
-
-          <div class="hero-side-grid">
-            <div class="metric-card">
-              <div class="metric-label">Coins in live ticker</div>
-              <div class="metric-value" id="statCoins">0</div>
+        <div class="hero-side glass reveal">
+          <div class="stats-grid">
+            <div class="stat-card">
+              <div class="stat-label">Coins in ticker</div>
+              <div class="stat-value" id="statCoins">0</div>
             </div>
 
-            <div class="metric-card">
-              <div class="metric-label">Top AI headlines</div>
-              <div class="metric-value" id="statHeadlines">0</div>
+            <div class="stat-card">
+              <div class="stat-label">AI headlines</div>
+              <div class="stat-value" id="statHeadlines">0</div>
             </div>
 
-            <div class="metric-card">
-              <div class="metric-label">Bullish movers</div>
-              <div class="metric-value" id="statBullish">0</div>
+            <div class="stat-card">
+              <div class="stat-label">Bullish movers</div>
+              <div class="stat-value" id="statBullish">0</div>
             </div>
 
-            <div class="metric-card">
-              <div class="metric-label">Bearish movers</div>
-              <div class="metric-value" id="statBearish">0</div>
+            <div class="stat-card">
+              <div class="stat-label">Bearish movers</div>
+              <div class="stat-value" id="statBearish">0</div>
             </div>
           </div>
 
-          <p class="mini-note">
-            Updated automatically from your live data pipeline.
-          </p>
+          <div class="updated-box" id="lastUpdated">
+            Waiting for the latest market update...
+          </div>
         </div>
       </section>
 
       <section id="headlines" class="reveal">
-        <div class="section-panel panel">
+        <div class="section-card glass">
           <div class="section-head">
             <div>
               <h2 class="section-title">Top Headlines</h2>
-              <p class="section-copy">
-                A premium rotating headline area for the most important crypto stories.
+              <p class="section-subtitle">
+                A clean, premium rotating headline section for the most important crypto stories.
               </p>
             </div>
           </div>
 
-          <div class="headlines-stage" id="headlineSlider">
-            <div class="empty-state">Waiting for AI headline updates...</div>
+          <div class="headline-stage" id="headlineSlider">
+            <div class="empty-state">Waiting for AI headlines...</div>
           </div>
 
           <div class="headline-dots" id="headlineDots"></div>
@@ -922,12 +836,12 @@
       </section>
 
       <section id="movers" class="reveal">
-        <div class="section-panel panel">
+        <div class="section-card glass">
           <div class="section-head">
             <div>
               <h2 class="section-title">Top Movers</h2>
-              <p class="section-copy">
-                Switch between daily gainers and daily losers in one professional market panel.
+              <p class="section-subtitle">
+                Switch between today’s top bullish and top bearish crypto movers.
               </p>
             </div>
           </div>
@@ -944,58 +858,30 @@
       </section>
 
       <section id="news" class="reveal">
-        <div class="section-panel panel">
+        <div class="section-card glass">
           <div class="section-head">
             <div>
               <h2 class="section-title">AI News Feed</h2>
-              <p class="section-copy">
-                Structured, premium style news cards generated from your automated AI news workflow.
+              <p class="section-subtitle">
+                Structured AI powered crypto news cards updated automatically from your workflow.
               </p>
             </div>
           </div>
 
           <div class="news-grid" id="newsGrid">
-            <div class="empty-state">Waiting for AI news updates...</div>
+            <div class="empty-state">Waiting for AI news...</div>
           </div>
         </div>
       </section>
 
-      <section id="market-icons" class="reveal">
-        <div class="section-panel panel">
-          <div class="section-head">
-            <div>
-              <h2 class="section-title">Market Coverage</h2>
-              <p class="section-copy">
-                Coverage across major crypto assets and trending market names.
-              </p>
-            </div>
-          </div>
-
-                   <div class="logo-cloud">
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/btc/200" alt="Bitcoin" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/eth/200" alt="Ethereum" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/bnb/200" alt="BNB" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/sol/200" alt="Solana" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/xrp/200" alt="XRP" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ada/200" alt="Cardano" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/doge/200" alt="Dogecoin" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/trx/200" alt="TRON" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/link/200" alt="Chainlink" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/avax/200" alt="Avalanche" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ltc/200" alt="Litecoin" /></div>
-            <div class="logo-item"><img src="https://cryptoicons.org/api/icon/ton/200" alt="Toncoin" /></div>
-          </div>
-        </div>
-      </section>
-
-      <footer class="reveal">
-        <div class="footer-panel panel">
-          <p>CryptoUAE AI • Live market data • AI-powered crypto publishing • Premium digital media presentation</p>
+      <footer>
+        <div class="footer-box glass reveal">
+          CryptoUAE AI • Live market data • AI powered crypto publishing
         </div>
       </footer>
     </main>
   </div>
-  <script>
+<script>
     let marketData = null;
     let newsData = null;
     let activeTab = "bullish";
@@ -1114,10 +1000,9 @@
       sliderTimer = setInterval(() => {
         sliderIndex = (sliderIndex + 1) % headlines.length;
         updateSlider(headlines);
-      }, 3500);
+      }, 3800);
     }
-
-    function renderMovers() {
+  function renderMovers() {
       const moversGrid = document.getElementById("moversGrid");
 
       if (!marketData || !marketData[activeTab] || !marketData[activeTab].length) {
@@ -1143,11 +1028,10 @@
     function renderNews(articles) {
       const newsGrid = document.getElementById("newsGrid");
 
-    if (!articles || !articles.length) {
+      if (!articles || !articles.length) {
         newsGrid.innerHTML = `<div class="empty-state">No AI news articles available yet.</div>`;
         return;
       }
-
       newsGrid.innerHTML = articles.map(article => `
         <article class="news-card">
           <div class="news-top">
@@ -1174,6 +1058,28 @@
         marketData && marketData.bearish ? marketData.bearish.length : 0;
     }
 
+    function updateLastUpdated() {
+      const el = document.getElementById("lastUpdated");
+      const marketUpdated = marketData && marketData.updated_at ? marketData.updated_at : "";
+      const newsUpdated = newsData && newsData.updated_at ? newsData.updated_at : "";
+
+      if (marketUpdated && newsUpdated) {
+        el.textContent = `Market updated: ${marketUpdated} | News updated: ${newsUpdated}`;
+        return;
+      }
+
+      if (marketUpdated) {
+        el.textContent = `Market updated: ${marketUpdated}`;
+        return;
+      }
+
+      if (newsUpdated) {
+        el.textContent = `News updated: ${newsUpdated}`;
+        return;
+      }
+      el.textContent = "Waiting for the latest market update...";
+    }
+
     function bindTabs() {
       document.querySelectorAll(".tab-btn").forEach(button => {
         button.addEventListener("click", () => {
@@ -1196,8 +1102,7 @@
 
       document.querySelectorAll(".reveal").forEach(item => observer.observe(item));
     }
-
-    async function loadData() {
+async function loadData() {
       try {
         marketData = await fetchJson("./data/market.json");
         renderTicker(marketData.prices || []);
@@ -1216,6 +1121,8 @@
         document.getElementById("headlineSlider").innerHTML = `<div class="empty-state">Headline data could not be loaded.</div>`;
         document.getElementById("newsGrid").innerHTML = `<div class="empty-state">AI news could not be loaded.</div>`;
       }
+
+      updateLastUpdated();
     }
 
     bindTabs();
