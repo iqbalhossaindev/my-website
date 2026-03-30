@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-03-30 06:20 UTC",
+  "updated_at": "2026-03-30 10:49 UTC",
   "headlines": [
-    "Confirm timeframe and sources before I search"
+    "Do you want US-focused crypto headlines or global ones? Please confirm so I can fetch the most relevant stories from the last 24 hours."
   ],
-  "articles": [
-    {
-      "title": "Clarify time window",
-      "summary": "Do you mean the most recent 24 hours ending today (March 30, 2026)? I can fetch news from that window or widen to 48–72 hours if coverage is thin.",
-      "source": "assistant",
-      "url": "",
-      "published_at": "2026-03-30",
-      "category": "meta"
-    },
-    {
-      "title": "Confirm preferred outlets",
-      "summary": "Should I prioritize US/English outlets (CoinDesk, Reuters, Bloomberg, Cointelegraph, The Block) or include wider/global/local sources?",
-      "source": "assistant",
-      "url": "",
-      "published_at": "2026-03-30",
-      "category": "meta"
-    }
-  ]
+  "articles": []
 }
