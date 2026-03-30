@@ -1,5 +1,76 @@
 {
-  "updated_at": "2026-03-30 21:11 UTC",
-  "headlines": [],
-  "articles": []
+  "updated_at": "2026-03-30 23:53 UTC",
+  "headlines": [
+    "Bitcoin near $67–68K after post‑regulatory ‘sell the news’ dip",
+    "Ether holding near $2,000 as ETF outflows and macro pressure weigh",
+    "Bitcoin ETFs saw weak flows / recent outflows pressure markets",
+    "Bittensor (TAO) cools after 140% AI‑driven rally",
+    "Chainlink (LINK) consolidates in $8–$9 range after recent moves‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎"
+  ],
+  "articles": [
+    {
+      "title": "Bitcoin stabilizes near $67–68K after regulatory-driven sell‑off",
+      "summary": "Bitcoin traded around $67–68K after a sharp pullback that followed recent U.S. regulatory milestones and a big options expiry—markets call it a classic “buy the rumor, sell the news” move.",
+      "source": "ad-hoc-news (market recap)",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Bitcoin / Market"
+    },
+    {
+      "title": "Ether hovers near $2,000 as macro headwinds and ETP outflows persist",
+      "summary": "Ether remained close to the $2,000 level amid weak market sentiment and recent outflows from spot Ether ETPs, leaving the token range‑bound for now.",
+      "source": "ad-hoc-news (ETH market update)",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Ethereum / ETF"
+    },
+    {
+      "title": "Spot Bitcoin ETFs show recent outflows, signaling short‑term risk",
+      "summary": "U.S. spot Bitcoin ETFs recorded notable net outflows in the latest week, reversing some earlier inflow momentum and weighing on near‑term BTC price action.",
+      "source": "Yellow.com (ETF flow report)",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "ETF / Market"
+    },
+    {
+      "title": "Bittensor (TAO) cools after a 140% AI‑sector rally",
+      "summary": "TAO surged on AI narratives and then consolidated around $300–$320 after a 140% run—traders are watching for either a follow‑through or a profit‑taking correction.",
+      "source": "CoinMarketCap Top Stories",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Altcoins / Market"
+    },
+    {
+      "title": "Chainlink (LINK) holds $8–$9 range as traders wait for catalyst",
+      "summary": "LINK traded in a tight $8–$9 band as volume eased and market participants paused for clearer direction—technicals show short‑term consolidation.",
+      "source": "CoinMarketCap Top Stories",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Altcoins / Oracle"
+    },
+    {
+      "title": "XRP outperforms peers after regulatory clarity, but moves stay muted",
+      "summary": "XRP showed small gains as the market digested regulatory clarity around token classifications—price action remains careful without fresh ETF catalysts.",
+      "source": "ad-hoc-news (XRP price note)",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Regulation / Altcoin"
+    },
+    {
+      "title": "Dogecoin faces selling pressure after a technical breakdown",
+      "summary": "DOGE slipped below key short‑term support, triggering selling pressure and raising the risk of further downside in the memecoin sector.",
+      "source": "ad-hoc-news (Dogecoin technical update)",
+      "url": "",
+      "published_at": "Mar 30, 2026",
+      "category": "Altcoin / Market"
+    },
+    {
+      "title": "BNP Paribas rolls out Bitcoin and Ethereum ETNs in Europe",
+      "summary": "Major bank BNP Paribas launched ETN products tied to Bitcoin and Ethereum for European investors, expanding regulated traditional finance access to crypto.",
+      "source": "Cryptopolitan (BNP Paribas ETNs)",
+      "url": "",
+      "published_at": "Mar 28–30, 2026",
+      "category": "ETF / Institutional"
+    }
+  ]
 }
