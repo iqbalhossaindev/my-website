@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-03-30 18:06 UTC",
+  "updated_at": "2026-03-30 21:11 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66789,
-      "change_24h": 0.740044328685602
+      "price": 66659,
+      "change_24h": 0.23403441277877113
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2039.13,
-      "change_24h": 2.437846159274157
+      "price": 2025.08,
+      "change_24h": 1.2109102692494627
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 612.68,
-      "change_24h": 0.7107783794727432
+      "price": 609.77,
+      "change_24h": 0.0722022524483521
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.23,
-      "change_24h": 2.1356093118570025
+      "price": 82.8,
+      "change_24h": 1.1436165385559305
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.33,
-      "change_24h": 0.8533694445511953
+      "change_24h": 0.18745921173256438
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246283,
-      "change_24h": 2.253956215222069
+      "price": 0.243867,
+      "change_24h": 1.2704862851800434
     }
   ],
   "bullish": [
     {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.31,
+      "change_24h": 9.150377585985758
+    },
+    {
       "name": "Jupiter",
       "symbol": "JUP",
-      "price": 0.151241,
-      "change_24h": 6.599339915856605
+      "price": 0.150706,
+      "change_24h": 5.697000615515024
     },
     {
-      "name": "Shiba Inu",
-      "symbol": "SHIB",
-      "price": 6.03e-06,
-      "change_24h": 4.7801431897927165
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 225.87,
+      "change_24h": 2.764221034815761
     },
     {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.06137,
-      "change_24h": 4.234796506714673
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price": 0.674196,
+      "change_24h": 2.2142833052128807
     },
     {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "price": 3.49,
-      "change_24h": 4.075970961629459
-    },
-    {
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "price": 8.7,
-      "change_24h": 3.305116417767028
+      "name": "Sui",
+      "symbol": "SUI",
+      "price": 0.861476,
+      "change_24h": 2.1422182194179165
     }
   ],
   "bearish": [
     {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.04383207,
-      "change_24h": -10.273554608914557
+      "price": 0.04326219,
+      "change_24h": -11.95542591320397
+    },
+    {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00781299,
+      "change_24h": -7.210258885179571
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01024005,
-      "change_24h": -8.782703296909514
+      "price": 0.01048453,
+      "change_24h": -6.722819168745185
     },
     {
       "name": "Hyperliquid",
       "symbol": "HYPE",
-      "price": 37.31,
-      "change_24h": -3.769781823989201
+      "price": 36.89,
+      "change_24h": -4.781865361440422
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 307.31,
-      "change_24h": -2.7780112902900633
-    },
-    {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "price": 1.93,
-      "change_24h": -2.5396352024202415
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 1.74,
+      "change_24h": -3.8557051805280786
     }
   ]
 }
