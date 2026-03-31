@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-03-31 20:00 UTC",
+  "updated_at": "2026-03-31 22:01 UTC",
   "headlines": [
-    "Tether hires KPMG for first full audit of USDT",
-    "SEC and CFTC publish joint crypto taxonomy: many tokens labeled 'digital commodities'",
-    "Strategy Inc (MicroStrategy) confirms 762,099 BTC holding (March 29 filing)",
-    "NYSE removes 25,000-contract cap on Bitcoin & Ether ETF options",
-    "Morgan Stanley files amended S-1 for its spot Bitcoin ETF (MSBT) as product readies for launch"
+    "Tether hires KPMG for first full audit of USDT reserves (moves toward U.S. expansion)",
+    "FTX Recovery Trust to begin $2.2B creditor distribution on March 31, 2026",
+    "Google quantum research tightens deadline for post‑quantum crypto upgrades",
+    "Morgan Stanley advances its direct spot Bitcoin ETF filing (MSBT) with SEC amendments",
+    "BlackRock updates filing for a staking‑enabled Ethereum ETF (staking fee disclosed in S‑1 amendment)"
   ],
   "articles": [
     {
-      "title": "Tether hires KPMG for first full audit of USDT",
-      "summary": "Tether said it has engaged a Big Four firm (reported as KPMG) to perform the first full independent audit of reserves backing USDT. The move is aimed at improving transparency for the $180B+ stablecoin and easing regulatory concerns. (reported Mar 24–27, 2026).",
-      "source": "The Block / Bloomberg Law",
+      "title": "Tether hires KPMG for first full audit of USDT (transparency push)",
+      "summary": "Tether said it engaged a Big‑Four auditor (reported as KPMG) to run the first full financial audit of USDT reserves — a major transparency step as stablecoin rules and U.S. expansion plans move forward. (reported March 24–27, 2026)",
+      "source": "Financial Times; GSR",
       "url": "",
-      "published_at": "Mar 27, 2026",
-      "category": "stablecoin"
+      "published_at": "Mar 24–27, 2026",
+      "category": "stablecoin / regulation"
     },
     {
-      "title": "SEC and CFTC publish joint crypto taxonomy; many tokens labeled 'digital commodities'",
-      "summary": "U.S. regulators issued a joint interpretive guidance and taxonomy that classifies many major tokens — including Bitcoin and Ether — as ‘digital commodities’ instead of securities. The guidance aims to give clearer jurisdictional rules and speed institutional adoption. (SEC press release: Mar 17, 2026).",
-      "source": "U.S. SEC press release / industry coverage",
+      "title": "FTX Recovery Trust to distribute about $2.2 billion to creditors on March 31, 2026",
+      "summary": "The FTX Recovery Trust announced a fourth distribution of roughly $2.2B to eligible creditors starting March 31, 2026 — a major liquidity milestone that may affect crypto markets and claimant payouts over the next few days.",
+      "source": "FTX press release (PR Newswire)",
       "url": "",
-      "published_at": "Mar 17, 2026",
-      "category": "regulation"
+      "published_at": "Mar 18, 2026 (distribution begins Mar 31, 2026)",
+      "category": "exchange / bankruptcy"
     },
     {
-      "title": "Strategy Inc (MicroStrategy) confirms 762,099 BTC holding in SEC filing",
-      "summary": "In a Form 8‑K filed Mar 30, Strategy Inc reported it held about 762,099 BTC as of March 29, 2026 and said it made no bitcoin buys or ATM share sales between March 23–29. The filing updates investors on the company’s bitcoin inventory and legal matters. (filed Mar 30, 2026).",
-      "source": "SEC filing (Form 8‑K) via EDGAR",
+      "title": "Google Research tightens estimated quantum threat to blockchain cryptography",
+      "summary": "New Google Research analyses (reported March 31, 2026) suggest far lower resource estimates for running Shor‑style attacks on ECDSA keys, accelerating calls for post‑quantum upgrades across Bitcoin, Ethereum and major chains — Google reportedly withheld full circuits and published a verification proof instead.",
+      "source": "BeInCrypto; Crypto Valley Journal",
       "url": "",
-      "published_at": "Mar 30, 2026",
-      "category": "Bitcoin / institutional"
+      "published_at": "Mar 31, 2026",
+      "category": "security / Bitcoin / Ethereum"
     },
     {
-      "title": "NYSE drops 25,000-contract cap on Bitcoin & Ether ETF options",
-      "summary": "NYSE Arca and related exchanges removed the prior 25,000‑contract position limit on options for major Bitcoin and Ether ETFs, opening the door to larger and more flexible ETF options trading (including FLEX-style trades). The change was made operative with an SEC waiver. (announced Mar 22, 2026).",
-      "source": "The Block / industry outlets",
+      "title": "Morgan Stanley advances direct spot Bitcoin ETF filing (MSBT)",
+      "summary": "Morgan Stanley filed a second amendment to its spot Bitcoin ETF registration (ticker MSBT), adding operational details and signaling progress as big banks race to issue proprietary spot BTC funds to compete with incumbents.",
+      "source": "CryptoAdventure; KuCoin coverage",
       "url": "",
-      "published_at": "Mar 22, 2026",
-      "category": "ETF / markets"
+      "published_at": "Mar 18–21, 2026",
+      "category": "ETF / Bitcoin"
     },
     {
-      "title": "Morgan Stanley advances MSBT spot-Bitcoin ETF with amended S-1 filing",
-      "summary": "Morgan Stanley filed an amended S‑1 for its proposed spot Bitcoin ETF (ticker MSBT), refining seed-share and custody details as it moves to list on NYSE Arca. The amendment signals big banks continue racing into the spot‑BTC ETF market. (amendments filed mid–late March 2026).",
-      "source": "SEC filings reported by financial media",
+      "title": "BlackRock updates S‑1 for staking‑enabled Ethereum ETF (staking fee disclosed)",
+      "summary": "BlackRock’s amended filings for a staking‑enabled spot Ethereum ETF outline staking economics and fees — a development that could widen regulated ETH access if the SEC approves staking inside an ETF.",
+      "source": "CoinPaper; Coindoo coverage",
       "url": "",
-      "published_at": "Mar 17–20, 2026",
-      "category": "ETF / institutional"
+      "published_at": "February–March 2026 (amendments in March 2026)",
+      "category": "ETF / Ethereum"
     },
     {
-      "title": "Quarterly/options expiries drive recent volatility: large BTC & ETH options expiry cleared",
-      "summary": "A very large Bitcoin and Ether options expiry in late March cleared roughly $13–16 billion notional, forcing hedging flows and short-covering that added short‑term volatility across spot and altcoin markets. Traders and funds repositioned after the expiry. (market moves Mar 27–30, 2026).",
-      "source": "DailyCoin / market trackers",
+      "title": "Ethereum Foundation posts a large ETH staking deposit (network & staking signal)",
+      "summary": "Reports show the Ethereum Foundation or related activity moved a record‑sized ETH deposit into staking, reinforcing on‑chain demand for ETH and signalling continued institutional interest in staking returns.",
+      "source": "BeInCrypto",
       "url": "",
-      "published_at": "Mar 27–30, 2026",
-      "category": "markets / derivatives"
+      "published_at": "Feb–Mar 2026 (reported Mar 30, 2026)",
+      "category": "Ethereum / staking"
     },
     {
-      "title": "NYSE teams with Securitize to build 24/7 tokenized securities platform",
-      "summary": "The NYSE announced a memorandum with Securitize to develop an NYSE-linked Digital Trading Platform that would support issuer-sponsored tokenized securities, enable on‑chain settlement, and target 24/7 trading hours. This is a major step toward tokenized stocks and ETFs. (announced Mar 24, 2026).",
-      "source": "Investing.com / Benzinga / industry reports",
+      "title": "TokenInsight report: Bitget leads BTC and ETH futures liquidity in March",
+      "summary": "A TokenInsight liquidity report (published Mar 31, 2026) ranked Bitget top for BTC and ETH futures liquidity and execution quality — useful for traders watching venue risk and order execution.",
+      "source": "GlobeNewswire / TokenInsight (report)",
       "url": "",
-      "published_at": "Mar 24, 2026",
-      "category": "infrastructure / tokenization"
+      "published_at": "Mar 31, 2026",
+      "category": "exchange / markets"
     },
     {
-      "title": "Ethereum rebounds near $2,070 as markets stabilize",
-      "summary": "Ether climbed back to roughly $2,070 in late‑March trading after recent pullbacks, leading a modest crypto market recovery as traders reacted to ETF and regulatory developments. Short‑term momentum and ETF flows are cited as drivers. (price action Mar 30, 2026).",
-      "source": "market news roundups / price reports",
+      "title": "Grayscale launches Avalanche staking ETF (GAVA) on Nasdaq",
+      "summary": "Grayscale launched a Nasdaq-listed Avalanche staking ETF that can stake a portion of AVAX holdings for yield — another example of traditional asset managers packaging staking exposure for mainstream investors.",
+      "source": "Crypto Valley Journal",
       "url": "",
-      "published_at": "Mar 30, 2026",
-      "category": "Ethereum / markets"
+      "published_at": "Mar 2026",
+      "category": "ETF / altcoin (AVAX)"
     }
   ]
 }
