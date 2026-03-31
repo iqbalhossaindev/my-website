@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-03-31 22:01 UTC",
+  "updated_at": "2026-03-31 23:51 UTC",
   "headlines": [
-    "Tether hires KPMG for first full audit of USDT reserves (moves toward U.S. expansion)",
-    "FTX Recovery Trust to begin $2.2B creditor distribution on March 31, 2026",
-    "Google quantum research tightens deadline for post‑quantum crypto upgrades",
-    "Morgan Stanley advances its direct spot Bitcoin ETF filing (MSBT) with SEC amendments",
-    "BlackRock updates filing for a staking‑enabled Ethereum ETF (staking fee disclosed in S‑1 amendment)"
+    "FTX Recovery Trust starts $2.2B creditor distribution (Mar 31, 2026)",
+    "Ethereum reclaims $2,000 as Q1 ends (Mar 31, 2026)",
+    "Weekly market note: ETF redemptions weigh on Bitcoin (Mar 30, 2026)",
+    "Morgan Stanley advances spot Bitcoin ETF filing (MSBT) (Mar 17–20, 2026)",
+    "Aave v4 launches on Ethereum (Mar 30, 2026) — major DeFi upgrade goes live"
   ],
   "articles": [
     {
-      "title": "Tether hires KPMG for first full audit of USDT (transparency push)",
-      "summary": "Tether said it engaged a Big‑Four auditor (reported as KPMG) to run the first full financial audit of USDT reserves — a major transparency step as stablecoin rules and U.S. expansion plans move forward. (reported March 24–27, 2026)",
-      "source": "Financial Times; GSR",
-      "url": "",
-      "published_at": "Mar 24–27, 2026",
-      "category": "stablecoin / regulation"
-    },
-    {
-      "title": "FTX Recovery Trust to distribute about $2.2 billion to creditors on March 31, 2026",
-      "summary": "The FTX Recovery Trust announced a fourth distribution of roughly $2.2B to eligible creditors starting March 31, 2026 — a major liquidity milestone that may affect crypto markets and claimant payouts over the next few days.",
-      "source": "FTX press release (PR Newswire)",
-      "url": "",
-      "published_at": "Mar 18, 2026 (distribution begins Mar 31, 2026)",
+      "title": "FTX Recovery Trust begins $2.2B fourth distribution to creditors",
+      "summary": "FTX’s Recovery Trust started a roughly $2.2 billion payout to eligible creditors on March 31, 2026. Payments will be delivered through distribution partners such as BitGo, Kraken or Payoneer and should reach verified claimants within a few business days.",
+      "source": "PR Newswire / TMCnet",
+      "url": "https://www.tmcnet.com/usubmit/-ftx-recovery-trust-distribute-approximately-22-billion-creditors-/2026/03/18/10350628.htm",
+      "published_at": "March 18, 2026 (distribution begins March 31, 2026)",
       "category": "exchange / bankruptcy"
     },
     {
-      "title": "Google Research tightens estimated quantum threat to blockchain cryptography",
-      "summary": "New Google Research analyses (reported March 31, 2026) suggest far lower resource estimates for running Shor‑style attacks on ECDSA keys, accelerating calls for post‑quantum upgrades across Bitcoin, Ethereum and major chains — Google reportedly withheld full circuits and published a verification proof instead.",
-      "source": "BeInCrypto; Crypto Valley Journal",
-      "url": "",
-      "published_at": "Mar 31, 2026",
-      "category": "security / Bitcoin / Ethereum"
+      "title": "Ethereum reclaims the $2,000 level as Q1 closes",
+      "summary": "Ether rose back above $2,000 on March 31, 2026 after recent volatility, giving traders some relief as the first quarter ends. Analysts point to a mix of ETF/staking flows, macro moves and technical buying that lifted ETH through the psychological level.",
+      "source": "ad-hoc-news",
+      "url": "https://www.ad-hoc-news.de/news/ueberblick/ether-reclaims-2-000-amid-bearish-momentum-as-q1-2026-ends-on-weak-note/69040151",
+      "published_at": "March 31, 2026",
+      "category": "Ethereum / market"
     },
     {
-      "title": "Morgan Stanley advances direct spot Bitcoin ETF filing (MSBT)",
-      "summary": "Morgan Stanley filed a second amendment to its spot Bitcoin ETF registration (ticker MSBT), adding operational details and signaling progress as big banks race to issue proprietary spot BTC funds to compete with incumbents.",
-      "source": "CryptoAdventure; KuCoin coverage",
-      "url": "",
-      "published_at": "Mar 18–21, 2026",
-      "category": "ETF / Bitcoin"
+      "title": "Weekly market note: ETF redemptions pressured Bitcoin late March",
+      "summary": "A March 30 market update shows Bitcoin fell after accelerated ETF redemptions and macro headwinds; institutional flows remain a key driver for BTC price movement. The note highlights how ETF positioning and derivatives expiries can create sharp price swings.",
+      "source": "GSR weekly update",
+      "url": "https://www.gsr.io/insights/gsr-weekly-update-march-30th-2026",
+      "published_at": "March 30, 2026",
+      "category": "market / ETF / Bitcoin"
     },
     {
-      "title": "BlackRock updates S‑1 for staking‑enabled Ethereum ETF (staking fee disclosed)",
-      "summary": "BlackRock’s amended filings for a staking‑enabled spot Ethereum ETF outline staking economics and fees — a development that could widen regulated ETH access if the SEC approves staking inside an ETF.",
-      "source": "CoinPaper; Coindoo coverage",
-      "url": "",
-      "published_at": "February–March 2026 (amendments in March 2026)",
-      "category": "ETF / Ethereum"
+      "title": "Morgan Stanley files amended S‑1 for spot Bitcoin ETF (ticker MSBT)",
+      "summary": "Morgan Stanley submitted a second amendment to its S‑1 registration for a spot Bitcoin ETF that would list on NYSE Arca under ticker MSBT. The filing added operational details (custody, basket size and seed capital) and signaled another major Wall Street entrant into the spot-BTC ETF market.",
+      "source": "The Block",
+      "url": "https://www.theblock.co/post/394448/morgan-stanley-amended-s-1-filing",
+      "published_at": "March 19, 2026 (amendments March 17–20, 2026)",
+      "category": "ETF / institutional"
     },
     {
-      "title": "Ethereum Foundation posts a large ETH staking deposit (network & staking signal)",
-      "summary": "Reports show the Ethereum Foundation or related activity moved a record‑sized ETH deposit into staking, reinforcing on‑chain demand for ETH and signalling continued institutional interest in staking returns.",
-      "source": "BeInCrypto",
-      "url": "",
-      "published_at": "Feb–Mar 2026 (reported Mar 30, 2026)",
-      "category": "Ethereum / staking"
+      "title": "Aave V4 goes live on Ethereum — major on‑chain lending upgrade",
+      "summary": "Aave launched its V4 upgrade on Ethereum on March 30, 2026. The update adds new money‑market features and cross‑protocol integrations designed to cut user friction and lower costs for borrowers and lenders.",
+      "source": "NullTX (reporting Aave announcement)",
+      "url": "https://nulltx.com/aave-v4-goes-live-on-ethereum-marking-a-major-step-toward-the-future-of-onchain-lending/",
+      "published_at": "March 30, 2026",
+      "category": "DeFi / Ethereum"
     },
     {
-      "title": "TokenInsight report: Bitget leads BTC and ETH futures liquidity in March",
-      "summary": "A TokenInsight liquidity report (published Mar 31, 2026) ranked Bitget top for BTC and ETH futures liquidity and execution quality — useful for traders watching venue risk and order execution.",
-      "source": "GlobeNewswire / TokenInsight (report)",
-      "url": "",
-      "published_at": "Mar 31, 2026",
-      "category": "exchange / markets"
+      "title": "Ramp launches stablecoin accounts on Base for corporate customers",
+      "summary": "Payments platform Ramp launched stablecoin accounts on Coinbase’s Base Layer‑2 on March 30, 2026, offering corporate customers on‑chain USDC accounts to speed settlement and cut cross‑border costs. The move highlights growing real‑world stablecoin use by businesses.",
+      "source": "SpendNode / Ramp announcement",
+      "url": "https://www.spendnode.io/blog/ramp-stablecoin-accounts-base-coinbase-corporate-treasury-50000-businesses/",
+      "published_at": "March 30–31, 2026",
+      "category": "stablecoin / real‑world adoption"
     },
     {
-      "title": "Grayscale launches Avalanche staking ETF (GAVA) on Nasdaq",
-      "summary": "Grayscale launched a Nasdaq-listed Avalanche staking ETF that can stake a portion of AVAX holdings for yield — another example of traditional asset managers packaging staking exposure for mainstream investors.",
-      "source": "Crypto Valley Journal",
-      "url": "",
-      "published_at": "Mar 2026",
-      "category": "ETF / altcoin (AVAX)"
+      "title": "Binance Research flags five crypto risk signals (ETF rulings, geopolitics, stablecoin stress)",
+      "summary": "On March 30, 2026 Binance Research warned of five converging risk signals — including delayed SEC ETF rulings and geopolitical tensions — that could weaken crypto liquidity and boost volatility. The note put market participants on alert for liquidity events and policy shocks.",
+      "source": "BeInCrypto reporting Binance Research",
+      "url": "https://beincrypto.com/binance-macro-pulse-crypto-risk-signals/",
+      "published_at": "March 30, 2026",
+      "category": "market / regulation / macro"
+    },
+    {
+      "title": "Tether Gold (XAUt) lists on Tokocrypto and expands spot pairs",
+      "summary": "Tether Gold (XAUt) began trading on Tokocrypto with multiple pairs (XAUt/USDT, XAUt/USDC, XAUt/BTC) around March 30–31, 2026, widening tokenized‑gold access on major exchanges. Tokenized real‑world assets continue to spread across chains and venues.",
+      "source": "Tokocrypto support notice / CoinMarketCap coverage",
+      "url": "https://support.tokocrypto.com/hc/en-us/articles/44690145258253-New-Listing-Alert-Tether-Gold-XAU-is-Now-Available-on-Tokocrypto",
+      "published_at": "March 30–31, 2026",
+      "category": "stablecoin / RWA / exchange listing"
     }
   ]
 }
