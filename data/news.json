@@ -1,76 +1,7 @@
 {
-  "updated_at": "2026-03-31 09:47 UTC",
+  "updated_at": "2026-03-31 12:07 UTC",
   "headlines": [
-    "SEC/CFTC publish crypto asset rules",
-    "SEC issues final rulings on 91 crypto ETF applications",
-    "Bitcoin price & market update (Mar 30–31, 2026)",
-    "BlackRock launches staked‑ETH ETF (institutional staking product)",
-    "Circle / USDC panic after draft Clarity Act language and market moves','Big institutional Bitcoin buys continue (Metaplanet, Michael Saylor)','FTX creditor distributions scheduled to begin March 31, 2026','XRP declared commodity; XRP ETFs and flows gain attention"
+    "Do you want US-focused stories only, or global crypto news?"
   ],
-  "articles": [
-    {
-      "title": "U.S. regulators publish a crypto asset interpretive release clarifying which tokens are securities vs commodities",
-      "summary": "On March 17–March 2026 U.S. regulators issued an interpretive release that defines categories (digital commodities, collectibles, tools, stablecoins and digital securities). The guidance aims to clear legal uncertainty and shape how exchanges, funds and issuers are regulated going forward.",
-      "source": "Goodwin (law‑firm alert) / IFC Review",
-      "url": "https://www.gtlaw.com/-/media/files/insights/alerts/2026/03/gt-alertsec-clarifies-status-of-crypto-assets-under-federal-securities-laws-signals-potential-exemptive-and-safe-harbor-framework.pdf?rev=fb75119431cd43ba929d53bfd31b1bf6",
-      "published_at": "March 17, 2026",
-      "category": "Regulation"
-    },
-    {
-      "title": "SEC’s deadline rulings on 91 crypto ETF applications drove major market moves",
-      "summary": "The SEC’s statutory deadline for final rulings on 91 pending crypto ETF filings landed in late March 2026, forcing decisions that reshaped ETF expectations and triggered a short‑term \"sell the news\" reaction across crypto markets.",
-      "source": "Ethers.news / market wrap",
-      "url": "https://ethers.news/articles/today-is-cryptos-most-consequential-day-secs-final-deadline-on-91-etf-applications-collides-with-17b-options-expiry--max-pain-at-75000",
-      "published_at": "March 27, 2026",
-      "category": "ETF / Regulation"
-    },
-    {
-      "title": "Bitcoin market update: price wobbles after regulatory wave (Mar 30–31, 2026)",
-      "summary": "Bitcoin traded near mid‑$60K to high‑$60K on March 30–31, 2026 as traders digested the late‑March regulatory rulings, option expiries and macro headwinds. The market showed volatility and brief outflows even as institutional channels (ETFs) remain a structural demand source.",
-      "source": "CoinGabbar / ad‑hoc market reports",
-      "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-market-update-march-31-btc-eth-keeta-price-up-today",
-      "published_at": "March 31, 2026",
-      "category": "Market / Bitcoin"
-    },
-    {
-      "title": "BlackRock launches a staked‑Ethereum ETF (adds yield to ETF access)",
-      "summary": "BlackRock debuted a staked‑ETH exchange‑traded trust in mid‑March 2026, letting investors get ETH price exposure plus staking income through a Nasdaq‑listed product — a big step for institutional access to ETH staking rewards.",
-      "source": "Coindoo / industry coverage",
-      "url": "https://coindoo.com/blackrock-launches-first-staked-ethereum-etf/",
-      "published_at": "March 12, 2026",
-      "category": "Ethereum / ETF"
-    },
-    {
-      "title": "Circle stock drop and stablecoin debate after draft Clarity Act language",
-      "summary": "Draft language in late March 2026 that would limit passive stablecoin yield sparked a sharp drop in Circle’s shares and renewed market debate over how US rules will treat USDC and other major stablecoins.",
-      "source": "BeInCrypto / Yahoo Finance coverage",
-      "url": "https://beincrypto.com/circle-crash-clarity-act-bull-trap/",
-      "published_at": "March 25, 2026",
-      "category": "Stablecoin / Regulation"
-    },
-    {
-      "title": "Corporate and institutional Bitcoin purchases continue (Metaplanet & Strategy purchases reported)",
-      "summary": "Large corporate and treasury buyers kept adding BTC in late March 2026. Reports show Metaplanet and other institutional players making multi‑million dollar Bitcoin buys, underscoring ongoing institutional accumulation even amid pullbacks.",
-      "source": "Cointelegraph market report",
-      "url": "https://cointelegraph.com/news/metaplanet-buys-696-bitcoin-10-for-1-stock-split",
-      "published_at": "March 31, 2026",
-      "category": "Bitcoin / Institutional"
-    },
-    {
-      "title": "FTX creditor distribution round due to start March 31, 2026",
-      "summary": "FTX administrators scheduled the next round of creditor distributions to begin March 31, 2026, marking a major liquidity event for former users and potentially shifting available crypto liquidity as payouts are processed.",
-      "source": "TechFlow / The Digital Commonwealth reporting",
-      "url": "https://www.techflowpost.com/en-US/newsletter/111326",
-      "published_at": "January 14, 2026 (distribution date March 31, 2026 announced)",
-      "category": "Exchange / Insolvency"
-    },
-    {
-      "title": "XRP declared a digital commodity; XRP ETF interest grows",
-      "summary": "Regulatory moves in March 2026 officially classified XRP alongside other non‑security digital commodities in the U.S., removing long legal uncertainty and helping a wave of XRP ETF filings and inflows to gain traction.",
-      "source": "ad‑hoc news / MEXC reporting",
-      "url": "https://www.ad-hoc-news.de/news/ueberblick/sec-cftc-classify-xrp-as-digital-commodity-in-march-2026-framework-price/68969288",
-      "published_at": "March 23, 2026",
-      "category": "Altcoin / Regulation"
-    }
-  ]
+  "articles": []
 }
