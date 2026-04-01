@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-01 14:57 UTC",
+  "updated_at": "2026-04-01 17:40 UTC",
   "headlines": [
-    "Bitcoin opens April near $66k as ETF inflows steady",
-    "Ether jumps ~4% as traders eye ETF rotation",
-    "Binance delists eight tokens with removals effective April 1, 2026",
-    "Ripple/XRP: 1B XRP escrow unlock and OCC rule take effect April 1, 2026",
-    "OCC final rule clarifies national trust bank crypto powers (effective Apr 1, 2026) — big for banks & stablecoins','India penalty rules for crypto reporting take effect April 1, 2026','Stablecoin market race: USDT vs USDC and huge transaction volumes','Sui (SUI) token unlock scheduled April 1, 2026 — watch supply impact"
+    "Bitcoin rebounds to ~$68K as markets lift",
+    "Spot Bitcoin ETFs post $1.3B inflows for March",
+    "Bitcoin posts worst Q1 since 2018, analysts warn",
+    "Axios npm supply‑chain attack may expose crypto wallets",
+    "Magic Eden wallet moves to export‑only / ends support for some chains on April 1, 2026"
   ],
   "articles": [
     {
-      "title": "Bitcoin opens April near $66k as ETF inflows steady",
-      "summary": "Bitcoin started April trading around $66k–$68k after a rough Q1; spot-BTC ETF inflows in March helped stabilize the market and remain a major driver of price and liquidity. Quick takeaway: ETFs are still the primary institutional on‑ramp, so daily ETF flows matter for BTC moves.",
-      "source": "Ad‑hoc News / CoinGabbar",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Market & ETF"
+      "title": "Bitcoin rebounds to ~$68K as markets lift",
+      "summary": "Bitcoin and the wider crypto market climbed on April 1, 2026 after macro news and renewed ETF demand pushed prices higher; traders saw volume pickup and short-term volatility.",
+      "source": "CoinMarketCap / Crypto Economy",
+      "url": "source: CoinMarketCap / Crypto Economy",
+      "published_at": "April 1, 2026",
+      "category": "Market/Bitcoin"
     },
     {
-      "title": "Ether jumps ~4% as traders eye ETF rotation",
-      "summary": "Ether climbed roughly 4% on April 1 amid signs of renewed buying and hopes of re-acceleration in spot‑ETH ETF demand — a potential early signal that capital could rotate from BTC into ETH and major altcoins.",
-      "source": "Ad‑hoc News",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Ethereum & ETF"
+      "title": "Spot Bitcoin ETFs post $1.3B inflows in March",
+      "summary": "Spot Bitcoin ETFs recorded about $1.3 billion of net inflows in March 2026, their first monthly gain of the year — a sign some institutional investors are returning to Bitcoin products.",
+      "source": "Crypto Economy / ad-hoc-news",
+      "url": "source: Crypto Economy / ad-hoc-news",
+      "published_at": "April 1, 2026",
+      "category": "ETF/Market"
     },
     {
-      "title": "Binance delists eight tokens; spot trading ends April 1, 2026",
-      "summary": "Binance confirmed it will remove eight low‑liquidity tokens (including A2Z, FORTH, HOOK, IDEX, LRC, NTRN, RDNT and SXP) with spot trading cutoffs on April 1, 2026. Result: sharp price drops for affected small‑cap tokens and a reminder that exchange listings still shape market liquidity.",
-      "source": "Binance (Thailand announcement) / Moneycheck",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Exchange & Altcoins"
+      "title": "Bitcoin posts worst Q1 since 2018",
+      "summary": "Bitcoin fell nearly 24% in Q1 2026, marking its weakest first quarter since 2018 as macro pressure and earlier outflows weighed on price.",
+      "source": "The Block",
+      "url": "source: The Block",
+      "published_at": "April 1, 2026",
+      "category": "Market/Bitcoin"
     },
     {
-      "title": "Ripple/XRP: 1 billion XRP unlocked from escrow as OCC rule becomes effective",
-      "summary": "Ripple’s routine monthly unlock of 1 billion XRP occurred on April 1, coinciding with an OCC rule taking effect that clarifies national trust banks’ crypto activities — a company‑level win for Ripple that could boost regulated banking ties, even though most unlocked XRP is often re‑escrowed.",
-      "source": "Ad‑hoc News / Finbold",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Regulation & Altcoins"
+      "title": "Supply‑chain attack on Axios npm releases could target crypto wallets",
+      "summary": "Security researchers flagged a supply‑chain compromise affecting Axios npm packages (published March 31–April 1, 2026) that could let attackers steal developer keys and endanger crypto wallets — developers are urged to rotate credentials and audit dependencies.",
+      "source": "Cryptopolitan / TradingView (news feed)",
+      "url": "source: Cryptopolitan / TradingView",
+      "published_at": "March 31, 2026",
+      "category": "Security/Wallets"
     },
     {
-      "title": "OCC final rule (effective Apr 1, 2026) clarifies national trust bank powers for crypto activity",
-      "summary": "The Office of the Comptroller of the Currency’s final rule, effective April 1, 2026, clarifies that national trust banks can engage in certain crypto‑related non‑fiduciary activities — removing a major legal uncertainty for banks that want to custody, issue, or support stablecoins and other crypto services.",
-      "source": "Mondaq / JDSupra",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Regulation & Banking"
+      "title": "Magic Eden wallet switches to export‑only, ends support for some chains",
+      "summary": "Magic Eden announced its self‑custody wallet will enter export‑only mode (early April 2026), prompting users to withdraw funds or move assets to other wallets before full shutdown of certain features.",
+      "source": "Cryptopolitan / YouToCoin",
+      "url": "source: Cryptopolitan / YouToCoin",
+      "published_at": "March 31, 2026",
+      "category": "Exchange/Wallets"
     },
     {
-      "title": "India’s new penalty framework for crypto reporting takes effect April 1, 2026",
-      "summary": "India’s Budget 2026 rules (effective April 1) introduce fines and daily penalties for crypto platforms that fail to submit accurate transaction reports — an enforcement step aimed at tax compliance and tighter oversight of exchanges and VDA service providers.",
-      "source": "Business Standard",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Regulation & Tax"
+      "title": "Major token unlocks arrive in early April — Celestia notable",
+      "summary": "Large scheduled token unlocks (for projects such as Celestia on April 1, 2026) will increase circulating supply and could add short‑term selling pressure for affected tokens. Traders should watch unlock schedules and vesting details.",
+      "source": "DailyCoin",
+      "url": "source: DailyCoin",
+      "published_at": "April 1, 2026",
+      "category": "Altcoins/On‑chain events"
     },
     {
-      "title": "Stablecoins: market share battle and huge transaction volumes",
-      "summary": "Stablecoin usage keeps growing: market‑share rivalry between USDT and USDC continues while industry data show trillions in stablecoin transactions — underlining stablecoins’ central role in crypto trading, cross‑border payments and institutional rails.",
-      "source": "Forbes / KuCoin (stablecoin transaction data)",
-      "url": "source cited",
-      "published_at": "2026-03-12 / 2026-01 (data)",
-      "category": "Stablecoins & Payments"
+      "title": "Binance launches oil & gas perpetual futures with 100x leverage",
+      "summary": "Binance rolled out perpetual futures for WTI, Brent and natural gas with up to 100x leverage (launch staged around April 1, 2026), giving crypto traders exotic exposure to energy prices — risk and regulatory attention may rise.",
+      "source": "Bitcoin.com / Crypto news feed",
+      "url": "source: Bitcoin.com",
+      "published_at": "April 1, 2026",
+      "category": "Exchange/Derivatives"
     },
     {
-      "title": "Sui (SUI) token unlock scheduled April 1, 2026 — watch for short‑term supply pressure",
-      "summary": "Sui plans a scheduled token unlock on April 1, 2026 (about 42.9M SUI). Token unlocks can add temporary selling pressure or shift on‑chain supply — traders and portfolio managers should monitor large vesting events this week.",
-      "source": "CoinGecko / Tokenomist",
-      "url": "source cited",
-      "published_at": "2026-04-01",
-      "category": "Altcoins / Tokenomics"
+      "title": "Delaware lawmakers introduce stablecoin licensing bill",
+      "summary": "Delaware proposed a state framework to license payment stablecoin issuers, aligning with recent federal stablecoin rules and aiming to attract payments and crypto firms to the state.",
+      "source": "Cointelegraph",
+      "url": "source: Cointelegraph",
+      "published_at": "March 24, 2026",
+      "category": "Regulation/Stablecoins"
     }
   ]
 }
