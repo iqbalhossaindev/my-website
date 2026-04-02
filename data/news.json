@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-02 09:42 UTC",
+  "updated_at": "2026-04-02 12:06 UTC",
   "headlines": [
-    "Moody’s gives first rating to a $100M Bitcoin‑backed municipal bond",
-    "U.S. spot Bitcoin ETFs posted their first positive month in 2026 (March) — trackers show ~$1.3B–$2.5B inflows",
-    "Hong Kong misses its March target for first stablecoin issuer licenses",
-    "Stablecoin‑yield compromise still stalled — threatens progress on the CLARITY Act",
-    "Ethereum faces price risk as ETH ETFs continued outflows in March, per trackers and analysts’ charts"
+    "Drift $280M Solana exploit raises questions over USDC freezes",
+    "US Treasury seeks comment on state-level stablecoin rules (NPRM)",
+    "Coinbase says CLARITY Act markup is near — stablecoin yield still unresolved",
+    "EDX Markets applies for OCC trust bank charter for crypto custody",
+    "Bitcoin faces fresh downside as US dollar rallies; traders warn of new lows','Metaplanet buys 5,075 BTC in Q1, becomes 3rd-largest public BTC treasury','Alabama becomes 2nd US state to give DAOs legal status under DUNA','Morgan Stanley advances spot Bitcoin ETF filing (ticker MSBT)"
   ],
   "articles": [
     {
-      "title": "Moody’s gives first rating to a $100M Bitcoin‑backed municipal bond",
-      "summary": "Moody’s Investors Service assigned a provisional Ba2 rating to New Hampshire’s $100M Bitcoin‑backed revenue bonds — a first for a US public finance deal backed directly by BTC collateral. The move could open a path for more crypto‑backed structured finance, but Moody’s stressed the deal’s speculative risk because of Bitcoin volatility.",
-      "source": "Bloomberg Law / The Block",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "Bitcoin / Markets"
+      "title": "Drift $280M Solana exploit raises questions over USDC freezes",
+      "summary": "Drift Protocol says a 'durable nonce' attack on Solana enabled a roughly $280M drain, much of which was swapped into USDC and bridged — prompting criticism that Circle had hours to freeze funds but did not. Simple: a big Solana DEX hack exposed cross-chain and stablecoin response issues. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "1 hour ago",
+      "category": "Hack / Stablecoin"
     },
     {
-      "title": "U.S. spot Bitcoin ETFs end March with net inflows — trackers differ on the total",
-      "summary": "Data trackers show U.S. spot Bitcoin ETFs reversed recent outflows in March, recording roughly $1.3B (SoSoValue) to as much as $2.5B (other trackers) in monthly net inflows — the first positive month after several months of withdrawals.",
-      "source": "CoinMarketCap / Yahoo Finance",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "ETF / Markets"
+      "title": "US Treasury seeks public comment on state-level stablecoin rules (NPRM)",
+      "summary": "The U.S. Treasury published a notice of proposed rulemaking asking for public input on how states should implement the GENIUS Act’s stablecoin framework for issuers under $10B market cap. Simple: Washington is inviting feedback before finalizing state-level stablecoin rules. ",
+      "source": "Cointelegraph (reports Treasury NPRM)",
+      "url": "(Cointelegraph coverage of Treasury NPRM)",
+      "published_at": "14 hours ago",
+      "category": "Regulation / Stablecoin"
     },
     {
-      "title": "Hong Kong delays rollout of its first stablecoin issuer licences",
-      "summary": "Hong Kong’s HKMA missed its self‑set March deadline to issue the first batch of HKD‑stablecoin licences. Regulators say they are still reviewing applications and tightening compliance checks before approvals.",
-      "source": "The Block / StablecoinInsider",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "Regulation / Stablecoins"
+      "title": "Coinbase says CLARITY Act markup is near, but yield dispute remains",
+      "summary": "Coinbase’s chief legal officer said senators are close to a compromise on the CLARITY crypto market-structure bill, but lawmakers still disagree over whether stablecoin issuers or platforms can pay yield. Simple: federal crypto law may move soon, but the stablecoin-yield fight is the key hold-up. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "2 hours ago",
+      "category": "Regulation / Legislation"
     },
     {
-      "title": "Stablecoin yield text remains unresolved — Senate bill could be delayed",
-      "summary": "A compromise on stablecoin 'yield' language in the CLARITY Act is still unsettled. Coinbase and other industry players have pushed back on draft language, raising the risk that the Senate markup and a final crypto market‑structure vote will be delayed.",
-      "source": "CoinCentral / ZenLedger",
-      "url": "",
-      "published_at": "March 25–Apr 1, 2026",
-      "category": "Regulation / Stablecoins"
+      "title": "EDX Markets applies for OCC national trust bank to expand custody",
+      "summary": "EDX Markets filed with the OCC to create a national trust bank (EDX Trust) to separate custody and settlement from trading and offer institutional custody, settlement and fiduciary services under a federal charter. Simple: institutional custody options are expanding under bank supervision. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "15 hours ago",
+      "category": "Exchange / Custody"
     },
     {
-      "title": "ETH under pressure: ETF outflows and a technical risk pattern",
-      "summary": "Ethereum hit near‑term selling pressure as spot ETH ETF products posted another month of outflows in March, and chart patterns (head‑and‑shoulders) point to downside risk that traders are watching closely.",
-      "source": "BeInCrypto / BitcoinInsider",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "Ethereum / Markets"
+      "title": "Bitcoin risks fresh lows as US dollar hits multi‑month highs",
+      "summary": "Bitcoin fell after US‑Iran war headlines and a stronger US dollar; traders warn a DXY breakout could push BTC and other risk assets to new lows. Simple: macro and geopolitical moves are pressuring crypto prices now. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "4 hours ago",
+      "category": "Markets / Bitcoin"
     },
     {
-      "title": "Bitget lists Mezo (MEZO) and launches Launchpool campaign",
-      "summary": "Exchange Bitget added Mezo (MEZO) to its Launchpool and opened spot trading for MEZO/USDT on April 1, with token rewards and pool campaigns active for early participants.",
-      "source": "GlobeNewswire / StreetInsider (Bitget press release)",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "Exchange / Altcoin"
+      "title": "Metaplanet buys 5,075 BTC in Q1, becomes 3rd‑largest public BTC treasury",
+      "summary": "Tokyo-listed Metaplanet bought about 5,075 BTC (~$405M) in Q1 and now holds 40,177 BTC, making it the third-largest publicly listed Bitcoin treasury. Simple: another corporate buyer added a large, visible BTC position this quarter. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "1 hour ago",
+      "category": "Adoption / Bitcoin"
     },
     {
-      "title": "Ant Group buys stake in Hong Kong broker as banks position for stablecoin licences",
-      "summary": "Ant Group acquired a majority stake in Hong Kong broker Yau Choy, a move industry observers say positions the company to pursue a local stablecoin licence once regulators complete reviews.",
-      "source": "Crypto.news / MEXC News",
-      "url": "",
-      "published_at": "April 1, 2026",
-      "category": "Regulation / Stablecoins"
+      "title": "Alabama gives DAOs legal status under a DUNA law",
+      "summary": "Alabama signed a DUNA bill that grants decentralized autonomous organizations legal entity status and limited liability, becoming the second US state after Wyoming to do so. Simple: more U.S. states are creating legal frameworks for DAOs. ",
+      "source": "Cointelegraph",
+      "url": "(Cointelegraph coverage)",
+      "published_at": "5 hours ago",
+      "category": "Regulation / DAOs"
     },
     {
-      "title": "Solana ETFs: institutional flows remain a bright spot amid price weakness",
-      "summary": "Institutional Solana ETF products have continued to attract flows in recent weeks, pushing cumulative Solana ETF assets toward meaningful levels even as SOL’s price lags — a sign some institutions keep buying the protocol despite marketwide weakness.",
-      "source": "CoinPaper / MEXC",
-      "url": "",
-      "published_at": "March 2026 (noted in April updates)",
-      "category": "Altcoin / ETF"
+      "title": "Morgan Stanley advances spot Bitcoin ETF filing (ticker MSBT)",
+      "summary": "Morgan Stanley filed another S‑1 amendment for a proposed spot Bitcoin ETF (to trade as MSBT on NYSE Arca), detailing custody, seed shares and fees — signaling the product could launch soon if the SEC clears it. Simple: another big bank is lining up a low‑fee spot BTC ETF. ",
+      "source": "Bitcoin.com (coverage)",
+      "url": "(Bitcoin.com coverage)",
+      "published_at": "Apr 1, 2026",
+      "category": "ETF / Bitcoin"
     }
   ]
 }
