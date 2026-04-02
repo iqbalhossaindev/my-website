@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-02 19:41 UTC",
+  "updated_at": "2026-04-02 21:56 UTC",
   "headlines": [
-    "Coinbase wins conditional OCC trust-charter approval",
-    "Morgan Stanley files Amendment No.4 as Bitcoin ETF launch nears",
-    "Circle unveils cirBTC — wrapped Bitcoin with real-time onchain reserves",
-    "Volatility Shares launches 2x leveraged ETFs for ADA, XLM and LINK",
-    "USDC stablecoin saw large outflows in weekly recap (Mar 30–Apr 5)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​)​\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "Bitcoin ETFs post first monthly inflows since October",
+    "Bitcoin posts worst Q1 since 2018",
+    "Franklin Templeton to buy CoinFund spinoff, launch 'Franklin Crypto'",
+    "SoFi launches 'Big Business Banking' on Solana for fiat + stablecoin rails",
+    "CFTC wins consent order: KuCoin operator barred from US access, $500K penalty (consent order) — March 30, 2026 filing noted in coverage)  *date clarification included* )​**(Regulatory/Exchange)**:  — (CFTC press release)  — (Benzinga)​)​**(Regulatory/Exchange)**  — (CFTC press release)  — (Benzinga)**"
   ],
   "articles": [
     {
-      "title": "Coinbase wins conditional OCC approval for national trust charter",
-      "summary": "Coinbase said it has received conditional approval from the Office of the Comptroller of the Currency (OCC) to form a federally chartered national trust company, a key step toward offering federal custody and new products like stablecoins and tokenized securities. ([news.bloomberglaw.com](https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter?utm_source=openai))",
-      "source": "Bloomberg Law / The Block",
-      "url": "https://news.bloomberglaw.com/crypto/coinbase-says-it-wins-conditional-us-approval-for-trust-charter",
-      "published_at": "2026-04-02",
-      "category": "exchange / regulation"
-    },
-    {
-      "title": "Morgan Stanley files Amendment No.4 — signals Bitcoin ETF launch is near",
-      "summary": "Morgan Stanley filed Amendment No.4 to its S-1 for the Morgan Stanley Bitcoin Trust, stepping the proposed spot-BTC ETF toward listing on NYSE Arca under ticker MSBT and showing final launch details are being set. ([news.bitcoin.com](https://news.bitcoin.com/morgan-stanley-signals-bitcoin-etf-near-launch-with-amendment-4-update//?utm_source=openai))",
-      "source": "Bitcoin.com / The Block",
-      "url": "https://news.bitcoin.com/morgan-stanley-signals-bitcoin-etf-near-launch-with-amendment-4-update//",
+      "title": "U.S. spot Bitcoin ETFs posted $1.32B in March — first monthly inflow since October",
+      "summary": "March saw U.S. spot Bitcoin ETFs attract about $1.32 billion, ending a four-month outflow streak. The inflows show some returning institutional interest but Q1 still finished with net outflows overall. (Data and coverage cited Apr 1, 2026.)",
+      "source": "CoinMarketCap / CoinDesk coverage",
+      "url": "",
       "published_at": "2026-04-01",
-      "category": "ETF / bitcoin"
+      "category": "ETF & Market News"
     },
     {
-      "title": "Circle launches cirBTC — wrapped Bitcoin with onchain, real-time reserve checks",
-      "summary": "Circle announced cirBTC, a 1:1 wrapped bitcoin token built for institutions that promises real-time onchain reserve verification and multichain support (Ethereum and Arc first). It aims to give a transparent alternative to existing wrapped‑BTC options. ([news.bitcoin.com](https://news.bitcoin.com/circle-reveals-wrapped-bitcoin-product-with-real-time-onchain-reserve-verification//?utm_source=openai))",
-      "source": "Bitcoin.com (reporting on Circle)",
-      "url": "https://news.bitcoin.com/circle-reveals-wrapped-bitcoin-product-with-real-time-onchain-reserve-verification//",
-      "published_at": "2026-04-02",
-      "category": "stablecoin / bitcoin"
-    },
-    {
-      "title": "Volatility Shares launches 2x leveraged ETFs for Cardano, Stellar and Chainlink",
-      "summary": "ETF issuer Volatility Shares rolled out new 2x leveraged crypto ETFs tied to ADA (Cardano), XLM (Stellar) and LINK (Chainlink), giving traders amplified daily exposure to those altcoins. These products raise risk and trading volume for mid‑cap tokens. ([cryptomist.io](https://www.cryptomist.io/articles/three-altcoins-now-have-leveraged-crypto-etfs?utm_source=openai))",
-      "source": "CryptoMist / BloomingBit",
-      "url": "https://www.cryptomist.io/articles/three-altcoins-now-have-leveraged-crypto-etfs",
+      "title": "Bitcoin fell 24% in Q1 — worst first quarter since 2018",
+      "summary": "Bitcoin closed Q1 2026 down roughly 24%, its weakest opening quarter in years as macro pressure and ETF flow swings weighed on prices. The drop highlights ongoing market stress even as ETFs and institutional buyers show mixed signals. (Reported Apr 1–2, 2026.)",
+      "source": "The Block",
+      "url": "",
       "published_at": "2026-04-01",
-      "category": "ETF / altcoins"
+      "category": "Market / Bitcoin"
     },
     {
-      "title": "Weekly stablecoin recap: USDC saw large outflows in latest week",
-      "summary": "Stablecoin Beat’s weekly recap shows notable movements in reserves and flows — including a large USDC outflow in the Mar 30–Apr 5 window — underlining shifting liquidity between dollar stablecoins and trading venues. ([stablecoinbeat.com](https://stablecoinbeat.com/weekly/stablecoin-market-recap-march-30-5-2026/?utm_source=openai))",
-      "source": "Stablecoin Beat",
-      "url": "https://stablecoinbeat.com/weekly/stablecoin-market-recap-march-30-5-2026/",
+      "title": "Franklin Templeton to buy CoinFund spinoff 250 Digital and form 'Franklin Crypto'",
+      "summary": "Asset manager Franklin Templeton agreed to acquire 250 Digital (a CoinFund spinoff) and will roll the team into a new institutional unit called Franklin Crypto, boosting traditional-finance exposure to active crypto strategies. The deal was announced Apr 1, 2026.",
+      "source": "Franklin Templeton press release / Reuters",
+      "url": "",
+      "published_at": "2026-04-01",
+      "category": "Institutional / ETF"
+    },
+    {
+      "title": "SoFi launches 'Big Business Banking' that uses Solana for enterprise fiat and stablecoin operations",
+      "summary": "SoFi unveiled 'Big Business Banking' — a regulated, 24/7 enterprise banking platform that will leverage Solana (and other rails) to let companies hold deposits, move fiat, mint/burn stablecoins and settle in real time. The launch was announced Apr 2, 2026.",
+      "source": "SoFi press release / The Block",
+      "url": "",
+      "published_at": "2026-04-02",
+      "category": "Payments / Stablecoin / Blockchain"
+    },
+    {
+      "title": "CFTC consent order bars KuCoin operator from U.S.; $500,000 civil penalty",
+      "summary": "The CFTC’s consent order against Peken Global Limited (operator of KuCoin) requires a $500,000 penalty and prohibits allowing U.S. participants to trade on KuCoin unless the platform registers with the CFTC as a foreign board of trade. (Court action and CFTC release published Mar 30–31, 2026; widely reported Apr 1.)",
+      "source": "CFTC press release / Benzinga",
+      "url": "",
       "published_at": "2026-03-30",
-      "category": "stablecoin / market"
+      "category": "Regulation / Exchange"
     },
     {
-      "title": "Ethereum gains after spot-ETF inflows and lower exchange reserves",
-      "summary": "Ether ticked higher on April 2 as spot‑ETH ETFs recorded fresh inflows and on‑exchange ETH reserves fell, suggesting institutional demand and lower sell pressure may be supporting price. ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/ueberblick/ether-eth-gains-1-8-percent-to-2-140-amid-spot-etf-inflows-and-low/69056044?utm_source=openai))",
-      "source": "ad-hoc-news / Fortune (price update)",
-      "url": "https://www.ad-hoc-news.de/news/ueberblick/ether-eth-gains-1-8-percent-to-2-140-amid-spot-etf-inflows-and-low/69056044",
-      "published_at": "2026-04-02",
-      "category": "ethereum / ETF / market"
+      "title": "Ripple’s RLUSD stablecoin lists on South Korea exchange Coinone",
+      "summary": "Ripple’s dollar-pegged stablecoin RLUSD was listed on Coinone, giving Korean traders KRW access to RLUSD trading and expanding Ripple’s stablecoin reach in Asia. (Reported Apr 1, 2026.)",
+      "source": "CoinPaper / regional coverage",
+      "url": "",
+      "published_at": "2026-04-01",
+      "category": "Stablecoin / Altcoin"
     },
     {
-      "title": "Crypto market note: Bitcoin tests $66k support as ETF flows swing",
-      "summary": "Market reports show Bitcoin testing key support near $66k amid volatile ETF flows and risk‑off sentiment; daily ETF flows and exchange movement are being watched closely by traders and institutions. ([mexc.com](https://www.mexc.com/news/999824?utm_source=openai))",
-      "source": "MEXC (market update) / Bitget UEX report",
-      "url": "https://www.mexc.com/news/999824",
-      "published_at": "2026-04-02",
-      "category": "bitcoin / market"
+      "title": "Large corporate treasuries keep buying Ethereum — big weekly ETH buys reported",
+      "summary": "On-chain trackers show corporate and treasury buyers continued large ETH purchases in late March–early April (weekly seven-figure buys), signaling institutional accumulation even as ETH prices remain under pressure. (Reported Apr 1, 2026.)",
+      "source": "CryptoAdventure / Crypto.com market coverage",
+      "url": "",
+      "published_at": "2026-04-01",
+      "category": "Ethereum / Institutional Demand"
     },
     {
-      "title": "Daily outflow flagged at BlackRock’s IBIT on April 2",
-      "summary": "Data feeds flagged a sizable one‑day outflow from BlackRock’s iShares Bitcoin Trust (IBIT) on April 2, a reminder that top ETF issuers still see large, fast flows that move prices. ([blockchain.news](https://blockchain.news/flashnews/blackrock-bitcoin-etf-sees-significant-daily-outflow?utm_source=openai))",
-      "source": "Blockchain.News (flow report)",
-      "url": "https://blockchain.news/flashnews/blackrock-bitcoin-etf-sees-significant-daily-outflow",
-      "published_at": "2026-04-02",
-      "category": "ETF / market"
+      "title": "Ethereum ETF complex and some ETH funds saw outflows as April opened; Grayscale products bucked the trend",
+      "summary": "Spot Ethereum ETFs finished Q1 with notable outflows and some ETF products saw further withdrawals on Apr 1, 2026 — while Grayscale’s ETH product attracted inflows, highlighting fee- and product-level rotation among institutional investors.",
+      "source": "Cryptonews / BeinCrypto coverage",
+      "url": "",
+      "published_at": "2026-04-01",
+      "category": "ETF / Ethereum"
     }
   ]
 }
