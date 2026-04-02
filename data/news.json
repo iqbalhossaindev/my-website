@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-04-01 23:03 UTC",
+  "updated_at": "2026-04-02 05:52 UTC",
   "headlines": [
-    "Do you want US-focused crypto news or global?"
+    "Drift Protocol DeFi exploit drains ~$200–$270M",
+    "U.S. DOJ charges 10 in major crypto wash‑trading case",
+    "Spot Bitcoin ETFs post first monthly inflow since Oct (≈$1.3B)",
+    "Ethereum spot ETFs continue net outflows, signaling weak institutional demand",
+    "Bitcoin bounces to mid‑$60k on ETF flows and month‑end rotation','USDC sees large outflows in recent stablecoin recap','XRP ETF products fail to attract capital after strong debut','“Great Unlock” of token releases could pressure Q2 markets"
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Drift Protocol DeFi exploit drains ~$200–$270M",
+      "summary": "On April 1, Solana-based derivatives platform Drift reported a massive vault drain that on‑chain monitors estimate at roughly $200–$270 million. The protocol paused activity and analysts traced funds moving through bridges and attacker wallets; users are urged not to interact with the protocol until official updates. ([crypto-economy.com](https://crypto-economy.com/drift-protocol-vault-hit-by-suspected-exploit-270m-at-risk/?utm_source=openai))",
+      "source": "Crypto Economy / Bitcoin News",
+      "url": "https://crypto-economy.com/drift-protocol-vault-hit-by-suspected-exploit-270m-at-risk/",
+      "published_at": "2026-04-01",
+      "category": "exploit / DeFi"
+    },
+    {
+      "title": "U.S. DOJ charges 10 in major crypto wash‑trading case",
+      "summary": "U.S. prosecutors charged 10 people tied to four market‑making firms for allegedly running wash‑trading and price‑manipulation schemes that faked volume and pumped token prices. The indictments and asset seizures highlight renewed enforcement focus on marketplace integrity. ([decrypt.co](https://decrypt.co/362999/doj-charges-10-foreign-nationals-over-crypto-wash-trading-scheme?utm_source=openai))",
+      "source": "Decrypt / CCN",
+      "url": "https://decrypt.co/362999/doj-charges-10-foreign-nationals-over-crypto-wash-trading-scheme",
+      "published_at": "2026-04-01",
+      "category": "regulation / enforcement"
+    },
+    {
+      "title": "Spot Bitcoin ETFs post first monthly inflow since October (~$1.3B)",
+      "summary": "Data show U.S. spot Bitcoin ETFs returned to net inflows in March (~$1.3B), snapping a multi‑month outflow streak and offering a possible institutional bid for BTC as Q2 begins. Analysts say flows are uneven across issuers, leaving markets sensitive to future redemptions. ([theblock.co](https://www.theblock.co/post/395991/bitcoin-worst-q1-since-2018?utm_source=openai))",
+      "source": "The Block / TradingView",
+      "url": "https://www.theblock.co/post/395991/us-bitcoin-etfs-see-296-million-weekly-outflows-as-global-crypto-funds-snap-four-week-inflow-streak",
+      "published_at": "2026-04-01",
+      "category": "ETF / market"
+    },
+    {
+      "title": "Ethereum spot ETFs keep seeing net outflows",
+      "summary": "Ethereum spot ETF products recorded continued redemptions in late March and early April, extending a streak of net outflows that puts short‑term pressure on ETH relative to BTC and signals weaker institutional appetite. Investors watch whether flows reverse or keep weighing on price. ([mexc.co](https://www.mexc.co/news/991254?utm_source=openai))",
+      "source": "MEXC / Blockchain.news",
+      "url": "https://www.mexc.co/news/991254",
+      "published_at": "2026-03-30",
+      "category": "ETF / Ethereum"
+    },
+    {
+      "title": "Bitcoin bounces to mid‑$60k as ETF flows stabilize",
+      "summary": "Bitcoin climbed back toward the mid‑$60,000s on April 1 amid a mix of ETF flow stabilization and month‑end rotation. Traders cite renewed ETF buying and macro headlines as reasons for the short‑term rebound, though volatility remains high. ([finance.yahoo.com](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-1-2026-prices-strengthen-on-news-that-iran-war-may-end-in-weeks-120045601.html?utm_source=openai))",
+      "source": "Yahoo Finance / Bitcoin.com",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-1-2026-prices-strengthen-on-news-that-iran-war-may-end-in-weeks-120045601.html",
+      "published_at": "2026-04-01",
+      "category": "market / Bitcoin"
+    },
+    {
+      "title": "USDC posted notable outflows in the latest stablecoin recap",
+      "summary": "Weekly stablecoin data show material outflows from USDC in the recent period (over $1.2B reported across the week), a sign of rebalancing between stablecoins and potential liquidity shifts for trading and DeFi activity. Watch stablecoin flows as a proxy for fiat‑on/off ramps. ([stablecoinbeat.com](https://stablecoinbeat.com/weekly/stablecoin-market-recap-march-30-5-2026/?utm_source=openai))",
+      "source": "Stablecoin Beat",
+      "url": "https://stablecoinbeat.com/weekly/stablecoin-market-recap-march-30-5-2026/",
+      "published_at": "2026-03-30",
+      "category": "stablecoin / liquidity"
+    },
+    {
+      "title": "XRP ETF products struggle to attract capital after strong debut",
+      "summary": "Despite multiple approved XRP ETFs, flows have cooled and the category posted weak demand into April; XRP ETF volumes remain small compared with Bitcoin and Ethereum products, underlining uneven institutional interest in altcoin ETFs. ([ng.investing.com](https://ng.investing.com/analysis/xrp-etfs-struggle-to-attract-capital-despite-multiple-approved-products-215141?utm_source=openai))",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/analysis/xrp-etfs-struggle-to-attract-capital-despite-multiple-approved-products-215141",
+      "published_at": "2026-04-01",
+      "category": "altcoin / ETF"
+    },
+    {
+      "title": "Q2 'Great Unlock' of token releases may add selling pressure",
+      "summary": "Analysts warn that large scheduled token unlocks and vesting releases at the start of Q2 could release billions of tokens into markets, creating selling pressure for major altcoins and raising volatility risk for April. Traders should monitor planned unlock calendars. ([blackwire.world](https://blackwire.world/articles/great-unlock-token-flood-q2-april-2026.html?utm_source=openai))",
+      "source": "Blackwire",
+      "url": "https://blackwire.world/articles/great-unlock-token-flood-q2-april-2026.html",
+      "published_at": "2026-04-01",
+      "category": "market catalyst / altcoins"
+    }
+  ]
 }
