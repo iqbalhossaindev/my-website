@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 17:02 UTC",
+  "updated_at": "2026-04-03 19:58 UTC",
   "headlines": [
-    "Drift Protocol: $270–286M Solana DeFi hack shocks market (Apr 1–2, 2026)",
-    "Coinbase exec says U.S. CLARITY Act could clear key hurdle within days (Apr 1–2, 2026)",
-    "Stablecoin supply hits record ~$313–315B in Q1 2026 (reported early Apr 2026)",
-    "Crypto ETFs mixed on Apr 2: Bitcoin sees small inflows while Ethereum faces outflows (Apr 2, 2026)",
-    "XRP jumps ~12% after XRPL ecosystem updates and flows (Apr 2–3, 2026)"
+    "Morgan Stanley files final amendment for MSBT spot Bitcoin ETF",
+    "Drift Protocol suffers ~$285M exploit on Solana",
+    "Blockchain analytics flags North Korea links in Drift exploit",
+    "Circle unveils cirBTC — a 1:1 wrapped Bitcoin product",
+    "Linux Foundation launches x402 Foundation to standardize web payments (Coinbase’s x402)​"
   ],
   "articles": [
     {
-      "title": "Drift Protocol suffers huge Solana DeFi exploit — roughly $270–286M stolen",
-      "summary": "Drift, a major Solana-based perpetuals exchange, was hit by a fast vault-drain exploit on April 1–2, 2026. Attackers withdrew hundreds of millions in assets in minutes; teams paused withdrawals and on-chain sleuths traced large USDC flows. The attack is under forensic review and linked by some analysts to DPRK-style laundering patterns.",
-      "source": "Elliptic; CCN",
-      "url": "",
-      "published_at": "April 1–2, 2026",
-      "category": "hack / exchange / DeFi"
+      "title": "Morgan Stanley files final amendment for MSBT spot Bitcoin ETF",
+      "summary": "Morgan Stanley filed Amendment No. 4 to its S‑1 for the Morgan Stanley Bitcoin Trust (proposed ticker MSBT), naming custodians and outlining a low 0.14% fee — a late-stage step that suggests the spot‑BTC ETF could list soon on NYSE Arca if regulators sign off.",
+      "source": "SEC filing / Whale Alert",
+      "url": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926036138/tm2534140-10_s1a.htm",
+      "published_at": "Apr 1–2, 2026",
+      "category": "ETF"
     },
     {
-      "title": "Coinbase legal lead: CLARITY Act could clear last big hurdle within days",
-      "summary": "Coinbase’s chief legal officer said on April 1–2, 2026 that meaningful progress on the Senate CLARITY Act could happen within 24–48 hours, raising hopes the long‑running U.S. crypto market‑structure bill may advance toward a markup soon.",
-      "source": "TheStreet (reported Apr 1–2, 2026)",
-      "url": "",
-      "published_at": "April 1–2, 2026",
-      "category": "regulation"
+      "title": "Drift Protocol suffers ~$285M exploit on Solana",
+      "summary": "Drift, a major Solana-based perpetuals platform, was hit by a large vault drain on April 1–2 that security trackers estimate at roughly $200–$285 million. The protocol paused deposits and withdrawals as teams raced to contain the attack and trace funds.",
+      "source": "CoinDCX / CCN",
+      "url": "https://coindcx.com/blog/crypto-news-global/why-is-solana-down-today/",
+      "published_at": "Apr 1–2, 2026",
+      "category": "Exchange / DeFi"
     },
     {
-      "title": "Stablecoin supply tops roughly $313–315 billion after Q1 inflows",
-      "summary": "Stablecoins reached a new record supply near $313–315 billion in Q1 2026 as USDC continued to grow while USDT slipped slightly — a sign that dollar‑pegged liquidity is expanding even as market trading volumes ebb.",
-      "source": "MEXC; CryptoPolitan (early April 2026)",
-      "url": "",
-      "published_at": "Q1 2026 (reported Apr 2026)",
-      "category": "stablecoins / market"
+      "title": "Blockchain analytics flags North Korea links in Drift exploit",
+      "summary": "Multiple blockchain analytics firms and news outlets reported indicators tying the Drift attacker to North Korea–linked hacking groups; attribution is unconfirmed but would raise sanctions and compliance risks for bridges and exchanges that processed the stolen funds.",
+      "source": "MEXC / Benzinga",
+      "url": "https://www.mexc.com/news/1000940",
+      "published_at": "Apr 2–3, 2026",
+      "category": "Security / Geopolitics"
     },
     {
-      "title": "ETF flows mixed on April 2: Bitcoin modest inflows, Ethereum heavy outflows",
-      "summary": "On April 2, 2026 spot Bitcoin ETFs posted modest net inflows while spot Ether ETFs recorded notable outflows — showing institutions remain selective and favor BTC over ETH in this risk‑off period.",
-      "source": "QuikNotes; Investing.com (Apr 2–3, 2026)",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "ETF / market"
+      "title": "Circle unveils cirBTC — a 1:1 wrapped Bitcoin product",
+      "summary": "Circle announced cirBTC, a wrapped‑Bitcoin token backed 1:1 by native BTC with on‑chain reserve verification. Circle positions cirBTC as an institutional, neutral alternative to existing wrapped BTC products and says it will launch on Arc and Ethereum first.",
+      "source": "BeInCrypto / Coinpaper",
+      "url": "https://beincrypto.com/circle-cirbtc-wrapped-bitcoin-coinbase-cbbtc-rival/",
+      "published_at": "Apr 2–3, 2026",
+      "category": "Stablecoin / Tokenization"
     },
     {
-      "title": "XRP rallies ~12% as XRPL adoption news and flows lift price",
-      "summary": "XRP rose about 10–12% across April 2–3, 2026 after reports of XRPL ecosystem growth and renewed institutional interest pushed volume and buying into the token.",
-      "source": "Ad‑Hoc News (Apr 2–3, 2026)",
-      "url": "",
-      "published_at": "April 2–3, 2026",
-      "category": "altcoin / market"
+      "title": "Linux Foundation launches x402 Foundation to standardize web payments (Coinbase’s x402)",
+      "summary": "The Linux Foundation launched the x402 Foundation to steward the x402 HTTP payment standard (contributed by Coinbase). Major technology and payments firms joined as supporters to build an open, internet‑native payments layer for AI agents, micro‑payments, and on‑web commerce.",
+      "source": "PR Newswire / Coindesk",
+      "url": "https://www.prnewswire.com/news-releases/linux-foundation-is-launching-the-x402-foundation-and-welcoming-the-contribution-of-the-x402-protocol-302732803.html",
+      "published_at": "Apr 2, 2026",
+      "category": "Payments / Infrastructure"
     },
     {
-      "title": "Bitget delists six small spot trading pairs (effective Apr 3, 2026)",
-      "summary": "Crypto exchange Bitget announced a planned delisting of six low‑volume spot pairs on April 3, 2026 as part of routine listing maintenance — users should close positions or move funds before the cutoff.",
-      "source": "Bitget official notice (Apr 3, 2026)",
-      "url": "",
-      "published_at": "April 3, 2026",
-      "category": "exchange operations"
+      "title": "U.S. jobs report (Mar) lifts Bitcoin, cushions crypto markets",
+      "summary": "The U.S. March nonfarm payrolls report surprised to the upside on Apr 3; crypto markets reacted modestly with Bitcoin and several blue‑chip tokens ticking higher as traders digested macro data while traditional markets observed the Good Friday holiday.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/markets-update-bitcoin-xrp-climb-ahead-of-jobs-report-on-good-friday",
+      "published_at": "Apr 3, 2026",
+      "category": "Market / Macro"
     },
     {
-      "title": "Ethereum roadmap update: Fusaka rollout and the new twice‑year upgrade cadence",
-      "summary": "Ethereum’s recent Fusaka hard fork (rolled out late 2025) set a faster upgrade cadence and remains central to scaling plans; developers continue planning the next engineering upgrades to improve data availability and L2 cost reductions in 2026.",
-      "source": "The Block; ethereum.org (background & ongoing, April 2026)",
-      "url": "",
-      "published_at": "Ongoing (post‑Fusaka, Apr 2026)",
-      "category": "protocol / Ethereum"
+      "title": "Solana prices fall as Drift hack shakes ecosystem confidence",
+      "summary": "Solana’s token (SOL) dropped after the Drift exploit, as investors sold high‑beta assets exposed to on‑chain DeFi risk; the incident renewed scrutiny of Solana‑native DeFi security and cross‑chain bridges.",
+      "source": "CoinDCX / MEXC",
+      "url": "https://coindcx.com/blog/crypto-news-global/why-is-solana-down-today/",
+      "published_at": "Apr 2, 2026",
+      "category": "Altcoin / Market"
     },
     {
-      "title": "On‑chain critics target Circle after stolen USDC moved post‑Drift hack",
-      "summary": "Following the Drift exploit, on‑chain researchers publicly criticized Circle for not freezing or flagging large USDC transfers fast enough as stolen funds moved across bridges — the debate raises fresh questions about stablecoin issuer freeze policies and cross‑chain controls.",
-      "source": "BeInCrypto; on‑chain investigators (Apr 2, 2026)",
-      "url": "",
-      "published_at": "April 2, 2026",
-      "category": "stablecoin / security"
+      "title": "On‑chain investigators criticize Circle over USDC flows during Drift attack",
+      "summary": "Prominent on‑chain researchers publicly criticized Circle for allowing stolen USDC to move through its Cross‑Chain Transfer Protocol (CCTP) during the Drift exploit; the debate reopened questions about freeze policies, issuer response times, and centralized controls on widely used stablecoins.",
+      "source": "BeInCrypto / CoinCu",
+      "url": "https://beincrypto.com/zachxbt-circle-usdc-drift-hack-criticism/",
+      "published_at": "Apr 2, 2026",
+      "category": "Stablecoin / Compliance"
     }
   ]
 }
