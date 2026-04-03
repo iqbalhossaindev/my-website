@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-03 08:36 UTC",
+  "updated_at": "2026-04-03 11:25 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 67092,
-      "change_24h": 0.7659149942335779
+      "price": 66915,
+      "change_24h": 0.7297577558574033
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2066.22,
-      "change_24h": 0.8771218842790905
+      "price": 2060.48,
+      "change_24h": 1.1501438148169054
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 586.65,
-      "change_24h": -0.5524473646757526
+      "price": 586.88,
+      "change_24h": 0.9791333968973328
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 79.86,
-      "change_24h": 0.6500166748943579
+      "price": 80.1,
+      "change_24h": 1.728465585637955
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": 0.4516647045550132
+      "change_24h": 0.9573289213831162
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.244263,
-      "change_24h": 2.2611653941355576
+      "price": 0.245253,
+      "change_24h": 3.3868892290165595
     }
   ],
   "bullish": [
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.12041,
-      "change_24h": 17.974613000021872
+      "price": 0.118273,
+      "change_24h": 12.5381343575521
     },
     {
       "name": "Render",
       "symbol": "RENDER",
-      "price": 1.92,
-      "change_24h": 10.247275750779645
+      "price": 1.9,
+      "change_24h": 10.61186091130113
     },
     {
       "name": "Quant",
       "symbol": "QNT",
-      "price": 75.19,
-      "change_24h": 6.93264767149764
+      "price": 76.19,
+      "change_24h": 8.930992687475126
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 2.66,
+      "change_24h": 7.398484958660643
     },
     {
       "name": "Jupiter",
       "symbol": "JUP",
-      "price": 0.164136,
-      "change_24h": 6.035966554378963
-    },
-    {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "price": 1.22,
-      "change_24h": 5.146570756999707
+      "price": 0.164285,
+      "change_24h": 6.2537566397686986
     }
   ],
   "bearish": [
     {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02820189,
+      "change_24h": -17.913572502925955
+    },
+    {
       "name": "Midnight",
       "symbol": "NIGHT",
-      "price": 0.04454388,
-      "change_24h": -9.77845008338612
+      "price": 0.04435599,
+      "change_24h": -8.18286588357707
+    },
+    {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.0075349,
+      "change_24h": -5.490055038974269
     },
     {
       "name": "Uniswap",
       "symbol": "UNI",
-      "price": 3.23,
-      "change_24h": -2.769607599847098
+      "price": 3.22,
+      "change_24h": -3.693781292546141
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.170644,
-      "change_24h": -2.5190121317482603
-    },
-    {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.063721,
-      "change_24h": -1.6140717448322808
-    },
-    {
-      "name": "Monero",
-      "symbol": "XMR",
-      "price": 327.86,
-      "change_24h": -1.608753297553
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.030007,
+      "change_24h": -3.419247138816543
     }
   ]
 }

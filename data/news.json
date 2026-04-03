@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 08:37 UTC",
+  "updated_at": "2026-04-03 11:27 UTC",
   "headlines": [
-    "Circle unveils cirBTC, 1:1 wrapped Bitcoin with on‑chain reserve checks",
-    "CFTC and DOJ sue Illinois, Arizona and Connecticut to block state rules on prediction markets",
-    "Bitcoin holders face ~$600B in unrealized losses as price slips to ~$66K",
-    "U.S. spot Bitcoin ETFs post $173.7M outflow in latest session",
-    "SoFi launches institutional banking that combines fiat and crypto rails (supports SoFiUSD) "
+    "Drift Protocol hit by massive Solana exploit — ~$200–285M stolen",
+    "Circle unveils cirBTC, a 1:1 wrapped Bitcoin for institutions",
+    "Riot Platforms reports Q1 bitcoin production and sales",
+    "Large options expiry today: ~$1.8B in Bitcoin (plus ETH) could move markets",
+    "Crypto ETF flows mixed: Bitcoin funds seeing inflows while Ethereum ETFs pull money out (Apr 1–2 data)"
   ],
   "articles": [
     {
-      "title": "Circle unveils cirBTC, 1:1 wrapped Bitcoin with on‑chain reserve checks",
-      "summary": "Circle (issuer of USDC) announced cirBTC — a new wrapped‑Bitcoin token backed 1:1 by native BTC and verifiable on‑chain, aimed at institutional and DeFi use. The token will launch first on Ethereum and Circle’s Arc chain and is positioned as a neutral, audit‑friendly BTC wrapper.",
-      "source": "Circle / Bitcoin.com",
-      "url": "https://www.circle.com/cirbtc",
-      "published_at": "2026-04-02",
-      "category": "stablecoin / Bitcoin / infrastructure"
+      "title": "Drift Protocol hit by massive Solana exploit — ~$200–285M stolen",
+      "summary": "Solana-based derivatives protocol Drift confirmed an active security incident that onchain trackers show drained at least $200 million and some estimates near $270–285 million. Drift paused deposits and withdrawals while investigators and security firms trace stolen funds and try to contain the attack.",
+      "source": "The Block / PYMNTS (coverage of onchain figures and protocol comment)",
+      "url": "",
+      "published_at": "2026-04-01 / 2026-04-02",
+      "category": "security / exchange / DeFi"
     },
     {
-      "title": "CFTC and DOJ sue Illinois, Arizona and Connecticut to block state rules on prediction markets",
-      "summary": "The CFTC (backed by DOJ filings) sued three states arguing federal law preempts state gambling rules that try to restrict CFTC‑registered prediction markets such as Kalshi and Polymarket. The move aims to keep event contracts under federal commodity law and avoid a patchwork of state bans.",
-      "source": "AP News / CFTC press release",
-      "url": "https://www.cftc.gov/PressRoom/PressReleases/9206-26",
-      "published_at": "2026-04-02",
-      "category": "regulation"
+      "title": "Circle unveils cirBTC: a 1:1 wrapped Bitcoin for institutions",
+      "summary": "Circle announced cirBTC, a wrapped Bitcoin token that will be backed 1:1 by native BTC and verifiable onchain. The product is aimed at OTC desks, market makers and institutional use and will launch first on Ethereum and Circle's Arc network, pending approvals.",
+      "source": "Circle (official) / CryptoBriefing",
+      "url": "",
+      "published_at": "2026-04-02 / 2026-04-03",
+      "category": "Bitcoin / stablecoin / infrastructure"
     },
     {
-      "title": "Bitcoin holders face ~$600B in unrealized losses as price slips to ~$66K",
-      "summary": "On‑chain data show roughly 44% of circulating Bitcoin supply is trading below holders’ cost basis, leaving about $600 billion in unrealized losses — a sign of weak spot demand and broader market distribution pressure.",
-      "source": "Cointelegraph (Glassnode data)",
-      "url": "https://cointelegraph.com/news/bitcoin-holders-face-600b-unrealized-losses-btc-price-66k",
-      "published_at": "2026-04-02",
-      "category": "market / Bitcoin"
+      "title": "Riot Platforms reports Q1 bitcoin production and sales",
+      "summary": "Bitcoin miner Riot Platforms said it mined 1,473 BTC in Q1 2026 and sold 3,778 BTC during the quarter for net proceeds of about $289.5M, while ending March with roughly 15,680 BTC on its balance sheet.",
+      "source": "Investing.com",
+      "url": "",
+      "published_at": "2026-04-03",
+      "category": "mining / markets"
     },
     {
-      "title": "U.S. spot Bitcoin ETFs post $173.7M outflow in the latest session",
-      "summary": "Data trackers reported a net outflow of about $173.7 million from U.S. spot Bitcoin ETFs in the most recent session, signaling that institutional ETF flows remain sensitive to short‑term market and macro moves.",
-      "source": "Whale‑Alert / TokenPost (Farside data)",
-      "url": "https://whale-alert.io/stories/cfa001c9d9832a/Crypto-ETFs-reverse-two-day-inflows-as-Bitcoin-ETFs-post-1737M-net-outflow-ETF-and-CME-flows-go-offline-ahead-of-holiday-creating-liquidity-gap",
+      "title": "Big options expiry today: about $1.8B of BTC options (plus ETH) could boost volatility",
+      "summary": "Deribit-settled options worth roughly $1.8 billion for Bitcoin expire today, with concurrent Ethereum expiries of around $300 million. Big expiries often bring short-term volatility as dealers hedge and rebalance positions near 'max pain' strike levels.",
+      "source": "MEXC (market note) / CryptoAdventure",
+      "url": "",
+      "published_at": "2026-04-03",
+      "category": "markets / derivatives"
+    },
+    {
+      "title": "ETF flows mixed (Apr 1–2): Bitcoin ETFs see modest inflows while Ethereum funds face outflows",
+      "summary": "Recent daily ETF data show spot Bitcoin funds recording small net inflows while several Ethereum ETFs saw outflows, highlighting rotating institutional demand between BTC and ETH and continued capital flows via ETF wrappers.",
+      "source": "QuikNotes / BeInCrypto (daily ETF flow reports)",
+      "url": "",
+      "published_at": "2026-04-02 / 2026-04-03",
+      "category": "ETF / markets"
+    },
+    {
+      "title": "Cambodia passes new cybercrime law targeting scam centres",
+      "summary": "Cambodia’s parliament approved a law aimed at shutting down organised online scam centres that have been linked to fraud and crypto-related scams. The law adds enforcement tools and follows international pressure to address cross-border fraud networks.",
+      "source": "Reuters",
+      "url": "",
+      "published_at": "2026-04-03",
+      "category": "regulation / illicit finance"
+    },
+    {
+      "title": "Federal Reserve official Michael Barr warns stablecoins pose systemic risks",
+      "summary": "Fed Governor Michael Barr said stablecoins bring benefits but also risks—reserve quality, liquidity and money‑laundering concerns—and urged careful rule design under the GENIUS Act to protect financial stability and consumers.",
+      "source": "TheStreet (reporting / Bloomberg coverage) / Cointelegraph",
+      "url": "",
       "published_at": "2026-04-01",
-      "category": "ETF / market"
+      "category": "regulation / stablecoins"
     },
     {
-      "title": "SoFi launches institutional banking platform that links fiat and crypto (supports SoFiUSD)",
-      "summary": "SoFi introduced an institutional 'Big Business Banking' product that combines fiat banking and crypto rails, allowing firms to hold, move and settle in fiat or crypto and to issue/redeem the SoFiUSD stablecoin inside a regulated banking stack.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sofi-institutional-banking-platform-crypto-services",
-      "published_at": "2026-04-03",
-      "category": "institutional / stablecoin"
-    },
-    {
-      "title": "Wormhole faces large token unlock (≈600M W) that could add selling pressure",
-      "summary": "On‑chain trackers flagged a major Wormhole token unlock scheduled in early April (~600 million W tokens), a supply event that could create short‑term downward pressure and volatility for the cross‑chain protocol’s token.",
-      "source": "DailyCoin / WhaleScan report",
-      "url": "https://dailycoin.com/high-impact-token-unlocks-for-april-2026/",
+      "title": "Metaplanet adds 5,075 BTC in Q1, becoming a top public-company holder",
+      "summary": "Tokyo-listed firm Metaplanet disclosed it bought 5,075 BTC in the first quarter, bringing its public‑company holdings to about 40,177 BTC — a notable sign that some public companies continue to accumulate Bitcoin even amid recent market weakness.",
+      "source": "CCN / market disclosures",
+      "url": "",
       "published_at": "2026-04-02",
-      "category": "DeFi / tokenomics"
-    },
-    {
-      "title": "Stablecoins dominate trading volume as retail activity cools",
-      "summary": "Reports show stablecoins made up an outsized share of trading volume in Q1, reflecting a market where dollar‑pegged liquidity and institutional flows now fuel much of crypto turnover while retail spot activity lags.",
-      "source": "Cointelegraph (exchange/stablecoin data)",
-      "url": "https://cointelegraph.com/news/stablecoin-supply-315b-q1-usdc-rises-usdt-declines",
-      "published_at": "2026-04-02",
-      "category": "stablecoin / market"
-    },
-    {
-      "title": "Bitcoin miner Soluna buys $53M wind farm to power AI and mining campus",
-      "summary": "Publicly traded miner Soluna closed a $53 million deal to acquire a wind farm in Texas it will use to power a new AI data center and mining campus — a continuation of miners pivoting to renewables and AI compute to diversify revenue.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-miner-soluna-acquires-53m-wind-farm-to-power-ai-facility",
-      "published_at": "2026-04-03",
-      "category": "mining / infrastructure"
+      "category": "institutional flows / treasury"
     }
   ]
 }
