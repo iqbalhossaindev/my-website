@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-03 14:28 UTC",
+  "updated_at": "2026-04-03 17:00 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 66895,
-      "change_24h": 0.9858768869579716
+      "price": 67000,
+      "change_24h": -0.17263795603624724
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2052.32,
-      "change_24h": 0.6180662593805043
+      "price": 2054.79,
+      "change_24h": -0.14307531461405795
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 587.49,
-      "change_24h": 2.588910966042053
+      "price": 588.74,
+      "change_24h": 1.7143888081671392
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 79.89,
-      "change_24h": 2.2268160899098732
+      "price": 80.54,
+      "change_24h": 1.2708937772020372
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.32,
-      "change_24h": 2.4372137640750338
+      "change_24h": 1.598477215095961
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246088,
-      "change_24h": 3.195442608876263
+      "price": 0.248287,
+      "change_24h": 2.9982000990330566
     }
   ],
   "bullish": [
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.119562,
-      "change_24h": 11.78373958959784
-    },
-    {
-      "name": "Render",
-      "symbol": "RENDER",
-      "price": 1.91,
-      "change_24h": 10.275137826604356
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "price": 75.55,
-      "change_24h": 7.206889480093082
+      "price": 0.120417,
+      "change_24h": 12.569015917584943
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 2.68,
-      "change_24h": 7.079608404968512
+      "price": 2.7,
+      "change_24h": 8.675189850846245
     },
     {
-      "name": "Artificial Superintelligence Alliance",
-      "symbol": "FET",
-      "price": 0.239797,
-      "change_24h": 5.675286508475766
+      "name": "Quant",
+      "symbol": "QNT",
+      "price": 76.5,
+      "change_24h": 7.225202782338312
+    },
+    {
+      "name": "Render",
+      "symbol": "RENDER",
+      "price": 1.92,
+      "change_24h": 6.8583288418785235
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "price": 1.21,
+      "change_24h": 4.4401849779618265
     }
   ],
   "bearish": [
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02770814,
-      "change_24h": -16.20328476697873
-    },
-    {
-      "name": "Midnight",
-      "symbol": "NIGHT",
-      "price": 0.04410775,
-      "change_24h": -7.544514372620349
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.0104961,
+      "change_24h": -8.010838952667207
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00751985,
-      "change_24h": -5.221254543373962
+      "price": 0.00750559,
+      "change_24h": -6.712626525299453
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02788679,
+      "change_24h": -6.595684755593956
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.04439336,
+      "change_24h": -6.2649951704119005
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.062214,
-      "change_24h": -2.6947204532596936
-    },
-    {
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "price": 1.49,
-      "change_24h": -2.110825492083026
+      "price": 0.061771,
+      "change_24h": -3.3321199754941215
     }
   ]
 }

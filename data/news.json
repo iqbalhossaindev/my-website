@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 14:30 UTC",
+  "updated_at": "2026-04-03 17:02 UTC",
   "headlines": [
-    "Morgan Stanley moves closer to spot Bitcoin ETF (MSBT)",
-    "Massive Drift Protocol exploit on Solana drains ~$270–$285M",
-    "Circle unveils cirBTC — a 1:1 wrapped Bitcoin for institutions",
-    "On-chain sleuths blast Circle for slow action after Drift hack",
-    "Bitcoin drifts below key $66k support as markets turn cautious"
+    "Drift Protocol: $270–286M Solana DeFi hack shocks market (Apr 1–2, 2026)",
+    "Coinbase exec says U.S. CLARITY Act could clear key hurdle within days (Apr 1–2, 2026)",
+    "Stablecoin supply hits record ~$313–315B in Q1 2026 (reported early Apr 2026)",
+    "Crypto ETFs mixed on Apr 2: Bitcoin sees small inflows while Ethereum faces outflows (Apr 2, 2026)",
+    "XRP jumps ~12% after XRPL ecosystem updates and flows (Apr 2–3, 2026)"
   ],
   "articles": [
     {
-      "title": "Morgan Stanley files S-1 amendments as MSBT Bitcoin ETF nears launch",
-      "summary": "Morgan Stanley filed S-1 registration material for the Morgan Stanley Bitcoin Trust (ticker MSBT) and updated operational details (custody, benchmark and fees), signalling the product is in final SEC review and could list on NYSE Arca. This would add another low‑fee spot‑BTC ETF to the U.S. market. ",
-      "source": "SEC / Whale Alert",
-      "url": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926036138/tm2534140-10_s1a.htm",
-      "published_at": "2026-03-27 / Apr 1–2, 2026 reporting",
-      "category": "ETF / Bitcoin"
+      "title": "Drift Protocol suffers huge Solana DeFi exploit — roughly $270–286M stolen",
+      "summary": "Drift, a major Solana-based perpetuals exchange, was hit by a fast vault-drain exploit on April 1–2, 2026. Attackers withdrew hundreds of millions in assets in minutes; teams paused withdrawals and on-chain sleuths traced large USDC flows. The attack is under forensic review and linked by some analysts to DPRK-style laundering patterns.",
+      "source": "Elliptic; CCN",
+      "url": "",
+      "published_at": "April 1–2, 2026",
+      "category": "hack / exchange / DeFi"
     },
     {
-      "title": "Drift Protocol on Solana exploited — roughly $270–$285M affected",
-      "summary": "Drift, a major Solana perpetuals DEX, was hit by a fast exploit on April 1 that drained large vault balances and cut TVL by roughly half; investigators estimate the loss at about $270–$285M and security firms are tracing the attacker and money flows. The incident paused deposits/withdrawals and sent shock waves through Solana DeFi. ",
-      "source": "Elliptic / on-chain analysts",
-      "url": "https://www.elliptic.co/blog/drift-protocol-exploited-for-286-million-in-suspected-dprk-linked-attack",
-      "published_at": "2026-04-01 / 2026-04-02",
-      "category": "Exchange / Hack / DeFi"
+      "title": "Coinbase legal lead: CLARITY Act could clear last big hurdle within days",
+      "summary": "Coinbase’s chief legal officer said on April 1–2, 2026 that meaningful progress on the Senate CLARITY Act could happen within 24–48 hours, raising hopes the long‑running U.S. crypto market‑structure bill may advance toward a markup soon.",
+      "source": "TheStreet (reported Apr 1–2, 2026)",
+      "url": "",
+      "published_at": "April 1–2, 2026",
+      "category": "regulation"
     },
     {
-      "title": "Circle announces cirBTC — a 1:1 tokenized Bitcoin aimed at institutions",
-      "summary": "Circle revealed cirBTC, a wrapped Bitcoin token fully backed 1:1 by native BTC with on‑chain reserve verification, positioned for OTC desks, market makers and lending protocols and intended to integrate with Circle’s Arc and Circle Mint infrastructure. The move expands Circle beyond stablecoins into tokenized BTC infrastructure. ",
-      "source": "BeInCrypto / GNcrypto reporting on Circle announcement",
-      "url": "https://beincrypto.com/circle-cirbtc-wrapped-bitcoin-coinbase-cbbtc-rival/",
-      "published_at": "2026-04-02 / 2026-04-03",
-      "category": "Stablecoin / Tokenization / Bitcoin"
+      "title": "Stablecoin supply tops roughly $313–315 billion after Q1 inflows",
+      "summary": "Stablecoins reached a new record supply near $313–315 billion in Q1 2026 as USDC continued to grow while USDT slipped slightly — a sign that dollar‑pegged liquidity is expanding even as market trading volumes ebb.",
+      "source": "MEXC; CryptoPolitan (early April 2026)",
+      "url": "",
+      "published_at": "Q1 2026 (reported Apr 2026)",
+      "category": "stablecoins / market"
     },
     {
-      "title": "On‑chain researchers criticise Circle for slow freezes after the Drift hack",
-      "summary": "Prominent on‑chain sleuths publicly accused Circle of not acting quickly enough to freeze stolen USDC that moved via Circle’s cross‑chain tooling during the Drift exploit, reigniting debate over issuer freeze powers and centralised stablecoin safeguards. ",
-      "source": "BeInCrypto (coverage of ZachXBT and other on‑chain sleuths)",
-      "url": "https://beincrypto.com/zachxbt-circle-usdc-drift-hack-criticism/",
-      "published_at": "2026-04-02",
-      "category": "Stablecoin / Security / Regulation"
+      "title": "ETF flows mixed on April 2: Bitcoin modest inflows, Ethereum heavy outflows",
+      "summary": "On April 2, 2026 spot Bitcoin ETFs posted modest net inflows while spot Ether ETFs recorded notable outflows — showing institutions remain selective and favor BTC over ETH in this risk‑off period.",
+      "source": "QuikNotes; Investing.com (Apr 2–3, 2026)",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "ETF / market"
     },
     {
-      "title": "Bitcoin slips below $66k amid geopolitical & macro jitters",
-      "summary": "Bitcoin briefly traded under $66,000 as macro worries and risk‑off headlines pressured markets; traders flagged large liquidations and fragile short‑term support levels. The move reflects higher volatility around recent political and macro news. ",
-      "source": "Fortune price page / market updates",
-      "url": "https://fortune.com/article/price-of-bitcoin-04-02-2026/",
-      "published_at": "2026-04-02",
-      "category": "Market / Bitcoin"
+      "title": "XRP rallies ~12% as XRPL adoption news and flows lift price",
+      "summary": "XRP rose about 10–12% across April 2–3, 2026 after reports of XRPL ecosystem growth and renewed institutional interest pushed volume and buying into the token.",
+      "source": "Ad‑Hoc News (Apr 2–3, 2026)",
+      "url": "",
+      "published_at": "April 2–3, 2026",
+      "category": "altcoin / market"
     },
     {
-      "title": "Solana token and DeFi hit after Drift exploit; SOL price dips",
-      "summary": "Solana’s token fell several percent and Solana DeFi TVL plunged after the Drift exploit, as users and markets reacted to the largest DeFi breach of the period and related liquidity outflows. Traders watch SOL support levels closely for further downside. ",
-      "source": "CoinMarketCap top stories / CryptoNews reporting",
-      "url": "https://coinmarketcap.com/top-stories/69cdcedbba76c938030ee216/",
-      "published_at": "2026-04-02",
-      "category": "Altcoin / Market / DeFi"
+      "title": "Bitget delists six small spot trading pairs (effective Apr 3, 2026)",
+      "summary": "Crypto exchange Bitget announced a planned delisting of six low‑volume spot pairs on April 3, 2026 as part of routine listing maintenance — users should close positions or move funds before the cutoff.",
+      "source": "Bitget official notice (Apr 3, 2026)",
+      "url": "",
+      "published_at": "April 3, 2026",
+      "category": "exchange operations"
     },
     {
-      "title": "Tether moves toward Big‑Four audit (KPMG) as stablecoin rules loom",
-      "summary": "Tether has engaged a Big‑Four auditor for its first full reserves audit, a major transparency step for the $USDT market leader as global and U.S. stablecoin rules take shape. The audit push is being read by markets as part of broader industry efforts to meet expected regulation. ",
-      "source": "The Block / Financial Times reporting (industry coverage)",
-      "url": "https://www.theblock.co/post/395423/tether-taps-kpmg-for-first-full-audit/",
-      "published_at": "2026-03-27 (reported/reported widely into early April)",
-      "category": "Stablecoin / Regulation"
+      "title": "Ethereum roadmap update: Fusaka rollout and the new twice‑year upgrade cadence",
+      "summary": "Ethereum’s recent Fusaka hard fork (rolled out late 2025) set a faster upgrade cadence and remains central to scaling plans; developers continue planning the next engineering upgrades to improve data availability and L2 cost reductions in 2026.",
+      "source": "The Block; ethereum.org (background & ongoing, April 2026)",
+      "url": "",
+      "published_at": "Ongoing (post‑Fusaka, Apr 2026)",
+      "category": "protocol / Ethereum"
     },
     {
-      "title": "Corporate Bitcoin buy: Metaplanet adds 5,075 BTC to its treasury (Q1 disclosure)",
-      "summary": "Tokyo‑listed Metaplanet disclosed in a Q1 filing that it bought 5,075 BTC during the quarter, bringing its total holdings to over 40,000 BTC — a large corporate accumulation that matters for Bitcoin supply dynamics. ",
-      "source": "Bitcoin.com reporting on Metaplanet’s Q1 disclosure",
-      "url": "https://news.bitcoin.com/metaplanet-buys-5075-bitcoin-in-q1-2026-total-holdings-hit-40177-btc/",
-      "published_at": "2026-04-02",
-      "category": "Market / Bitcoin / Institutional"
+      "title": "On‑chain critics target Circle after stolen USDC moved post‑Drift hack",
+      "summary": "Following the Drift exploit, on‑chain researchers publicly criticized Circle for not freezing or flagging large USDC transfers fast enough as stolen funds moved across bridges — the debate raises fresh questions about stablecoin issuer freeze policies and cross‑chain controls.",
+      "source": "BeInCrypto; on‑chain investigators (Apr 2, 2026)",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "stablecoin / security"
     }
   ]
 }
