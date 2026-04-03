@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 21:52 UTC",
+  "updated_at": "2026-04-03 23:06 UTC",
   "headlines": [
-    "Circle launches cirBTC to bring Bitcoin into DeFi",
-    "Ethereum Foundation makes a big ETH staking move",
-    "Morgan Stanley signals a spot Bitcoin ETF is near launch",
-    "Moody’s rates New Hampshire’s $100M bitcoin-backed bond Ba2",
-    "Riot Platforms sold 3,778 BTC in Q1 to fund AI/data-center buildout','Binance to delist several perpetual contracts on April 8–9, 2026','Franklin Templeton buys 250 Digital to launch 'Franklin Crypto' unit','US jobs beat and big options expiry lift crypto volatility (Apr 3, 2026)"
+    "Solana DeFi exchange Drift hit by $285M exploit; funds bridged to Ethereum",
+    "Circle and USDC come under fire after large cross‑chain outflows during Drift hack",
+    "Coinbase says CLARITY Act deal on stablecoin yields is 'very close' (Senate action expected)",
+    "Coinbase wins conditional OCC approval to charter Coinbase National Trust (Apr 2, 2026)",
+    "BlackRock’s IBIT posts massive daily volume — ETF trading rivals major exchanges (Kaiko data / Apr 2, 2026 reportings)"
   ],
   "articles": [
     {
-      "title": "Circle launches cirBTC to bring Bitcoin into DeFi",
-      "summary": "Circle (USDC issuer) unveiled cirBTC — a 1:1, on‑chain‑verifiable wrapped BTC token that will debut on Ethereum and Circle’s Arc chain to let institutions and DeFi users move BTC into lending, liquidity, and yield apps.",
-      "source": "Gadgets360 / BitcoinEthereumNews",
-      "url": "source articles via web.run search",
-      "published_at": "April 2–3, 2026",
-      "category": "stablecoin / Bitcoin / DeFi"
-    },
-    {
-      "title": "Ethereum Foundation stakes large chunk of ETH from its treasury",
-      "summary": "On April 3, on‑chain analytics showed the Ethereum Foundation deposited a major tranche of ETH into the Beacon deposit contract — roughly tens of millions of dollars worth in the largest single‑day stake so far — as the foundation shifts from selling to staking treasury ETH.",
-      "source": "BeInCrypto / Arkham reports",
-      "url": "source articles via web.run search",
-      "published_at": "April 3, 2026",
-      "category": "Ethereum / staking"
-    },
-    {
-      "title": "Morgan Stanley signals its spot Bitcoin ETF is close",
-      "summary": "Morgan Stanley updated SEC registration filings and listing notices for a Morgan Stanley Bitcoin Trust (ticker MSBT), a sign the bank’s spot Bitcoin ETF is moving toward launch and could increase competition among institutional ETF issuers.",
-      "source": "Bitcoin.com / MEXC reporting",
-      "url": "source articles via web.run search",
+      "title": "Solana DeFi exchange Drift hit by $285M exploit; funds bridged to Ethereum",
+      "summary": "Drift Protocol, a Solana-based decentralized perpetuals exchange, was exploited on April 1–2, 2026 with roughly $280–$285 million stolen. Attackers moved large portions of the loot across chains and into ETH quickly, making this one of 2026’s biggest DeFi hacks and triggering an immediate security and liquidity shock across Solana DeFi.",
+      "source": "TRM Labs / Elliptic / CoinCentral",
+      "url": "",
       "published_at": "April 1–2, 2026",
-      "category": "ETF / Bitcoin"
+      "category": "DeFi / Security"
     },
     {
-      "title": "Moody’s gives New Hampshire’s $100M bitcoin‑backed bond a Ba2 rating",
-      "summary": "Moody’s assigned a provisional Ba2 rating to a proposed $100M Bitcoin‑collateralized municipal bond for New Hampshire’s Business Finance Authority — the first major credit‑rating step for a US bitcoin‑backed public‑finance deal.",
-      "source": "Cointelegraph / Bitcoin.com",
-      "url": "source articles via web.run search",
-      "published_at": "April 1, 2026",
-      "category": "regulation / institutional adoption"
+      "title": "Circle and USDC come under fire after large cross‑chain outflows during Drift hack",
+      "summary": "Researchers and on‑chain investigators said millions of USDC were bridged from Solana to Ethereum using Circle’s CCTP in the hours after the Drift exploit, and criticized Circle’s response time to flag or freeze those transfers while the attack unfolded.",
+      "source": "CoinGape / on‑chain investigators (reported across outlets)",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "Stablecoins / Security"
     },
     {
-      "title": "Riot Platforms sold 3,778 BTC in Q1 to fund AI and data‑center plans",
-      "summary": "Riot reported it sold 3,778 BTC in Q1 2026 for roughly $289.5M to raise cash for AI/HPC data center expansion, trimming its on‑balance bitcoin holdings as miners reallocate capital for infrastructure projects.",
-      "source": "Bitcoin.com / Blockspace",
-      "url": "source articles via web.run search",
-      "published_at": "April 3, 2026",
-      "category": "miners / Bitcoin treasury"
-    },
-    {
-      "title": "Binance to delist several perpetual futures contracts (April 8–9, 2026)",
-      "summary": "Binance announced it will automatically close and then remove a set of USD‑M and COIN‑M perpetual contracts on April 8 and April 9, 2026 — traders should close positions before the scheduled settlements to avoid forced liquidations.",
-      "source": "ChainCatcher / AiCoin reporting on Binance notice",
-      "url": "source articles via web.run search",
-      "published_at": "April 3, 2026 (notice dates Apr 8–9, 2026)",
-      "category": "exchange / derivatives"
-    },
-    {
-      "title": "Franklin Templeton to acquire 250 Digital and launch Franklin Crypto",
-      "summary": "Franklin Templeton agreed to buy crypto trading firm 250 Digital to create a dedicated institutional crypto unit called Franklin Crypto, marking another major asset manager building active crypto investment capabilities.",
-      "source": "Bitcoin.com / Investing.com",
-      "url": "source articles via web.run search",
+      "title": "Coinbase: CLARITY Act deal on stablecoin yield rules ‘very close’",
+      "summary": "Coinbase’s chief legal officer said on April 1–2 that lawmakers are nearing an agreement on the CLARITY Act’s disputed stablecoin‑yield language and that a Senate Banking Committee markup could follow soon — a development markets are watching because it would shape US crypto market rules.",
+      "source": "Decrypt / TheStreet",
+      "url": "",
       "published_at": "April 1–2, 2026",
-      "category": "institutional / investment management"
+      "category": "Regulation"
     },
     {
-      "title": "US jobs beat + large BTC/ETH options expiry raise crypto volatility (Apr 3, 2026)",
-      "summary": "The April 3 US March nonfarm payrolls beat expectations and coincided with a large BTC and ETH options expiry; markets saw immediate price moves and higher short‑term volatility as traders priced macro and derivatives flows.",
-      "source": "TheStreet / MEXC options report",
-      "url": "source articles via web.run search",
-      "published_at": "April 3, 2026",
-      "category": "markets / macro"
+      "title": "Coinbase gets conditional OCC approval to charter Coinbase National Trust",
+      "summary": "On April 2, Coinbase announced it received conditional approval from the Office of the Comptroller of the Currency to charter Coinbase National Trust Company — a regulatory step that could expand Coinbase’s custody and trust services in the US.",
+      "source": "Coinbase blog",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "Exchange / Regulation"
+    },
+    {
+      "title": "BlackRock’s IBIT trading volume now rivals big exchanges, data show",
+      "summary": "Data cited by market trackers show BlackRock’s iShares Bitcoin Trust (IBIT) trading between about $16B–$18B in daily volume — levels that approach big crypto exchange spot volumes and signal ETFs are reshaping liquidity in the Bitcoin market.",
+      "source": "Kaiko data reported by DailyCoin / BeInCrypto (reported Apr 2, 2026)",
+      "url": "",
+      "published_at": "March 30 — Apr 2, 2026 (reporting)",
+      "category": "ETF / Market structure"
+    },
+    {
+      "title": "Bitcoin snaps five‑month losing streak with March close; price action fragile",
+      "summary": "Bitcoin posted its first positive monthly close since October, ending March on a modest gain, but analysts warn the rally is fragile amid macro uncertainty and continued ETF flow swings that can push fast moves in spot BTC.",
+      "source": "Cointelegraph / Crypto market reports",
+      "url": "",
+      "published_at": "April 1–2, 2026",
+      "category": "Market / Bitcoin"
+    },
+    {
+      "title": "Solana prices and DEX volumes wobble after big Drift exploit",
+      "summary": "The $285M Drift exploit hit Solana‑based DeFi hard: trading volumes and trust in some Solana DEX vaults fell and SOL price action showed sharp short‑term volatility as users pulled liquidity and DeFi counterparties reassessed risk.",
+      "source": "Cointelegraph / DailyCoin (Apr 1–2, 2026)",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "Altcoin / Market impact"
+    },
+    {
+      "title": "US prosecutors forfeit $600K in Tether tied to phishing; law enforcement keeps pressure on crypto crime",
+      "summary": "A US attorney in Connecticut announced the forfeiture of about $600,000 in USDT linked to a phishing scam, illustrating ongoing law‑enforcement efforts to seize stolen stablecoins and return funds to victims.",
+      "source": "Bitcoin.com News / regional US reporting",
+      "url": "",
+      "published_at": "April 2, 2026",
+      "category": "Enforcement / Stablecoins"
     }
   ]
 }
