@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 19:58 UTC",
+  "updated_at": "2026-04-03 21:52 UTC",
   "headlines": [
-    "Morgan Stanley files final amendment for MSBT spot Bitcoin ETF",
-    "Drift Protocol suffers ~$285M exploit on Solana",
-    "Blockchain analytics flags North Korea links in Drift exploit",
-    "Circle unveils cirBTC — a 1:1 wrapped Bitcoin product",
-    "Linux Foundation launches x402 Foundation to standardize web payments (Coinbase’s x402)​"
+    "Circle launches cirBTC to bring Bitcoin into DeFi",
+    "Ethereum Foundation makes a big ETH staking move",
+    "Morgan Stanley signals a spot Bitcoin ETF is near launch",
+    "Moody’s rates New Hampshire’s $100M bitcoin-backed bond Ba2",
+    "Riot Platforms sold 3,778 BTC in Q1 to fund AI/data-center buildout','Binance to delist several perpetual contracts on April 8–9, 2026','Franklin Templeton buys 250 Digital to launch 'Franklin Crypto' unit','US jobs beat and big options expiry lift crypto volatility (Apr 3, 2026)"
   ],
   "articles": [
     {
-      "title": "Morgan Stanley files final amendment for MSBT spot Bitcoin ETF",
-      "summary": "Morgan Stanley filed Amendment No. 4 to its S‑1 for the Morgan Stanley Bitcoin Trust (proposed ticker MSBT), naming custodians and outlining a low 0.14% fee — a late-stage step that suggests the spot‑BTC ETF could list soon on NYSE Arca if regulators sign off.",
-      "source": "SEC filing / Whale Alert",
-      "url": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926036138/tm2534140-10_s1a.htm",
-      "published_at": "Apr 1–2, 2026",
-      "category": "ETF"
+      "title": "Circle launches cirBTC to bring Bitcoin into DeFi",
+      "summary": "Circle (USDC issuer) unveiled cirBTC — a 1:1, on‑chain‑verifiable wrapped BTC token that will debut on Ethereum and Circle’s Arc chain to let institutions and DeFi users move BTC into lending, liquidity, and yield apps.",
+      "source": "Gadgets360 / BitcoinEthereumNews",
+      "url": "source articles via web.run search",
+      "published_at": "April 2–3, 2026",
+      "category": "stablecoin / Bitcoin / DeFi"
     },
     {
-      "title": "Drift Protocol suffers ~$285M exploit on Solana",
-      "summary": "Drift, a major Solana-based perpetuals platform, was hit by a large vault drain on April 1–2 that security trackers estimate at roughly $200–$285 million. The protocol paused deposits and withdrawals as teams raced to contain the attack and trace funds.",
-      "source": "CoinDCX / CCN",
-      "url": "https://coindcx.com/blog/crypto-news-global/why-is-solana-down-today/",
-      "published_at": "Apr 1–2, 2026",
-      "category": "Exchange / DeFi"
+      "title": "Ethereum Foundation stakes large chunk of ETH from its treasury",
+      "summary": "On April 3, on‑chain analytics showed the Ethereum Foundation deposited a major tranche of ETH into the Beacon deposit contract — roughly tens of millions of dollars worth in the largest single‑day stake so far — as the foundation shifts from selling to staking treasury ETH.",
+      "source": "BeInCrypto / Arkham reports",
+      "url": "source articles via web.run search",
+      "published_at": "April 3, 2026",
+      "category": "Ethereum / staking"
     },
     {
-      "title": "Blockchain analytics flags North Korea links in Drift exploit",
-      "summary": "Multiple blockchain analytics firms and news outlets reported indicators tying the Drift attacker to North Korea–linked hacking groups; attribution is unconfirmed but would raise sanctions and compliance risks for bridges and exchanges that processed the stolen funds.",
-      "source": "MEXC / Benzinga",
-      "url": "https://www.mexc.com/news/1000940",
-      "published_at": "Apr 2–3, 2026",
-      "category": "Security / Geopolitics"
+      "title": "Morgan Stanley signals its spot Bitcoin ETF is close",
+      "summary": "Morgan Stanley updated SEC registration filings and listing notices for a Morgan Stanley Bitcoin Trust (ticker MSBT), a sign the bank’s spot Bitcoin ETF is moving toward launch and could increase competition among institutional ETF issuers.",
+      "source": "Bitcoin.com / MEXC reporting",
+      "url": "source articles via web.run search",
+      "published_at": "April 1–2, 2026",
+      "category": "ETF / Bitcoin"
     },
     {
-      "title": "Circle unveils cirBTC — a 1:1 wrapped Bitcoin product",
-      "summary": "Circle announced cirBTC, a wrapped‑Bitcoin token backed 1:1 by native BTC with on‑chain reserve verification. Circle positions cirBTC as an institutional, neutral alternative to existing wrapped BTC products and says it will launch on Arc and Ethereum first.",
-      "source": "BeInCrypto / Coinpaper",
-      "url": "https://beincrypto.com/circle-cirbtc-wrapped-bitcoin-coinbase-cbbtc-rival/",
-      "published_at": "Apr 2–3, 2026",
-      "category": "Stablecoin / Tokenization"
+      "title": "Moody’s gives New Hampshire’s $100M bitcoin‑backed bond a Ba2 rating",
+      "summary": "Moody’s assigned a provisional Ba2 rating to a proposed $100M Bitcoin‑collateralized municipal bond for New Hampshire’s Business Finance Authority — the first major credit‑rating step for a US bitcoin‑backed public‑finance deal.",
+      "source": "Cointelegraph / Bitcoin.com",
+      "url": "source articles via web.run search",
+      "published_at": "April 1, 2026",
+      "category": "regulation / institutional adoption"
     },
     {
-      "title": "Linux Foundation launches x402 Foundation to standardize web payments (Coinbase’s x402)",
-      "summary": "The Linux Foundation launched the x402 Foundation to steward the x402 HTTP payment standard (contributed by Coinbase). Major technology and payments firms joined as supporters to build an open, internet‑native payments layer for AI agents, micro‑payments, and on‑web commerce.",
-      "source": "PR Newswire / Coindesk",
-      "url": "https://www.prnewswire.com/news-releases/linux-foundation-is-launching-the-x402-foundation-and-welcoming-the-contribution-of-the-x402-protocol-302732803.html",
-      "published_at": "Apr 2, 2026",
-      "category": "Payments / Infrastructure"
+      "title": "Riot Platforms sold 3,778 BTC in Q1 to fund AI and data‑center plans",
+      "summary": "Riot reported it sold 3,778 BTC in Q1 2026 for roughly $289.5M to raise cash for AI/HPC data center expansion, trimming its on‑balance bitcoin holdings as miners reallocate capital for infrastructure projects.",
+      "source": "Bitcoin.com / Blockspace",
+      "url": "source articles via web.run search",
+      "published_at": "April 3, 2026",
+      "category": "miners / Bitcoin treasury"
     },
     {
-      "title": "U.S. jobs report (Mar) lifts Bitcoin, cushions crypto markets",
-      "summary": "The U.S. March nonfarm payrolls report surprised to the upside on Apr 3; crypto markets reacted modestly with Bitcoin and several blue‑chip tokens ticking higher as traders digested macro data while traditional markets observed the Good Friday holiday.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/markets-update-bitcoin-xrp-climb-ahead-of-jobs-report-on-good-friday",
-      "published_at": "Apr 3, 2026",
-      "category": "Market / Macro"
+      "title": "Binance to delist several perpetual futures contracts (April 8–9, 2026)",
+      "summary": "Binance announced it will automatically close and then remove a set of USD‑M and COIN‑M perpetual contracts on April 8 and April 9, 2026 — traders should close positions before the scheduled settlements to avoid forced liquidations.",
+      "source": "ChainCatcher / AiCoin reporting on Binance notice",
+      "url": "source articles via web.run search",
+      "published_at": "April 3, 2026 (notice dates Apr 8–9, 2026)",
+      "category": "exchange / derivatives"
     },
     {
-      "title": "Solana prices fall as Drift hack shakes ecosystem confidence",
-      "summary": "Solana’s token (SOL) dropped after the Drift exploit, as investors sold high‑beta assets exposed to on‑chain DeFi risk; the incident renewed scrutiny of Solana‑native DeFi security and cross‑chain bridges.",
-      "source": "CoinDCX / MEXC",
-      "url": "https://coindcx.com/blog/crypto-news-global/why-is-solana-down-today/",
-      "published_at": "Apr 2, 2026",
-      "category": "Altcoin / Market"
+      "title": "Franklin Templeton to acquire 250 Digital and launch Franklin Crypto",
+      "summary": "Franklin Templeton agreed to buy crypto trading firm 250 Digital to create a dedicated institutional crypto unit called Franklin Crypto, marking another major asset manager building active crypto investment capabilities.",
+      "source": "Bitcoin.com / Investing.com",
+      "url": "source articles via web.run search",
+      "published_at": "April 1–2, 2026",
+      "category": "institutional / investment management"
     },
     {
-      "title": "On‑chain investigators criticize Circle over USDC flows during Drift attack",
-      "summary": "Prominent on‑chain researchers publicly criticized Circle for allowing stolen USDC to move through its Cross‑Chain Transfer Protocol (CCTP) during the Drift exploit; the debate reopened questions about freeze policies, issuer response times, and centralized controls on widely used stablecoins.",
-      "source": "BeInCrypto / CoinCu",
-      "url": "https://beincrypto.com/zachxbt-circle-usdc-drift-hack-criticism/",
-      "published_at": "Apr 2, 2026",
-      "category": "Stablecoin / Compliance"
+      "title": "US jobs beat + large BTC/ETH options expiry raise crypto volatility (Apr 3, 2026)",
+      "summary": "The April 3 US March nonfarm payrolls beat expectations and coincided with a large BTC and ETH options expiry; markets saw immediate price moves and higher short‑term volatility as traders priced macro and derivatives flows.",
+      "source": "TheStreet / MEXC options report",
+      "url": "source articles via web.run search",
+      "published_at": "April 3, 2026",
+      "category": "markets / macro"
     }
   ]
 }
