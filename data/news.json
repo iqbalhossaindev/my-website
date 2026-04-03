@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-03 11:27 UTC",
+  "updated_at": "2026-04-03 14:30 UTC",
   "headlines": [
-    "Drift Protocol hit by massive Solana exploit — ~$200–285M stolen",
-    "Circle unveils cirBTC, a 1:1 wrapped Bitcoin for institutions",
-    "Riot Platforms reports Q1 bitcoin production and sales",
-    "Large options expiry today: ~$1.8B in Bitcoin (plus ETH) could move markets",
-    "Crypto ETF flows mixed: Bitcoin funds seeing inflows while Ethereum ETFs pull money out (Apr 1–2 data)"
+    "Morgan Stanley moves closer to spot Bitcoin ETF (MSBT)",
+    "Massive Drift Protocol exploit on Solana drains ~$270–$285M",
+    "Circle unveils cirBTC — a 1:1 wrapped Bitcoin for institutions",
+    "On-chain sleuths blast Circle for slow action after Drift hack",
+    "Bitcoin drifts below key $66k support as markets turn cautious"
   ],
   "articles": [
     {
-      "title": "Drift Protocol hit by massive Solana exploit — ~$200–285M stolen",
-      "summary": "Solana-based derivatives protocol Drift confirmed an active security incident that onchain trackers show drained at least $200 million and some estimates near $270–285 million. Drift paused deposits and withdrawals while investigators and security firms trace stolen funds and try to contain the attack.",
-      "source": "The Block / PYMNTS (coverage of onchain figures and protocol comment)",
-      "url": "",
+      "title": "Morgan Stanley files S-1 amendments as MSBT Bitcoin ETF nears launch",
+      "summary": "Morgan Stanley filed S-1 registration material for the Morgan Stanley Bitcoin Trust (ticker MSBT) and updated operational details (custody, benchmark and fees), signalling the product is in final SEC review and could list on NYSE Arca. This would add another low‑fee spot‑BTC ETF to the U.S. market. ",
+      "source": "SEC / Whale Alert",
+      "url": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926036138/tm2534140-10_s1a.htm",
+      "published_at": "2026-03-27 / Apr 1–2, 2026 reporting",
+      "category": "ETF / Bitcoin"
+    },
+    {
+      "title": "Drift Protocol on Solana exploited — roughly $270–$285M affected",
+      "summary": "Drift, a major Solana perpetuals DEX, was hit by a fast exploit on April 1 that drained large vault balances and cut TVL by roughly half; investigators estimate the loss at about $270–$285M and security firms are tracing the attacker and money flows. The incident paused deposits/withdrawals and sent shock waves through Solana DeFi. ",
+      "source": "Elliptic / on-chain analysts",
+      "url": "https://www.elliptic.co/blog/drift-protocol-exploited-for-286-million-in-suspected-dprk-linked-attack",
       "published_at": "2026-04-01 / 2026-04-02",
-      "category": "security / exchange / DeFi"
+      "category": "Exchange / Hack / DeFi"
     },
     {
-      "title": "Circle unveils cirBTC: a 1:1 wrapped Bitcoin for institutions",
-      "summary": "Circle announced cirBTC, a wrapped Bitcoin token that will be backed 1:1 by native BTC and verifiable onchain. The product is aimed at OTC desks, market makers and institutional use and will launch first on Ethereum and Circle's Arc network, pending approvals.",
-      "source": "Circle (official) / CryptoBriefing",
-      "url": "",
+      "title": "Circle announces cirBTC — a 1:1 tokenized Bitcoin aimed at institutions",
+      "summary": "Circle revealed cirBTC, a wrapped Bitcoin token fully backed 1:1 by native BTC with on‑chain reserve verification, positioned for OTC desks, market makers and lending protocols and intended to integrate with Circle’s Arc and Circle Mint infrastructure. The move expands Circle beyond stablecoins into tokenized BTC infrastructure. ",
+      "source": "BeInCrypto / GNcrypto reporting on Circle announcement",
+      "url": "https://beincrypto.com/circle-cirbtc-wrapped-bitcoin-coinbase-cbbtc-rival/",
       "published_at": "2026-04-02 / 2026-04-03",
-      "category": "Bitcoin / stablecoin / infrastructure"
+      "category": "Stablecoin / Tokenization / Bitcoin"
     },
     {
-      "title": "Riot Platforms reports Q1 bitcoin production and sales",
-      "summary": "Bitcoin miner Riot Platforms said it mined 1,473 BTC in Q1 2026 and sold 3,778 BTC during the quarter for net proceeds of about $289.5M, while ending March with roughly 15,680 BTC on its balance sheet.",
-      "source": "Investing.com",
-      "url": "",
-      "published_at": "2026-04-03",
-      "category": "mining / markets"
-    },
-    {
-      "title": "Big options expiry today: about $1.8B of BTC options (plus ETH) could boost volatility",
-      "summary": "Deribit-settled options worth roughly $1.8 billion for Bitcoin expire today, with concurrent Ethereum expiries of around $300 million. Big expiries often bring short-term volatility as dealers hedge and rebalance positions near 'max pain' strike levels.",
-      "source": "MEXC (market note) / CryptoAdventure",
-      "url": "",
-      "published_at": "2026-04-03",
-      "category": "markets / derivatives"
-    },
-    {
-      "title": "ETF flows mixed (Apr 1–2): Bitcoin ETFs see modest inflows while Ethereum funds face outflows",
-      "summary": "Recent daily ETF data show spot Bitcoin funds recording small net inflows while several Ethereum ETFs saw outflows, highlighting rotating institutional demand between BTC and ETH and continued capital flows via ETF wrappers.",
-      "source": "QuikNotes / BeInCrypto (daily ETF flow reports)",
-      "url": "",
-      "published_at": "2026-04-02 / 2026-04-03",
-      "category": "ETF / markets"
-    },
-    {
-      "title": "Cambodia passes new cybercrime law targeting scam centres",
-      "summary": "Cambodia’s parliament approved a law aimed at shutting down organised online scam centres that have been linked to fraud and crypto-related scams. The law adds enforcement tools and follows international pressure to address cross-border fraud networks.",
-      "source": "Reuters",
-      "url": "",
-      "published_at": "2026-04-03",
-      "category": "regulation / illicit finance"
-    },
-    {
-      "title": "Federal Reserve official Michael Barr warns stablecoins pose systemic risks",
-      "summary": "Fed Governor Michael Barr said stablecoins bring benefits but also risks—reserve quality, liquidity and money‑laundering concerns—and urged careful rule design under the GENIUS Act to protect financial stability and consumers.",
-      "source": "TheStreet (reporting / Bloomberg coverage) / Cointelegraph",
-      "url": "",
-      "published_at": "2026-04-01",
-      "category": "regulation / stablecoins"
-    },
-    {
-      "title": "Metaplanet adds 5,075 BTC in Q1, becoming a top public-company holder",
-      "summary": "Tokyo-listed firm Metaplanet disclosed it bought 5,075 BTC in the first quarter, bringing its public‑company holdings to about 40,177 BTC — a notable sign that some public companies continue to accumulate Bitcoin even amid recent market weakness.",
-      "source": "CCN / market disclosures",
-      "url": "",
+      "title": "On‑chain researchers criticise Circle for slow freezes after the Drift hack",
+      "summary": "Prominent on‑chain sleuths publicly accused Circle of not acting quickly enough to freeze stolen USDC that moved via Circle’s cross‑chain tooling during the Drift exploit, reigniting debate over issuer freeze powers and centralised stablecoin safeguards. ",
+      "source": "BeInCrypto (coverage of ZachXBT and other on‑chain sleuths)",
+      "url": "https://beincrypto.com/zachxbt-circle-usdc-drift-hack-criticism/",
       "published_at": "2026-04-02",
-      "category": "institutional flows / treasury"
+      "category": "Stablecoin / Security / Regulation"
+    },
+    {
+      "title": "Bitcoin slips below $66k amid geopolitical & macro jitters",
+      "summary": "Bitcoin briefly traded under $66,000 as macro worries and risk‑off headlines pressured markets; traders flagged large liquidations and fragile short‑term support levels. The move reflects higher volatility around recent political and macro news. ",
+      "source": "Fortune price page / market updates",
+      "url": "https://fortune.com/article/price-of-bitcoin-04-02-2026/",
+      "published_at": "2026-04-02",
+      "category": "Market / Bitcoin"
+    },
+    {
+      "title": "Solana token and DeFi hit after Drift exploit; SOL price dips",
+      "summary": "Solana’s token fell several percent and Solana DeFi TVL plunged after the Drift exploit, as users and markets reacted to the largest DeFi breach of the period and related liquidity outflows. Traders watch SOL support levels closely for further downside. ",
+      "source": "CoinMarketCap top stories / CryptoNews reporting",
+      "url": "https://coinmarketcap.com/top-stories/69cdcedbba76c938030ee216/",
+      "published_at": "2026-04-02",
+      "category": "Altcoin / Market / DeFi"
+    },
+    {
+      "title": "Tether moves toward Big‑Four audit (KPMG) as stablecoin rules loom",
+      "summary": "Tether has engaged a Big‑Four auditor for its first full reserves audit, a major transparency step for the $USDT market leader as global and U.S. stablecoin rules take shape. The audit push is being read by markets as part of broader industry efforts to meet expected regulation. ",
+      "source": "The Block / Financial Times reporting (industry coverage)",
+      "url": "https://www.theblock.co/post/395423/tether-taps-kpmg-for-first-full-audit/",
+      "published_at": "2026-03-27 (reported/reported widely into early April)",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Corporate Bitcoin buy: Metaplanet adds 5,075 BTC to its treasury (Q1 disclosure)",
+      "summary": "Tokyo‑listed Metaplanet disclosed in a Q1 filing that it bought 5,075 BTC during the quarter, bringing its total holdings to over 40,000 BTC — a large corporate accumulation that matters for Bitcoin supply dynamics. ",
+      "source": "Bitcoin.com reporting on Metaplanet’s Q1 disclosure",
+      "url": "https://news.bitcoin.com/metaplanet-buys-5075-bitcoin-in-q1-2026-total-holdings-hit-40177-btc/",
+      "published_at": "2026-04-02",
+      "category": "Market / Bitcoin / Institutional"
     }
   ]
 }
