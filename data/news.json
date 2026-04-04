@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 08:01 UTC",
+  "updated_at": "2026-04-04 10:07 UTC",
   "headlines": [
-    "U.S. Treasury opens public comment on GENIUS stablecoin rules",
-    "Coinbase wins conditional OCC national trust-charter approval",
-    "Charles Schwab says 'Schwab Crypto' accounts are coming soon",
-    "Major Solana DEX Drift suffers $270–$285M exploit",
-    "Marathon (MARA) sells $1.1B in BTC, cuts staff as it pivots to AI/data centers"
+    "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT) with new S-1 amendment",
+    "Circle announces cirBTC — a 1:1 wrapped Bitcoin for institutions",
+    "Stablecoin monthly volume tops US ACH for the first time",
+    "Bitcoin miner Riot sold 3,778 BTC in Q1 as miners trim reserves",
+    "Metaplanet bought 5,075 BTC in Q1 and became a top public Bitcoin treasury holder"
   ],
   "articles": [
     {
-      "title": "Treasury seeks public comment on GENIUS stablecoin rules",
-      "summary": "The U.S. Treasury published a notice of proposed rulemaking under the GENIUS Act that would set standards for state-level oversight of payment stablecoin issuers and seeks public feedback. The move aims to align state rules with new federal stablecoin guardrails. ",
-      "source": "Law360 / Treasury reporting",
-      "url": "(see sources)",
-      "published_at": "April 1–2, 2026",
-      "category": "Regulation"
+      "title": "Morgan Stanley signals near-launch for spot Bitcoin ETF (MSBT)",
+      "summary": "Morgan Stanley filed an S-1 amendment for the Morgan Stanley Bitcoin Trust (ticker MSBT) that lays out custody, listing and a low 0.14% fee — a clear sign the bank is close to launching a US spot Bitcoin ETF. (Apr 1–3, 2026)",
+      "source": "The Block / Whale Alert",
+      "url": "https://www.theblock.co",
+      "published_at": "2026-04-01",
+      "category": "ETF"
     },
     {
-      "title": "Coinbase receives conditional approval for a national trust charter from the OCC",
-      "summary": "Coinbase said U.S. banking regulators gave conditional approval for a national trust company charter for Coinbase National Trust Co., a step that could place custody and market‑infrastructure business under federal supervision and boost institutional trust. Coinbase stressed it does not plan to take retail deposits or become a traditional bank. ",
-      "source": "Reuters / The Block / Coinbase reporting",
-      "url": "(see sources)",
-      "published_at": "April 2, 2026",
-      "category": "Exchange & Regulation"
+      "title": "Circle unveils cirBTC — a 1:1 wrapped Bitcoin aimed at institutions",
+      "summary": "Circle announced cirBTC, a Bitcoin-backed token (1:1) that will launch on Ethereum and Circle’s Arc chain with on-chain reserve verification to serve OTC desks, market makers and DeFi. (Apr 3, 2026)",
+      "source": "Cointelegraph / Bitcoin.com",
+      "url": "https://cointelegraph.com/news/circle-launch-cirbtc-wrapped-bitcoin-token-targeting-institutional-markets",
+      "published_at": "2026-04-03",
+      "category": "Stablecoin / Bitcoin"
     },
     {
-      "title": "Charles Schwab teases 'Schwab Crypto'—direct Bitcoin & Ether trading coming",
-      "summary": "Charles Schwab added a 'Crypto at Schwab' page and an interest list saying 'Schwab Crypto' accounts to buy and sell Bitcoin and Ethereum are coming soon for most U.S. states, signaling major retail brokerage entry into spot crypto trading. ",
-      "source": "Charles Schwab official page / industry reports",
-      "url": "(see sources)",
-      "published_at": "April 3, 2026",
-      "category": "Market & Adoption"
-    },
-    {
-      "title": "Drift Protocol (Solana) hit by $270–$285M exploit",
-      "summary": "Drift, a large Solana-based perpetuals DEX, was exploited in a major attack that drained roughly $270–$285 million. Protocol teams paused activity and are coordinating with analytics firms and exchanges to track and contain stolen funds — a big security shock for Solana DeFi. ",
-      "source": "Elliptic / on-chain reporting",
-      "url": "(see sources)",
-      "published_at": "April 1–2, 2026",
-      "category": "Security / Altcoin"
-    },
-    {
-      "title": "MARA sells 15,133 BTC for $1.1B and cuts ~15% of staff to fund AI pivot",
-      "summary": "Marathon (MARA) disclosed it sold about 15,133 BTC (~$1.1 billion) in March to reduce convertible debt, and announced workforce cuts as it repositions mining sites toward AI and data‑center services. The move highlights miners selling BTC to shore up balance sheets and pursue new revenue lines. ",
-      "source": "Decrypt / BeInCrypto / company reporting",
-      "url": "(see sources)",
-      "published_at": "April 2–3, 2026",
-      "category": "Bitcoin / Mining"
-    },
-    {
-      "title": "Riot Platforms sold 3,778 BTC in Q1 amid miner sell‑offs",
-      "summary": "Riot Platforms disclosed Q1 sales of 3,778 BTC (roughly $289.5M at reported averages) as listed miners continued to liquidate inventory during a weak quarter for mining economics. The broader miner sell‑off is a key driver of short‑term Bitcoin supply pressure. ",
-      "source": "Cointelegraph / on‑chain filings",
-      "url": "(see sources)",
-      "published_at": "Q1 report, published April 2–3, 2026",
-      "category": "Bitcoin / Mining"
-    },
-    {
-      "title": "Metaplanet bought 5,075 BTC in Q1 to become the 3rd‑largest corporate Bitcoin treasury",
-      "summary": "Tokyo‑listed Metaplanet disclosed a large Q1 accumulation of 5,075 BTC (bringing its total to ~40,177 BTC), underscoring that several public companies keep adding to bitcoin treasuries even as prices correct. ",
-      "source": "Cointelegraph reporting",
-      "url": "(see sources)",
-      "published_at": "April 2, 2026",
-      "category": "Bitcoin / Corporate Treasuries"
-    },
-    {
-      "title": "Linux Foundation, Coinbase and Big Tech back x402 Foundation for agentic‑AI payments",
-      "summary": "The Linux Foundation launched the x402 Foundation to standardize agentic‑AI payment rails. Google, Microsoft, AWS, Visa, Mastercard, Coinbase and others signaled support — a development at the crossroads of crypto payments, AI agents, and traditional finance infrastructure. ",
+      "title": "Stablecoins processed more monthly volume than the US ACH network",
+      "summary": "Data shows stablecoin transfers hit roughly $7.2T in February, surpassing the US ACH network’s $6.8T — a major milestone for stablecoins as a payments and trading backbone. (Reported Apr 3, 2026)",
       "source": "Cointelegraph",
-      "url": "(see sources)",
-      "published_at": "April 3, 2026",
-      "category": "Payments / AI & Crypto"
+      "url": "https://cointelegraph.com/news/stablecoins-flip-ach-monthly-volume-in-february",
+      "published_at": "2026-04-03",
+      "category": "Stablecoin / Payments"
+    },
+    {
+      "title": "Riot Platforms sold 3,778 BTC in Q1 amid miner selling pressure",
+      "summary": "Bitcoin miner Riot disclosed selling 3,778 BTC in Q1 (~$289.5M at average prices) as listed miners continue to trim holdings under market stress. This adds to a wave of miner and corporate sales. (Apr 3, 2026)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/riot-sells-3778-bitcoin-miners-shift-strategy",
+      "published_at": "2026-04-03",
+      "category": "Bitcoin / Market"
+    },
+    {
+      "title": "Metaplanet bought 5,075 BTC in Q1 and joins the largest public Bitcoin treasuries",
+      "summary": "Tokyo-listed Metaplanet bought 5,075 BTC (~$405M) during Q1 2026, bringing its total holdings to 40,177 BTC and making it one of the largest public corporate Bitcoin treasuries. (Apr 2, 2026)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options",
+      "published_at": "2026-04-02",
+      "category": "Bitcoin / Corporate Treasury"
+    },
+    {
+      "title": "Solana handled a record wave of stablecoin transfers — $650B in February",
+      "summary": "On-chain reports show Solana processed roughly $650B of stablecoin transactions in February 2026, underscoring the chain’s growth as a high-speed settlement layer for stablecoins and tokenized assets. (Reported early April 2026)",
+      "source": "Live Bitcoin News / CryptoRank",
+      "url": "https://www.livebitcoinnews.com/solana-stablecoin-volume-hits-650b-dwarfing-gold-futures/",
+      "published_at": "2026-04-01",
+      "category": "Altcoin / Stablecoin"
+    },
+    {
+      "title": "Telegram wallet adds perpetual futures trading via Lighter",
+      "summary": "Telegram’s wallet integration now supports perpetual futures trading (up to 50×) through a Lighter DEX integration, expanding crypto derivatives to Telegram’s large user base. (Apr 2, 2026)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wallet-in-telegram-perpetual-future-lighter-dex",
+      "published_at": "2026-04-02",
+      "category": "Exchange / Derivatives"
+    },
+    {
+      "title": "CFTC settles with former FTX engineer Nishad Singh for $3.7M",
+      "summary": "The CFTC finalized a settlement requiring former FTX engineer Nishad Singh to pay $3.7M in disgorgement, closing one of the regulator’s actions tied to the FTX collapse. (Settlement public Apr 1, 2026)",
+      "source": "MEXC / Bitcoin.com (coverage of CFTC order)",
+      "url": "https://www.mexc.com/news/999851",
+      "published_at": "2026-04-01",
+      "category": "Regulation / Enforcement"
     }
   ]
 }
