@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 21:08 UTC",
+  "updated_at": "2026-04-04 23:03 UTC",
   "headlines": [
-    "Drift Protocol hit by huge Solana exploit",
-    "Circle criticized for not freezing USDC after Drift theft",
-    "Ethereum Foundation stakes ~45,000 ETH, nears 70,000 ETH goal",
-    "U.S. (CFTC & DOJ) sues states over prediction-market rules",
-    "DeFi hacks fall in Q1 but big single losses persist ($169M)  : Q1 2026 update from Cointelegraph','Coinbase wins conditional OCC national trust charter approval','BTC vs ETH ETF flows diverge (BTC inflows, ETH outflows) — weekly data','Riot sells 3,778 BTC in Q1 2026 — miner treasury moves"
+    "Charles Schwab launches 'Schwab Crypto' page — spot Bitcoin & Ethereum trading coming",
+    "Coinbase wins conditional OK from OCC for a national trust charter",
+    "Bitcoin slips as spot‑ETF flows turn mixed and Good Friday halts institutional flows",
+    "Q1 2026 DeFi hacks drop but still cost $168–169M across 34 projects",
+    "Binance keeps top derivatives market share as derivatives volume hits $18.6T in Q1 2026"
   ],
   "articles": [
     {
-      "title": "Drift Protocol suffers massive exploit on Solana (≈$270–285M)",
-      "summary": "Drift, a major Solana-based perpetuals exchange, confirmed an active attack on April 1–2, 2026. On‑chain analysts and security firms estimated $270–$285 million was drained; the protocol paused deposits and withdrawals while investigators traced funds across chains. This is one of 2026’s largest DeFi losses and pushed SOL and many Solana projects lower.",
-      "source": "Bloomberg / Drift on-chain reports",
-      "url": "(Bloomberg coverage)",
-      "published_at": "2026-04-01/2026-04-02",
-      "category": "exchange/hack"
+      "title": "Charles Schwab to offer spot Bitcoin and Ethereum via 'Schwab Crypto' (H1 2026)",
+      "summary": "Charles Schwab added a ‘Schwab Crypto’ page and says a spot BTC and ETH trading account is coming soon. If rolled out, Schwab’s move would open direct crypto buying for millions of retail brokerage clients and could bring very large new demand to the market.",
+      "source": "Charles Schwab (company page) + industry reports",
+      "url": "https://www.schwab.com/cryptocurrency",
+      "published_at": "2026-04-04",
+      "category": "Market / Exchange"
     },
     {
-      "title": "Circle faces criticism for not freezing stolen USDC after Drift hack",
-      "summary": "Investigators say large amounts of stolen assets were converted into USDC and bridged to Ethereum. Critics — including blockchain sleuths — argue Circle could have acted faster to block or blacklist addresses; Circle says it only freezes funds when legally required or at law‑enforcement request.",
-      "source": "CoinDesk coverage cited by PYMNTS / MoneyCheck",
-      "url": "(reporting on Circle response)",
-      "published_at": "2026-04-03",
-      "category": "stablecoin/regulation"
-    },
-    {
-      "title": "Ethereum Foundation stakes ~45,034 ETH, nears 70,000 ETH target",
-      "summary": "On April 3, 2026 the Ethereum Foundation moved roughly 45,034 ETH into the Beacon Chain in multiple equal deposits, bringing its total staked ETH close to the 70,000‑ETH goal it announced earlier. The move locks more ETH into consensus staking and slightly reduces liquid supply available on exchanges.",
-      "source": "Coin360 / on‑chain trackers (Arkham)",
-      "url": "(on‑chain reporting)",
-      "published_at": "2026-04-03",
-      "category": "Ethereum/staking"
-    },
-    {
-      "title": "CFTC and DOJ sue Illinois, Arizona and Connecticut over prediction‑market regulation",
-      "summary": "On April 2–3, 2026 the U.S. government (CFTC backed by DOJ filings) sued several states to stop state gambling authorities from enforcing cease‑and‑desist orders against federally‑regulated prediction markets. The cases raise a big jurisdiction fight over whether event contracts are federally regulated derivatives or state‑level gambling.",
-      "source": "WGLT / DeFiRate / Techmeme (Reuters coverage)",
-      "url": "(news coverage of federal lawsuits)",
+      "title": "Coinbase gets conditional approval from the OCC for a national trust charter",
+      "summary": "The Office of the Comptroller of the Currency has given Coinbase conditional approval to form a national trust company. That is a major regulatory milestone: a final charter would let Coinbase offer federally supervised custody and trust services for digital assets once it meets the OCC’s conditions.",
+      "source": "Cointelegraph + OCC application documents",
+      "url": "https://cointelegraph.com/news/coinbase-conditional-approval-national-trust-charter-occ",
       "published_at": "2026-04-02",
-      "category": "regulation"
+      "category": "Regulation / Exchange"
     },
     {
-      "title": "DeFi hacks Q1 2026: ~$169M lost, decline from prior year but single exploits still large",
-      "summary": "Quarterly tracking shows DeFi exploits stole about $169M in Q1 2026 across dozens of incidents — a big year‑on‑year drop from 2025 but still driven by a few very large attacks (including the early‑April Drift event). Security remains a top risk for decentralized finance.",
-      "source": "Cointelegraph (DefiLlama / Q1 data)",
-      "url": "(Cointelegraph Q1 report)",
+      "title": "Bitcoin dips below ~$67K as spot‑ETF flows turn mixed and Good Friday pauses institutional activity",
+      "summary": "Bitcoin fell to the mid‑$60k range after renewed selling and a day when ETF creation/redemption and some CME futures were paused for Good Friday. ETF flows were mixed that week, leaving BTC exposed to thinner weekend liquidity and renewed price pressure.",
+      "source": "The Coin Republic + CryptoMist market coverage",
+      "url": "https://www.thecoinrepublic.com/2026/04/03/bitcoin-price-risks-drop-to-60k-as-etfs-see-174m-outflows/",
       "published_at": "2026-04-03",
-      "category": "security/DeFi"
+      "category": "Bitcoin / ETF / Market"
     },
     {
-      "title": "Coinbase gets conditional OCC national trust charter (step toward federal custody status)",
-      "summary": "The Office of the Comptroller of the Currency granted Coinbase conditional approval to form a national trust company for custody and market‑infrastructure services. This is not a final bank license but it moves Coinbase closer to a single federal regulatory home for custody services and institutional products.",
-      "source": "Coinpaper / Cryptoslate / company filings",
-      "url": "(reporting on OCC conditional approval)",
+      "title": "Q1 2026 DeFi hacks fall but still cost about $168.6M across 34 protocols",
+      "summary": "DeFi exploits dropped year‑on‑year in Q1, but attackers still stole roughly $168.6 million from 34 projects. The report highlights that private‑key compromises and smart‑contract bugs remain the main risks to decentralized finance.",
+      "source": "Cointelegraph reporting on DefiLlama data",
+      "url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline",
+      "published_at": "2026-04-03",
+      "category": "Security / DeFi"
+    },
+    {
+      "title": "Binance leads Q1 derivatives volumes as total crypto derivatives hit $18.6 trillion",
+      "summary": "Derivatives stayed dominant in Q1 2026 with roughly $18.6T of volume; Binance remained the top derivatives venue while new perp‑DEXs like Hyperliquid cracked the top ten. The report underlines how futures and perpetuals still drive most trading activity.",
+      "source": "Cointelegraph coverage of CoinGlass data",
+      "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass",
+      "published_at": "2026-04-03",
+      "category": "Exchange / Derivatives"
+    },
+    {
+      "title": "Arkham flags a 500 BTC wallet outflow linked to Riot Platforms — miner selling continues",
+      "summary": "On‑chain analytics linked a 500 BTC outflow to a wallet associated with Riot Platforms, signaling another possible miner or treasury sale. Listed miners selling reserves can add sustained selling pressure to Bitcoin markets.",
+      "source": "Cointelegraph reporting on Arkham on‑chain data",
+      "url": "https://cointelegraph.com/news/onchain-data-flags-fresh-riot-500-btc-sale",
       "published_at": "2026-04-02",
-      "category": "exchange/regulation"
+      "category": "Bitcoin / Mining"
     },
     {
-      "title": "ETF flows: Bitcoin ETFs net inflows while Ether ETFs show outflows (week of Mar 30–Apr 2)",
-      "summary": "Weekly data show continued net inflows into U.S. spot Bitcoin ETFs while Ether‑focused ETFs saw net outflows over the same short window. The divergence matters for price leadership and short‑term liquidity across BTC vs ETH markets.",
-      "source": "Coin360 weekly ETF/flow data",
-      "url": "(Coin360 weekly dispatch)",
-      "published_at": "2026-03-30_to_2026-04-02",
-      "category": "ETF/market"
-    },
-    {
-      "title": "Riot Platforms sold 3,778 BTC in Q1 2026 (miner treasury movement)",
-      "summary": "Riot disclosed the sale of 3,778 BTC in Q1 2026, raising roughly $289.5M in proceeds. Miner sales like this can influence short‑term BTC supply on exchanges and are monitored by traders as a liquidity and price factor.",
-      "source": "The Defiant / company filings coverage",
-      "url": "(miner sales report)",
+      "title": "U.S. stablecoin rulemaking moves forward — regulators schedule April rule sessions under the GENIUS Act",
+      "summary": "U.S. agencies are moving on stablecoin rules tied to the GENIUS Act: credit‑union and banking regulators have set comment windows and the FDIC has scheduled related rule sessions in early April. The rulemaking will shape which institutions can issue or custody payment stablecoins and how reserves are held.",
+      "source": "NCUA notice + industry reporting on planned FDIC rule sessions",
+      "url": "https://ncua.gov/news/events/2026/comments-genius-act-proposal-due-april-13",
       "published_at": "2026-04-03",
-      "category": "mining/market"
+      "category": "Regulation / Stablecoins"
+    },
+    {
+      "title": "Solana under pressure — DEX volume and on‑chain activity slump, SOL price weakens",
+      "summary": "Solana’s decentralized exchange volumes and network activity have fallen sharply, putting technical pressure on SOL. Lower DEX volumes and shrinking stablecoin liquidity on Solana increase downside risk for the token until activity recovers.",
+      "source": "Cointelegraph + TradingNews coverage",
+      "url": "https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support",
+      "published_at": "2026-04-01",
+      "category": "Altcoin / Solana"
     }
   ]
 }
