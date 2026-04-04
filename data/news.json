@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 16:01 UTC",
+  "updated_at": "2026-04-04 17:50 UTC",
   "headlines": [
-    "Coinbase wins conditional OCC national trust charter (Apr 2, 2026)",
-    "JPMorgan: institutional crypto flows plunged in Q1 2026",
-    "U.S. spot Bitcoin & Ethereum ETFs posted net outflows on April 3, 2026",
-    "Binance adds oil & natural-gas perpetual futures, expanding into commodities",
-    "Tether hires a Big Four firm for its first full USDT financial audit (March 2026 filings/news )"
+    "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT)",
+    "CoinShares lists on Nasdaq after $1.2B Vine Hill deal",
+    "Tether hires KPMG for first full financial audit",
+    "Stablecoin market tops $317B with $1.24B weekly inflows",
+    "KuCoin agrees to $500K CFTC settlement and U.S. access injunction"
   ],
   "articles": [
     {
-      "title": "Coinbase receives conditional approval for a national trust company charter (Apr 2, 2026)",
-      "summary": "The Office of the Comptroller of the Currency gave Coinbase conditional approval to form a federally chartered national trust company on April 2, 2026 — a major step that would let the exchange expand custody and bank-like services once pre‑opening conditions are met. This move drew immediate pushback from bank lobby groups that warned of consumer and safety concerns.",
-      "source": "Benzinga / Independent Community Bankers of America (ICBA)",
-      "url": "",
-      "published_at": "2026-04-02",
+      "title": "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT)",
+      "summary": "Morgan Stanley filed Amendment No. 4 to its S-1 for the proposed Morgan Stanley Bitcoin Trust (ticker: MSBT), updating custody, listing and fee details and signalling the product is near launch. The filing names BNY Mellon and Coinbase Custody and lists a low management fee that will intensify competition in U.S. spot Bitcoin ETFs. (Filed April 1, 2026.)",
+      "source": "Whale Alert / Bitcoin.com",
+      "url": "https://whale-alert.io/stories/8da0010a820210/Morgan-Stanley-amends-S1-to-list-MSBT-passive-Bitcoin-ETF-on-NYSE-Arca-names-BNY-Mellon-and-Coinbase-as-custodians-sets-014-fee",
+      "published_at": "2026-04-01",
+      "category": "ETF"
+    },
+    {
+      "title": "CoinShares lists on Nasdaq after $1.2B Vine Hill deal",
+      "summary": "Europe’s largest digital-asset manager CoinShares began trading on Nasdaq under ticker CSHR after a $1.2 billion combination with Vine Hill. The U.S. listing marks stronger institutional footing for crypto investment firms and could boost demand for crypto ETPs and related products. (Announced April 1, 2026.)",
+      "source": "Bitcoin News / CoinShares press release",
+      "url": "https://investor.coinshares.com/pressreleases/coinshares-begins-trading-on-the-nasdaq-stock-market",
+      "published_at": "2026-04-01",
+      "category": "Market / Institutional"
+    },
+    {
+      "title": "Tether hires KPMG for first full USDT financial audit",
+      "summary": "Tether has engaged KPMG to perform its first full financial-statement audit of USDT reserves and brought in PwC to upgrade internal controls, a move aimed at boosting transparency ahead of U.S. expansion plans. This is the biggest audit development for the world’s largest stablecoin in years. (Reported March 26–27, 2026.)",
+      "source": "The Block / Bloomberg Law",
+      "url": "https://www.theblock.co/post/395423/tether-taps-kpmg-for-first-financial-audit/",
+      "published_at": "2026-03-27",
+      "category": "Stablecoin / Regulation"
+    },
+    {
+      "title": "Stablecoin market tops $317B with $1.24B weekly inflows",
+      "summary": "The dollar‑pegged stablecoin sector crossed about $317 billion in market value after recording roughly $1.24 billion of inflows over the prior week. Tether remains the largest issuer, and strong inflows indicate continued demand for on‑chain dollar liquidity. (Data snapshot Apr 4, 2026.)",
+      "source": "Bitcoin.com",
+      "url": "https://news.bitcoin.com/dollar-pegged-crypto-market-crosses-317b-threshold-with-1-24b-in-weekly-inflows/",
+      "published_at": "2026-04-04",
+      "category": "Stablecoin / Market"
+    },
+    {
+      "title": "KuCoin agrees to $500K CFTC settlement; U.S. access barred without registration",
+      "summary": "A U.S. federal court entered a consent order requiring Peken Global (operator of KuCoin) to pay $500,000 to settle CFTC claims that it ran an unregistered offshore commodities exchange. The order also permanently bars allowing U.S. persons to trade on the platform unless it registers with the CFTC as a foreign board of trade. (Consent order entered Mar 30–31, 2026.)",
+      "source": "Cointelegraph (via TradingView)",
+      "url": "https://www.tradingview.com/news/cointelegraph%3A513369bc2094b%3A0-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case/",
+      "published_at": "2026-03-31",
       "category": "Exchange / Regulation"
     },
     {
-      "title": "JPMorgan: crypto investment flows fell to $11B in Q1 2026",
-      "summary": "JPMorgan research reported a sharp slowdown in crypto investment flows during Q1 2026, with total flows roughly $11 billion — about one‑third of the prior year — signalling weaker institutional net demand early in 2026.",
-      "source": "The Block (JPMorgan analysis)",
-      "url": "",
+      "title": "Q1 derivatives volume soars to $18.6T; Binance still leads derivatives market",
+      "summary": "CoinGlass data show crypto derivatives trading totaled roughly $18.6 trillion in Q1 2026, with Binance leading the quarter (about $4.9 trillion). The report highlights the dominance of derivatives vs. spot markets and growing activity on perp DEXs. (CoinGlass/Cointelegraph report, Apr 3, 2026.)",
+      "source": "Cointelegraph (CoinGlass report)",
+      "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass",
       "published_at": "2026-04-03",
-      "category": "Market / Institutional Flows"
+      "category": "Market / Exchange"
     },
     {
-      "title": "Spot Bitcoin & Ethereum ETFs saw net outflows on April 3, 2026",
-      "summary": "Data providers showed U.S. spot Bitcoin and Ethereum ETFs recorded net outflows on April 3, 2026, as risk‑off macro headlines and reduced ETF creation activity pressured short‑term demand for both BTC and ETH exposure.",
-      "source": "CoinRepublic / CoinDesk Daybook (ETF flow data)",
-      "url": "",
-      "published_at": "2026-04-03",
-      "category": "ETF / Market Flows"
-    },
-    {
-      "title": "Binance launches oil and natural‑gas perpetual futures (late Mar–Apr 2026)",
-      "summary": "Binance expanded its derivatives suite by listing perpetual futures tied to major energy commodities (WTI, Brent and natural gas), giving crypto traders 24/7 exposure to oil and gas prices and signalling exchanges’ growing push into real‑world commodity derivatives.",
-      "source": "Binance announcement coverage (MEXC / InteractiveCrypto)",
-      "url": "",
-      "published_at": "2026-03-30 / 2026-04-01",
-      "category": "Exchange / Derivatives"
-    },
-    {
-      "title": "Tether engages a Big Four firm for a full USDT financial audit (March 2026 reports)",
-      "summary": "Tether confirmed it retained a Big Four accounting firm to perform its first full financial statement audit of USDT reserves, a milestone that aims to close long‑standing transparency questions about the world's largest stablecoin.",
-      "source": "Bloomberg Law / Cointelegraph",
-      "url": "",
-      "published_at": "2026-03-24 to 2026-03-27 (reporting)",
-      "category": "Stablecoin / Transparency"
-    },
-    {
-      "title": "Morgan Stanley files ultra‑low fee spot Bitcoin ETF (0.14%)",
-      "summary": "Morgan Stanley filed paperwork for a spot Bitcoin ETF with a 0.14% fee, positioning the bank to offer one of the cheapest U.S. Bitcoin ETFs and signalling more traditional asset managers are moving into spot crypto products.",
-      "source": "Blockonomi / MEXC (filing reports)",
-      "url": "",
-      "published_at": "2026-03-28",
-      "category": "ETF / Institutional Products"
-    },
-    {
-      "title": "U.S. Treasury starts GENIUS Act implementation with a proposed rulemaking (early April 2026)",
-      "summary": "The U.S. Treasury published a notice of proposed rulemaking to begin implementing the GENIUS Act stablecoin framework — the first formal step to shape how payment stablecoins will be regulated and licensed in the U.S.",
-      "source": "Bitcoin Insider / coverage",
-      "url": "",
+      "title": "Metaplanet buys 5,075 BTC in Q1 to become the 3rd‑largest public Bitcoin treasury",
+      "summary": "Tokyo‑listed Metaplanet disclosed it acquired 5,075 BTC (~$405M) in Q1 2026 and now holds about 40,177 BTC, making it the third‑largest publicly listed corporate Bitcoin treasury. The move shows companies still use BTC as a treasury asset despite recent market turbulence. (Filed Apr 2, 2026.)",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options/",
       "published_at": "2026-04-02",
-      "category": "Regulation / Stablecoins"
+      "category": "Bitcoin / Corporate"
     },
     {
-      "title": "Blur (BLUR) monthly token unlock pumps new supply to market (April 3, 2026)",
-      "summary": "Blur executed a scheduled token unlock on April 3, 2026, moving a large tranche of BLUR tokens (reported in the hundreds of millions in nominal USD) to Coinbase Prime — a supply event that can weigh on price and trading sentiment for the NFT‑market focused token.",
-      "source": "BitcoinEthereumNews (on‑chain transfer reporting)",
-      "url": "",
-      "published_at": "2026-04-03",
-      "category": "Altcoin / Token Supply"
+      "title": "Ethereum Foundation stakes ~45,000 ETH in April deposit, nears 70,000 ETH goal",
+      "summary": "The Ethereum Foundation staked roughly 45,034 ETH on April 3, 2026, bringing its cumulative stake close to a 70,000 ETH target. The deposit shows continued protocol support and reduces liquid supply ahead of any price moves tied to staking flows. (Reported Apr 3–4, 2026.)",
+      "source": "Bitcoin.com",
+      "url": "https://news.bitcoin.com/ethereum-foundation-reaches-70000-eth-staking-target-with-93-million-april-deposit/",
+      "published_at": "2026-04-04",
+      "category": "Ethereum / Network"
     }
   ]
 }
