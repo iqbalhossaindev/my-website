@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-04 17:50 UTC",
+  "updated_at": "2026-04-04 19:46 UTC",
   "headlines": [
-    "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT)",
-    "CoinShares lists on Nasdaq after $1.2B Vine Hill deal",
-    "Tether hires KPMG for first full financial audit",
-    "Stablecoin market tops $317B with $1.24B weekly inflows",
-    "KuCoin agrees to $500K CFTC settlement and U.S. access injunction"
+    "Morgan Stanley’s MSBT ETF moves closer to launch after S‑1 amendment",
+    "Coinbase wins conditional approval for a U.S. national trust charter",
+    "JPMorgan: crypto flows plunged to $11B in Q1 — sharp slowdown",
+    "Circle announces cirBTC — a 1:1 wrapped Bitcoin for institutions",
+    "U.S. Treasury opens public comment on GENIUS Act stablecoin rules (NPRM Apr 1, 2026)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
   ],
   "articles": [
     {
-      "title": "Morgan Stanley moves closer to a U.S. spot Bitcoin ETF (MSBT)",
-      "summary": "Morgan Stanley filed Amendment No. 4 to its S-1 for the proposed Morgan Stanley Bitcoin Trust (ticker: MSBT), updating custody, listing and fee details and signalling the product is near launch. The filing names BNY Mellon and Coinbase Custody and lists a low management fee that will intensify competition in U.S. spot Bitcoin ETFs. (Filed April 1, 2026.)",
-      "source": "Whale Alert / Bitcoin.com",
-      "url": "https://whale-alert.io/stories/8da0010a820210/Morgan-Stanley-amends-S1-to-list-MSBT-passive-Bitcoin-ETF-on-NYSE-Arca-names-BNY-Mellon-and-Coinbase-as-custodians-sets-014-fee",
-      "published_at": "2026-04-01",
-      "category": "ETF"
+      "title": "Morgan Stanley MSBT ETF nears launch after Amendment No. 4",
+      "summary": "Morgan Stanley filed Amendment No. 4 to its S‑1 for a spot Bitcoin ETF (proposed ticker: MSBT) that names custodians and a 0.14% fee — a clear step toward an NYSE Arca listing if the SEC signs off. The low fee and formal ops details intensify competition among US spot‑Bitcoin ETFs.",
+      "source": "Whale‑Alert / Bitcoin.com",
+      "url": "",
+      "published_at": "Apr 1–2, 2026",
+      "category": "ETF / Bitcoin"
     },
     {
-      "title": "CoinShares lists on Nasdaq after $1.2B Vine Hill deal",
-      "summary": "Europe’s largest digital-asset manager CoinShares began trading on Nasdaq under ticker CSHR after a $1.2 billion combination with Vine Hill. The U.S. listing marks stronger institutional footing for crypto investment firms and could boost demand for crypto ETPs and related products. (Announced April 1, 2026.)",
-      "source": "Bitcoin News / CoinShares press release",
-      "url": "https://investor.coinshares.com/pressreleases/coinshares-begins-trading-on-the-nasdaq-stock-market",
-      "published_at": "2026-04-01",
-      "category": "Market / Institutional"
-    },
-    {
-      "title": "Tether hires KPMG for first full USDT financial audit",
-      "summary": "Tether has engaged KPMG to perform its first full financial-statement audit of USDT reserves and brought in PwC to upgrade internal controls, a move aimed at boosting transparency ahead of U.S. expansion plans. This is the biggest audit development for the world’s largest stablecoin in years. (Reported March 26–27, 2026.)",
-      "source": "The Block / Bloomberg Law",
-      "url": "https://www.theblock.co/post/395423/tether-taps-kpmg-for-first-financial-audit/",
-      "published_at": "2026-03-27",
-      "category": "Stablecoin / Regulation"
-    },
-    {
-      "title": "Stablecoin market tops $317B with $1.24B weekly inflows",
-      "summary": "The dollar‑pegged stablecoin sector crossed about $317 billion in market value after recording roughly $1.24 billion of inflows over the prior week. Tether remains the largest issuer, and strong inflows indicate continued demand for on‑chain dollar liquidity. (Data snapshot Apr 4, 2026.)",
-      "source": "Bitcoin.com",
-      "url": "https://news.bitcoin.com/dollar-pegged-crypto-market-crosses-317b-threshold-with-1-24b-in-weekly-inflows/",
-      "published_at": "2026-04-04",
-      "category": "Stablecoin / Market"
-    },
-    {
-      "title": "KuCoin agrees to $500K CFTC settlement; U.S. access barred without registration",
-      "summary": "A U.S. federal court entered a consent order requiring Peken Global (operator of KuCoin) to pay $500,000 to settle CFTC claims that it ran an unregistered offshore commodities exchange. The order also permanently bars allowing U.S. persons to trade on the platform unless it registers with the CFTC as a foreign board of trade. (Consent order entered Mar 30–31, 2026.)",
-      "source": "Cointelegraph (via TradingView)",
-      "url": "https://www.tradingview.com/news/cointelegraph%3A513369bc2094b%3A0-crypto-exchange-kucoin-agrees-to-500k-settlement-ending-cftc-case/",
-      "published_at": "2026-03-31",
+      "title": "Coinbase gets conditional approval for a U.S. national trust charter",
+      "summary": "The U.S. Office of the Comptroller of the Currency has given Coinbase conditional approval for a national trust charter, a big regulatory milestone that could expand how exchanges custody assets and offer banking‑style services.",
+      "source": "Cointelegraph",
+      "url": "",
+      "published_at": "Apr 2, 2026",
       "category": "Exchange / Regulation"
     },
     {
-      "title": "Q1 derivatives volume soars to $18.6T; Binance still leads derivatives market",
-      "summary": "CoinGlass data show crypto derivatives trading totaled roughly $18.6 trillion in Q1 2026, with Binance leading the quarter (about $4.9 trillion). The report highlights the dominance of derivatives vs. spot markets and growing activity on perp DEXs. (CoinGlass/Cointelegraph report, Apr 3, 2026.)",
-      "source": "Cointelegraph (CoinGlass report)",
-      "url": "https://cointelegraph.com/news/binance-derivatives-q1-hyperliquid-enters-top-10-coinglass",
-      "published_at": "2026-04-03",
-      "category": "Market / Exchange"
+      "title": "JPMorgan: crypto flows tumbled to $11B in Q1 — one‑third of last year",
+      "summary": "JPMorgan analysts say digital‑asset flows fell sharply in Q1 2026 to about $11 billion, signaling weaker institutional demand compared with the same quarter last year and raising questions on near‑term market momentum.",
+      "source": "The Block",
+      "url": "",
+      "published_at": "Apr 3, 2026",
+      "category": "Markets / ETF flows"
     },
     {
-      "title": "Metaplanet buys 5,075 BTC in Q1 to become the 3rd‑largest public Bitcoin treasury",
-      "summary": "Tokyo‑listed Metaplanet disclosed it acquired 5,075 BTC (~$405M) in Q1 2026 and now holds about 40,177 BTC, making it the third‑largest publicly listed corporate Bitcoin treasury. The move shows companies still use BTC as a treasury asset despite recent market turbulence. (Filed Apr 2, 2026.)",
+      "title": "Circle to launch cirBTC — a 1:1 wrapped Bitcoin for institutions",
+      "summary": "Circle announced cirBTC, a wrapped‑Bitcoin token on Ethereum backed 1:1 by BTC and aimed at OTC desks, market makers and lending platforms — putting Circle up against existing custodial wrapped BTC products.",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/metaplanet-adds-5-075-btc-in-q1-bitcoin-options/",
-      "published_at": "2026-04-02",
-      "category": "Bitcoin / Corporate"
+      "url": "",
+      "published_at": "Apr 3, 2026",
+      "category": "Stablecoin / Wrapped BTC"
     },
     {
-      "title": "Ethereum Foundation stakes ~45,000 ETH in April deposit, nears 70,000 ETH goal",
-      "summary": "The Ethereum Foundation staked roughly 45,034 ETH on April 3, 2026, bringing its cumulative stake close to a 70,000 ETH target. The deposit shows continued protocol support and reduces liquid supply ahead of any price moves tied to staking flows. (Reported Apr 3–4, 2026.)",
-      "source": "Bitcoin.com",
-      "url": "https://news.bitcoin.com/ethereum-foundation-reaches-70000-eth-staking-target-with-93-million-april-deposit/",
-      "published_at": "2026-04-04",
-      "category": "Ethereum / Network"
+      "title": "U.S. Treasury issues GENIUS Act NPRM — opens 60‑day comment period on stablecoin state‑paths",
+      "summary": "On April 1 the U.S. Treasury published a notice of proposed rulemaking under the GENIUS Act that sets rules for when smaller stablecoin issuers may stay under state supervision. The move is the first major federal step to define how U.S. stablecoins will be regulated.",
+      "source": "U.S. Department of the Treasury",
+      "url": "",
+      "published_at": "Apr 1, 2026",
+      "category": "Regulation / Stablecoins"
+    },
+    {
+      "title": "Drift Protocol hit by a ~$285M exploit on Solana — DeFi fallout",
+      "summary": "Drift, a Solana‑based perpetuals DEX, suffered a roughly $270–$286 million exploit on April 1 that drained its vaults. The incident forced suspensions, spread losses across Solana DeFi, and prompted on‑chain tracing and recovery outreach.",
+      "source": "Elliptic / CCN",
+      "url": "",
+      "published_at": "Apr 1–3, 2026",
+      "category": "Security / DeFi"
+    },
+    {
+      "title": "Bybit publishes Proof‑of‑Reserves report (Mar snapshot)",
+      "summary": "Bybit released its 32nd proof‑of‑reserves report showing overcollateralized positions across major assets — a transparency move that exchanges keep using to rebuild trust after earlier industry breaches.",
+      "source": "TheStreet (Bybit PoR)",
+      "url": "",
+      "published_at": "Apr 2–3, 2026",
+      "category": "Exchange / Transparency"
+    },
+    {
+      "title": "Offchain Labs: Ethereum L2s need 'responsive pricing' to scale",
+      "summary": "At EthCC, Offchain Labs argued that Ethereum layer‑2 networks must adopt responsive fee models to handle billions of users and reduce volatile fee swings — a key discussion for ETH scalability and L2 adoption.",
+      "source": "Cointelegraph",
+      "url": "",
+      "published_at": "Apr 3, 2026",
+      "category": "Ethereum / Layer‑2"
     }
   ]
 }
