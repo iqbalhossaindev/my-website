@@ -1,76 +1,76 @@
 {
-  "updated_at": "2026-04-05 05:57 UTC",
+  "updated_at": "2026-04-05 08:05 UTC",
   "headlines": [
-    "Solana DeFi: Drift Protocol hacked for about $270–$285M",
-    "Coinbase gets conditional OCC approval to form a national trust company",
-    "U.S. Treasury issues first GENIUS Act NPRM to shape stablecoin rules",
-    "Tether hires KPMG for first full audit of USDT reserves",
-    "Circle unveils cirBTC — a 1:1 on‑chain‑verifiable wrapped Bitcoin product (cirBTC)\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "Ethereum Foundation nears 70,000 ETH treasury staking goal",
+    "Huge Solana DeFi exploit drains roughly $280M from Drift",
+    "Morgan Stanley moves closer to low-fee spot Bitcoin ETF (MSBT)",
+    "Citadel-backed EDX Markets applies for US bank/trust charter",
+    "Tether presses investors on $500B valuation fundraise deadline','KuCoin settles with the CFTC for $500,000 over unregistered derivatives trading','U.S. spot Bitcoin ETFs post first monthly inflow in March 2026 ($1.3B)','Google paper warns crypto industry about nearer-term quantum threat"
   ],
   "articles": [
     {
-      "title": "Drift Protocol suffers ~$270–$285M exploit on Solana",
-      "summary": "Drift Protocol, a major Solana-based decentralized perpetuals exchange, was exploited on April 1, 2026 with roughly $270–$285 million drained; the team paused deposits/withdrawals and started coordination with security firms and bridges.",
-      "source": "Bloomberg / NomosLabs",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-01/solana-based-defi-project-drift-hit-by-285-million-exploit",
-      "published_at": "2026-04-01",
-      "category": "security / exchange"
+      "title": "Ethereum Foundation nears 70,000 ETH treasury staking goal",
+      "summary": "The Ethereum Foundation completed a large deposit (≈45,034 ETH) to its staking program, bringing its active stake close to the stated 70,000 ETH target. The move shifts the foundation’s treasury strategy toward earning staking yield rather than selling ETH, supporting network security and supply dynamics.",
+      "source": "Coin360 / Whale Alert coverage",
+      "url": "(source)",
+      "published_at": "April 3–4, 2026",
+      "category": "Ethereum / On-chain Treasury News"
     },
     {
-      "title": "Coinbase wins conditional OCC approval to form a national trust company",
-      "summary": "Coinbase announced it received conditional approval from the U.S. Office of the Comptroller of the Currency to charter Coinbase National Trust Company — a federal trust vehicle that would centralize custody and institutional services after a final OCC review.",
-      "source": "CoinLaw / OCC filings",
-      "url": "https://coinlaw.io/coinbase-occ-national-trust-charter/",
-      "published_at": "2026-04-02",
-      "category": "exchange / regulation"
+      "title": "Huge Solana DeFi exploit drains roughly $280M from Drift",
+      "summary": "Drift, a Solana-based derivatives DeFi protocol, was hit by a sophisticated attack that drained about $280–$285 million. The exploit highlights ongoing smart-contract and platform risks on high-throughput chains and has triggered rapid asset freezes and forensic work.",
+      "source": "Bloomberg",
+      "url": "(source)",
+      "published_at": "April 1–2, 2026",
+      "category": "Security / DeFi Exploit"
     },
     {
-      "title": "U.S. Treasury publishes GENIUS Act NPRM — first step to stablecoin rules",
-      "summary": "On April 1, 2026 the U.S. Treasury issued a Notice of Proposed Rulemaking to implement parts of the GENIUS Act, asking for public comment on how state stablecoin regimes can be deemed 'substantially similar' to federal rules.",
-      "source": "U.S. Department of the Treasury",
-      "url": "https://home.treasury.gov/news/press-releases/sb0428",
-      "published_at": "2026-04-01",
-      "category": "regulation / stablecoin"
+      "title": "Morgan Stanley moves closer to low-fee spot Bitcoin ETF (MSBT)",
+      "summary": "Morgan Stanley filed an updated S-1 amendment for a spot Bitcoin trust (ticker MSBT), naming custodians and showing a very low management fee (reported ~0.14%), signalling an imminent launch that would intensify ETF fee competition.",
+      "source": "Whale Alert / SEC filing reports",
+      "url": "(source)",
+      "published_at": "April 1, 2026",
+      "category": "ETF / Institutional Investing"
     },
     {
-      "title": "Tether hires KPMG for first full USDT financial audit",
-      "summary": "Tether has engaged a Big Four auditor (reported as KPMG) to conduct its first full financial-statement audit of reserves backing USDT — a major move aimed at boosting transparency ahead of U.S. expansion plans.",
-      "source": "Financial Times / The Block",
-      "url": "https://news.bloombergtax.com/daily-tax-report-international/tether-hires-kpmg-as-auditor-ahead-of-us-expansion-ft",
-      "published_at": "2026-03-26",
-      "category": "stablecoin / audit"
+      "title": "Citadel-backed EDX Markets applies for US bank/trust charter",
+      "summary": "EDX Markets, a trading venue backed by Citadel Securities and other institutional partners, has applied for a national trust/bank charter — a step that would widen access to banking services for crypto platforms and could reshape custody and settlement infrastructure.",
+      "source": "Bloomberg",
+      "url": "(source)",
+      "published_at": "April 1, 2026",
+      "category": "Exchange / Regulation & Infrastructure"
     },
     {
-      "title": "Circle announces cirBTC — a 1:1 on‑chain‑verifiable wrapped Bitcoin",
-      "summary": "Circle unveiled cirBTC (April 2, 2026), a 1:1 Bitcoin‑backed wrapped token built for institutions and DeFi, with on‑chain reserve verification and initial deployment planned on Ethereum and Circle's Arc chain.",
-      "source": "Circle / multiple outlets",
-      "url": "https://www.circle.com/cirbtc",
-      "published_at": "2026-04-02",
-      "category": "Bitcoin / DeFi"
+      "title": "Tether presses investors on $500B valuation fundraise deadline",
+      "summary": "Reports say Tether is pushing a private fundraising sprint tied to a lofty $500 billion implied valuation and has set a short deadline for investor commitments — and may scale or delay the raise if demand is weak. The move has reignited debate over stablecoin business models and valuations.",
+      "source": "Cointelegraph / PYMNTS reporting",
+      "url": "(source)",
+      "published_at": "April 3–4, 2026",
+      "category": "Stablecoin / Corporate Finance"
     },
     {
-      "title": "Morgan Stanley files Amendment No. 4 for a low‑fee spot Bitcoin ETF (MSBT)",
-      "summary": "Morgan Stanley amended its S‑1 to list the Morgan Stanley Bitcoin Trust (ticker MSBT) on NYSE Arca, naming custodians and proposing a competitive fee (reported 0.14%) as it inches toward launching a spot Bitcoin ETF.",
-      "source": "Whale Alert / filing coverage",
-      "url": "https://whale-alert.io/stories/8da0010a820210/Morgan-Stanley-amends-S1-to-list-MSBT-passive-Bitcoin-ETF-on-NYSE-Arca-names-BNY-Mellon-and-Coinbase-as-custodians-sets-014-fee",
-      "published_at": "2026-04-01",
-      "category": "ETF / Bitcoin"
+      "title": "KuCoin settles with the CFTC for $500,000 over unregistered derivatives trading",
+      "summary": "Crypto exchange KuCoin (Peken Global Ltd.) agreed to pay $500,000 to settle CFTC claims it ran an unregistered offshore derivatives platform accessible to U.S. customers. The settlement requires limits on U.S. access and underscores continued U.S. enforcement focus on offshore platforms.",
+      "source": "Bloomberg",
+      "url": "(source)",
+      "published_at": "March 30, 2026",
+      "category": "Exchange Enforcement / Regulation"
     },
     {
-      "title": "Bitcoin spot ETFs record first monthly inflow of 2026 (about $1.32B in March)",
-      "summary": "Market data show U.S. spot Bitcoin ETFs had roughly $1.32 billion of inflows in March 2026, ending a multi‑month outflow streak and signaling renewed institutional interest — though flows remain uneven.",
-      "source": "SoSoValue / market reports (aggregated)",
-      "url": "https://investor-confidence-index.com/en/news/bitcoin-etfs-end-four-month-outflow-run-with-1-32b-inflow-in-march-2026",
-      "published_at": "2026-04-02",
-      "category": "market / ETF"
+      "title": "U.S. spot Bitcoin ETFs post first monthly inflow in March 2026 ($1.3B)",
+      "summary": "After several months of outflows, U.S. spot Bitcoin ETFs recorded roughly $1.3 billion of net inflows in March 2026 — a sign institutional demand may be returning and an important driver for short-term BTC market structure.",
+      "source": "Market flow data reporting",
+      "url": "(source)",
+      "published_at": "March 31–April 1, 2026",
+      "category": "Market / ETF Flows"
     },
     {
-      "title": "Ethereum ETFs keep underperforming — outflows extend while ETH lags BTC",
-      "summary": "Data for March 2026 show Ethereum spot ETF products continued to suffer net outflows versus Bitcoin ETFs, highlighting a divergence where institutions favored BTC exposure while ETH ETFs saw withdrawals and price underperformance.",
-      "source": "ETF flow reports / market analysis",
-      "url": "https://www.tradingnews.com/news/ethereum-price-forecast-eth-usd-5-month-of-etf-outflows",
-      "published_at": "2026-04-01",
-      "category": "ETF / Ethereum"
+      "title": "Google paper warns crypto industry about nearer-term quantum threat",
+      "summary": "New research from Google researchers suggests progress in quantum algorithms could lower the resources needed to threaten widely used cryptography, renewing urgency for crypto projects to plan 'quantum-resistant' upgrades — especially for long-held, inactive keys.",
+      "source": "Bloomberg coverage of Google research",
+      "url": "(source)",
+      "published_at": "March 31, 2026",
+      "category": "Security / Technology Risk"
     }
   ]
 }
