@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-07 06:09 UTC",
+  "updated_at": "2026-04-07 10:36 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 68605,
-      "change_24h": -0.8758280230502912
+      "price": 68730,
+      "change_24h": -1.6788463298700695
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2103.65,
-      "change_24h": -1.336837652867537
+      "price": 2105.86,
+      "change_24h": -2.3140423945848894
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 597.68,
-      "change_24h": -0.9045528156165481
+      "price": 601.29,
+      "change_24h": -0.9834575482320494
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 79.55,
-      "change_24h": -2.855051619962401
+      "price": 79.79,
+      "change_24h": -3.5990370796597477
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.31,
-      "change_24h": -2.1431789163797124
+      "change_24h": -3.1073330100225434
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.243536,
-      "change_24h": -5.409980482240016
+      "price": 0.242876,
+      "change_24h": -6.005676030971562
     }
   ],
   "bullish": [
     {
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00716575,
+      "change_24h": 7.631334124386603
+    },
+    {
       "name": "Canton",
       "symbol": "CC",
-      "price": 0.14835,
-      "change_24h": 6.395916544283038
+      "price": 0.148822,
+      "change_24h": 6.652723671753503
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 1.59,
-      "change_24h": 5.257585735295011
+      "price": 1.62,
+      "change_24h": 5.553121973361203
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 263.8,
-      "change_24h": 3.9105794018885454
+      "price": 266.15,
+      "change_24h": 3.4890904162244176
     },
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.84,
-      "change_24h": 2.3819391422846605
-    },
-    {
-      "name": "JUST",
-      "symbol": "JST",
-      "price": 0.06453,
-      "change_24h": 1.989949639675254
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY",
+      "price": 1.12,
+      "change_24h": 0.6575049229511388
     }
   ],
   "bearish": [
     {
-      "name": "Avalanche",
-      "symbol": "AVAX",
-      "price": 8.52,
-      "change_24h": -10.02350770506699
-    },
-    {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.112592,
-      "change_24h": -8.909161794015274
+      "price": 0.113858,
+      "change_24h": -9.314126256783476
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "price": 8.66,
+      "change_24h": -8.585903895239785
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "price": 89.74,
+      "change_24h": -8.246586967660978
     },
     {
       "name": "Ethereum Classic",
       "symbol": "ETC",
-      "price": 8.2,
-      "change_24h": -5.426212257263435
+      "price": 8.12,
+      "change_24h": -6.907859817335521
     },
     {
-      "name": "Cardano",
-      "symbol": "ADA",
-      "price": 0.243551,
-      "change_24h": -5.403878905218158
-    },
-    {
-      "name": "Quant",
-      "symbol": "QNT",
-      "price": 72.27,
-      "change_24h": -5.00009768509356
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "price": 0.252184,
+      "change_24h": -6.366093707967602
     }
   ]
 }
