@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-08 15:03 UTC",
+  "updated_at": "2026-04-08 18:56 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 70927,
-      "change_24h": 4.525998098725808
+      "price": 71226,
+      "change_24h": 4.097777745543044
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2196.79,
-      "change_24h": 6.180690885605344
+      "price": 2205.47,
+      "change_24h": 5.748521974480467
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 602.99,
-      "change_24h": 1.4201856898880716
+      "price": 603.67,
+      "change_24h": 0.07709142030448031
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 82.95,
-      "change_24h": 5.652936115667063
+      "price": 83.04,
+      "change_24h": 4.005226221147824
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.35,
-      "change_24h": 4.1285741365961215
+      "change_24h": 3.74070682022428
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.252517,
-      "change_24h": 4.645717140385095
+      "price": 0.253342,
+      "change_24h": 4.357859009739109
     }
   ],
   "bullish": [
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 331.78,
-      "change_24h": 25.05835951947018
+      "price": 329.46,
+      "change_24h": 22.47395730420684
     },
     {
-      "name": "LayerZero",
-      "symbol": "ZRO",
-      "price": 2.02,
-      "change_24h": 12.161896872743071
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00779781,
+      "change_24h": 8.90020383785872
     },
     {
       "name": "Internet Computer",
       "symbol": "ICP",
-      "price": 2.52,
-      "change_24h": 10.765613588817322
+      "price": 2.49,
+      "change_24h": 8.653072800681748
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "price": 1.35,
-      "change_24h": 10.223813508201841
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01157691,
+      "change_24h": 8.437840137980587
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.089405,
-      "change_24h": 9.001496499298264
+      "price": 0.089567,
+      "change_24h": 8.255149518930445
     }
   ],
   "bearish": [
     {
-      "name": "Ondo US Dollar Yield",
-      "symbol": "USDY",
-      "price": 1.13,
-      "change_24h": -0.8240842820541407
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.03094935,
+      "change_24h": -1.0825509002034253
     },
     {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.143911,
-      "change_24h": -0.588541378424437
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.04068217,
+      "change_24h": -0.7683217273943747
     },
     {
-      "name": "Beldex",
-      "symbol": "BDX",
-      "price": 0.079699,
-      "change_24h": -0.30837530165547106
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price": 0.09448,
+      "change_24h": -0.34763281025729786
     },
     {
-      "name": "USDD",
-      "symbol": "USDD",
-      "price": 0.99902,
-      "change_24h": -0.07934776731849003
+      "name": "LEO Token",
+      "symbol": "LEO",
+      "price": 10.1,
+      "change_24h": -0.18079062987198857
     },
     {
-      "name": "USD1",
-      "symbol": "USD1",
-      "price": 0.999343,
-      "change_24h": -0.06836054751508117
+      "name": "Falcon USD",
+      "symbol": "USDF",
+      "price": 0.99737,
+      "change_24h": -0.13787902690835108
     }
   ]
 }
