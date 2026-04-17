@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-17 14:43 UTC",
+  "updated_at": "2026-04-17 17:36 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77985,
-      "change_24h": 5.415933695866585
+      "price": 77474,
+      "change_24h": 4.446049267141869
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2454.6,
-      "change_24h": 6.498302120571423
+      "price": 2435.75,
+      "change_24h": 4.971279010238415
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 645.61,
-      "change_24h": 4.364700016491898
+      "price": 642.44,
+      "change_24h": 2.60384617385717
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 90.54,
-      "change_24h": 6.9578597465623755
+      "price": 89.69,
+      "change_24h": 4.24393000111514
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.51,
-      "change_24h": 7.46604288504044
+      "price": 1.49,
+      "change_24h": 4.546290925724283
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.267242,
-      "change_24h": 7.9563207482123355
+      "price": 0.263516,
+      "change_24h": 4.112945329943194
     }
   ],
   "bullish": [
     {
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "price": 20.32,
+      "change_24h": 22.38554794946328
+    },
+    {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.118749,
-      "change_24h": 16.388393352605057
+      "price": 0.122666,
+      "change_24h": 14.290277050014918
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 2.04,
-      "change_24h": 15.988778865168598
+      "price": 1.97,
+      "change_24h": 10.993633616028186
     },
     {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.135137,
-      "change_24h": 12.361577732427254
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 258.59,
+      "change_24h": 8.854496146315913
     },
     {
-      "name": "Kaspa",
-      "symbol": "KAS",
-      "price": 0.03675753,
-      "change_24h": 11.55985932079749
-    },
-    {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.188271,
-      "change_24h": 10.90968328321728
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "price": 12.02,
+      "change_24h": 8.41334873753635
     }
   ],
   "bearish": [
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01036525,
-      "change_24h": -12.19048194399871
+      "price": 0.01089424,
+      "change_24h": -7.816229892268938
     },
     {
-      "name": "Ondo US Dollar Yield",
-      "symbol": "USDY",
-      "price": 1.12,
-      "change_24h": -0.9686531898379964
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price": 0.302295,
+      "change_24h": -3.548613329234956
     },
     {
-      "name": "TRON",
-      "symbol": "TRX",
-      "price": 0.324972,
-      "change_24h": -0.8579078134872757
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price": 1.41,
+      "change_24h": -0.7629584576707207
     },
     {
-      "name": "HTX DAO",
-      "symbol": "HTX",
-      "price": 1.78e-06,
-      "change_24h": -0.5209021240178507
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 336.28,
+      "change_24h": -0.5386053288981346
     },
     {
-      "name": "LEO Token",
-      "symbol": "LEO",
-      "price": 10.12,
-      "change_24h": -0.31253582819249875
+      "name": "Beldex",
+      "symbol": "BDX",
+      "price": 0.080065,
+      "change_24h": -0.28345983731569113
     }
   ]
 }
