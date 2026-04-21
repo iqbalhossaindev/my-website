@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-21 15:54 UTC",
+  "updated_at": "2026-04-21 19:53 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 75741,
-      "change_24h": 0.16643231533128314
+      "price": 74985,
+      "change_24h": -1.6784555569608444
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2306.66,
-      "change_24h": -0.15186906647516343
+      "price": 2294.99,
+      "change_24h": -1.4978009001908077
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 631.52,
-      "change_24h": 0.5838565095816076
+      "price": 626.35,
+      "change_24h": -0.7035822459655987
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 85.85,
-      "change_24h": 0.35140559286852213
+      "price": 84.55,
+      "change_24h": -1.583088900153749
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.43,
-      "change_24h": 0.01819100986738502
+      "price": 1.42,
+      "change_24h": -1.086207944258874
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.248722,
-      "change_24h": 0.5813219346382025
+      "price": 0.244731,
+      "change_24h": -1.6054619360584832
     }
   ],
   "bullish": [
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 4.21,
-      "change_24h": 19.065359518302547
+      "price": 4.28,
+      "change_24h": 21.050294122724686
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.079735,
-      "change_24h": 8.940203107712405
-    },
-    {
-      "name": "Aave",
-      "symbol": "AAVE",
-      "price": 92.18,
-      "change_24h": 5.972989002345769
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.02705781,
-      "change_24h": 5.666031207707475
+      "price": 0.081145,
+      "change_24h": 10.945563284639395
     },
     {
       "name": "Monero",
       "symbol": "XMR",
-      "price": 370.73,
-      "change_24h": 5.4212829226770305
+      "price": 376.91,
+      "change_24h": 6.756952193764184
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.02636226,
+      "change_24h": 3.043691225295342
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "price": 0.176756,
+      "change_24h": 1.9301477509575635
     }
   ],
   "bearish": [
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.29,
-      "change_24h": -13.558360169784045
+      "price": 12.49,
+      "change_24h": -11.448529515597254
     },
     {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.14946,
-      "change_24h": -4.342231360637087
-    },
-    {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01067165,
-      "change_24h": -2.932344904710669
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price": 38.95,
+      "change_24h": -5.75631293898446
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.112266,
-      "change_24h": -2.7510800190965767
+      "price": 0.109797,
+      "change_24h": -3.587146860453731
     },
     {
       "name": "Pi Network",
       "symbol": "PI",
-      "price": 0.168286,
-      "change_24h": -2.582046204277475
+      "price": 0.166879,
+      "change_24h": -3.578960564329934
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.123711,
+      "change_24h": -3.462911827434778
     }
   ]
 }
