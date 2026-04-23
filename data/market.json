@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-23 16:54 UTC",
+  "updated_at": "2026-04-23 20:13 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78278,
-      "change_24h": -0.6256194457020023
+      "price": 77855,
+      "change_24h": -1.1865156226041593
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2329.27,
-      "change_24h": -2.472755578484729
+      "price": 2322.5,
+      "change_24h": -3.2612188398599065
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 639.7,
-      "change_24h": -1.018762938288388
+      "price": 637.43,
+      "change_24h": -0.7086637040617383
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.04,
-      "change_24h": -1.882143271304763
+      "price": 85.54,
+      "change_24h": -2.131452391896357
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.43,
-      "change_24h": -1.0348814848450547
+      "change_24h": -0.6818798812619247
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.249892,
-      "change_24h": -1.2866641471426612
+      "price": 0.247821,
+      "change_24h": -1.8134513729616382
     }
   ],
   "bullish": [
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.02935893,
-      "change_24h": 13.554061719653482
+      "price": 0.03029669,
+      "change_24h": 14.16471828193789
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "price": 0.00863842,
-      "change_24h": 2.289847244592081
-    },
-    {
-      "name": "POL (ex-MATIC)",
-      "symbol": "POL",
-      "price": 0.096099,
-      "change_24h": 1.9702741215127026
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "price": 335.8,
+      "change_24h": 4.768335907654467
     },
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.6,
-      "change_24h": 1.768664706308608
+      "price": 12.58,
+      "change_24h": 3.56531906994975
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 41.63,
-      "change_24h": 1.424317979435546
+      "name": "Figure Heloc",
+      "symbol": "FIGR_HELOC",
+      "price": 1.038,
+      "change_24h": 1.6201302096490515
+    },
+    {
+      "name": "Ethena",
+      "symbol": "ENA",
+      "price": 0.110545,
+      "change_24h": 1.3356161033792204
     }
   ],
   "bearish": [
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
-      "price": 0.00181926,
-      "change_24h": -4.48656246123063
+      "price": 0.00178994,
+      "change_24h": -4.240166686870355
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.107399,
-      "change_24h": -3.6788403498506734
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00747381,
+      "change_24h": -3.922428524671604
     },
     {
       "name": "Polkadot",
       "symbol": "DOT",
-      "price": 1.25,
-      "change_24h": -3.654875667730301
+      "price": 1.23,
+      "change_24h": -3.738692122800915
     },
     {
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "price": 2.87,
-      "change_24h": -3.4380471601113074
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "price": 0.260779,
+      "change_24h": -3.7263109221038206
     },
     {
-      "name": "Uniswap",
-      "symbol": "UNI",
-      "price": 3.29,
-      "change_24h": -3.299214104017678
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 4.27,
+      "change_24h": -3.6128339145668056
     }
   ]
 }
