@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-26 23:59 UTC",
+  "updated_at": "2026-04-27 09:09 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78645,
-      "change_24h": 1.3215304079234835
+      "price": 77836,
+      "change_24h": -0.20142732050824266
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2369.67,
-      "change_24h": 2.1782044558671476
+      "price": 2320.29,
+      "change_24h": -0.44672389185853806
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 636.13,
-      "change_24h": 1.1803872907065642
+      "price": 628.54,
+      "change_24h": -0.3378918048252843
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.96,
-      "change_24h": 0.9387750641824057
+      "price": 85.57,
+      "change_24h": -1.1453229689298718
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.43,
-      "change_24h": 0.46408079081644804
+      "price": 1.42,
+      "change_24h": -0.5089344327734284
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.252349,
-      "change_24h": 0.8171040019865523
+      "price": 0.248007,
+      "change_24h": -1.369253055020026
     }
   ],
   "bullish": [
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00753508,
-      "change_24h": 6.911257317036455
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price": 0.00966522,
+      "change_24h": 10.238314757775159
     },
     {
       "name": "Jupiter",
       "symbol": "JUP",
-      "price": 0.182796,
-      "change_24h": 5.799360685047779
+      "price": 0.190011,
+      "change_24h": 5.434743984542577
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.181354,
-      "change_24h": 5.563754682021798
-    },
-    {
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "price": 1.96,
-      "change_24h": 5.116191638589038
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.00744857,
+      "change_24h": 4.298763582611527
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01068233,
-      "change_24h": 5.099671514896173
+      "price": 0.01061309,
+      "change_24h": 3.963292563363727
+    },
+    {
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "price": 14.45,
+      "change_24h": 3.578188817429088
     }
   ],
   "bearish": [
     {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.126365,
+      "change_24h": -4.2918021544921015
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 2.55,
+      "change_24h": -4.028650982698946
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.085056,
+      "change_24h": -3.68852410275275
+    },
+    {
       "name": "Cosmos Hub",
       "symbol": "ATOM",
-      "price": 2.0,
-      "change_24h": -1.3465352354061206
-    },
-    {
-      "name": "XDC Network",
-      "symbol": "XDC",
-      "price": 0.02986937,
-      "change_24h": -1.180865678315514
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 355.09,
-      "change_24h": -1.1257345148854125
+      "price": 1.96,
+      "change_24h": -3.184197656132673
     },
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 4.34,
-      "change_24h": -0.9076676433705488
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.150267,
-      "change_24h": -0.8924549961937176
+      "price": 4.2,
+      "change_24h": -2.9171056291770534
     }
   ]
 }
