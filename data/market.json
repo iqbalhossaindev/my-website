@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-04-27 22:43 UTC",
+  "updated_at": "2026-04-27 23:46 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 76981,
-      "change_24h": -1.6375439470785065
+      "price": 77285,
+      "change_24h": -1.7934905044505516
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2292.35,
-      "change_24h": -2.898302329623907
+      "price": 2298.65,
+      "change_24h": -3.1723500482615243
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 624.65,
-      "change_24h": -1.5614770033280319
+      "price": 626.27,
+      "change_24h": -1.527025181170989
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.48,
-      "change_24h": -2.3789390664692522
+      "price": 84.72,
+      "change_24h": -2.592563444611169
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.4,
-      "change_24h": -2.1710064858132436
+      "change_24h": -2.3255948802896826
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.246549,
-      "change_24h": -1.9982305225498158
+      "price": 0.247876,
+      "change_24h": -1.8958230560975866
     }
   ],
   "bullish": [
@@ -48,58 +48,58 @@
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01246312,
-      "change_24h": 19.313522738917925
+      "price": 0.01246442,
+      "change_24h": 16.690411329057888
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.0103048,
-      "change_24h": 15.844063503858058
-    },
-    {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.195055,
-      "change_24h": 6.471640048688408
+      "price": 0.0103176,
+      "change_24h": 14.571872138905896
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03572866,
-      "change_24h": 6.2787706476126735
+      "price": 0.03592831,
+      "change_24h": 7.511831959321514
+    },
+    {
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price": 0.19457,
+      "change_24h": 5.780465372193401
     }
   ],
   "bearish": [
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 3.75,
-      "change_24h": -13.391702708343475
+      "price": 3.72,
+      "change_24h": -14.119199287291954
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00713401,
-      "change_24h": -4.490238709954786
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.115899,
-      "change_24h": -3.8406753027781573
-    },
-    {
-      "name": "Official Trump",
-      "symbol": "TRUMP",
-      "price": 2.52,
-      "change_24h": -3.7641470070609335
+      "price": 0.00715336,
+      "change_24h": -4.95319319880941
     },
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.072293,
-      "change_24h": -3.5019984083177276
+      "price": 0.07244,
+      "change_24h": -3.542870366939091
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "price": 2.53,
+      "change_24h": -3.532954269539066
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "price": 2298.45,
+      "change_24h": -3.180683688103999
     }
   ]
 }
