@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-29 05:49 UTC",
+  "updated_at": "2026-04-29 08:06 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77285,
-      "change_24h": 0.5207248272285054
+      "price": 77024,
+      "change_24h": 0.2702856909998989
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2329.77,
-      "change_24h": 1.7806468202025052
+      "price": 2323.24,
+      "change_24h": 1.6503055031109204
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 627.94,
-      "change_24h": 0.5319331226281865
+      "price": 624.94,
+      "change_24h": 0.0999907037695877
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.9,
-      "change_24h": 0.789534245150237
+      "price": 84.66,
+      "change_24h": 0.8554704797331338
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.4,
-      "change_24h": 0.21582000508417565
+      "price": 1.39,
+      "change_24h": -0.0952073099229346
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.249548,
-      "change_24h": 0.7989904074914437
+      "price": 0.249629,
+      "change_24h": 1.1557304252028078
     }
   ],
   "bullish": [
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
-      "price": 0.0019384,
-      "change_24h": 8.69287862428089
+      "price": 0.00190418,
+      "change_24h": 7.883790863919904
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "price": 0.104966,
+      "change_24h": 5.51943936157996
     },
     {
       "name": "Bittensor",
       "symbol": "TAO",
-      "price": 265.68,
-      "change_24h": 7.202998158782073
+      "price": 260.98,
+      "change_24h": 4.93560867522066
     },
     {
       "name": "Pi Network",
       "symbol": "PI",
-      "price": 0.198793,
-      "change_24h": 6.714279393975628
+      "price": 0.197553,
+      "change_24h": 4.593276778463891
     },
     {
-      "name": "Rain",
-      "symbol": "RAIN",
-      "price": 0.00753143,
-      "change_24h": 6.201614921321095
-    },
-    {
-      "name": "Morpho",
-      "symbol": "MORPHO",
-      "price": 2.01,
-      "change_24h": 4.19346774274339
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 1.0,
+      "change_24h": 4.177101798567451
     }
   ],
   "bearish": [
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.68,
-      "change_24h": -12.206447365219153
+      "price": 12.58,
+      "change_24h": -14.384530534273326
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.03497993,
+      "change_24h": -3.5638826567908644
     },
     {
       "name": "Sky",
       "symbol": "SKY",
-      "price": 0.086878,
-      "change_24h": -1.803575340023907
+      "price": 0.086367,
+      "change_24h": -2.8118154472670436
     },
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 3.56,
-      "change_24h": -1.7462261736051705
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.02985543,
+      "change_24h": -2.219826908700604
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "price": 40.68,
-      "change_24h": -1.3381963445997376
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.113583,
-      "change_24h": -1.2696895200925973
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "price": 0.188301,
+      "change_24h": -1.2666624148642365
     }
   ]
 }
