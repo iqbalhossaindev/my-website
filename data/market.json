@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-04-29 08:06 UTC",
+  "updated_at": "2026-04-29 10:49 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 77024,
-      "change_24h": 0.2702856909998989
+      "price": 77625,
+      "change_24h": 1.351387649726162
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2323.24,
-      "change_24h": 1.6503055031109204
+      "price": 2334.93,
+      "change_24h": 2.1862577996540042
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 624.94,
-      "change_24h": 0.0999907037695877
+      "price": 628.39,
+      "change_24h": 0.8667311750593374
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.66,
-      "change_24h": 0.8554704797331338
+      "price": 85.27,
+      "change_24h": 1.8261545220115725
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.39,
-      "change_24h": -0.0952073099229346
+      "price": 1.4,
+      "change_24h": 0.7996230277017468
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.249629,
-      "change_24h": 1.1557304252028078
+      "price": 0.252575,
+      "change_24h": 2.48219858520461
     }
   ],
   "bullish": [
     {
-      "name": "Pump.fun",
-      "symbol": "PUMP",
-      "price": 0.00190418,
-      "change_24h": 7.883790863919904
-    },
-    {
       "name": "Dogecoin",
       "symbol": "DOGE",
-      "price": 0.104966,
-      "change_24h": 5.51943936157996
+      "price": 0.110209,
+      "change_24h": 11.032077449573029
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 260.98,
-      "change_24h": 4.93560867522066
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "price": 0.00189161,
+      "change_24h": 7.545102255760909
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "price": 0.197553,
-      "change_24h": 4.593276778463891
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "price": 4.12e-06,
+      "change_24h": 7.0295354662652185
     },
     {
-      "name": "Aptos",
-      "symbol": "APT",
-      "price": 1.0,
-      "change_24h": 4.177101798567451
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.132124,
+      "change_24h": 5.997664960526595
+    },
+    {
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price": 0.672432,
+      "change_24h": 5.594339326560264
     }
   ],
   "bearish": [
     {
       "name": "DeXe",
       "symbol": "DEXE",
-      "price": 12.58,
-      "change_24h": -14.384530534273326
+      "price": 12.29,
+      "change_24h": -18.085655158977755
     },
     {
       "name": "​​Stable",
       "symbol": "STABLE",
-      "price": 0.03497993,
-      "change_24h": -3.5638826567908644
-    },
-    {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.086367,
-      "change_24h": -2.8118154472670436
+      "price": 0.03346987,
+      "change_24h": -7.743437950571912
     },
     {
       "name": "XDC Network",
       "symbol": "XDC",
-      "price": 0.02985543,
-      "change_24h": -2.219826908700604
+      "price": 0.0298707,
+      "change_24h": -2.697330738085071
     },
     {
-      "name": "Jupiter",
-      "symbol": "JUP",
-      "price": 0.188301,
-      "change_24h": -1.2666624148642365
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 3.54,
+      "change_24h": -2.6616067448536076
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.085833,
+      "change_24h": -2.395347167508867
     }
   ]
 }
