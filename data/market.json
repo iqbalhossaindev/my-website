@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-02 15:40 UTC",
+  "updated_at": "2026-05-02 16:39 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78390,
-      "change_24h": -0.30860963117651774
+      "price": 78464,
+      "change_24h": 0.2886260919427412
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2306.98,
-      "change_24h": -0.26572349719358873
+      "price": 2308.55,
+      "change_24h": 0.38240913375036795
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 617.65,
-      "change_24h": -0.7029639186019855
+      "price": 618.05,
+      "change_24h": -0.270122870147638
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.97,
-      "change_24h": -0.4715881319181768
+      "price": 84.07,
+      "change_24h": -0.18310976356469244
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.39,
-      "change_24h": -0.4169272100928838
+      "change_24h": -0.2069290523730562
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.249689,
-      "change_24h": -0.36524381002062967
+      "price": 0.250275,
+      "change_24h": 0.38399642338138745
     }
   ],
   "bullish": [
     {
       "name": "Ondo",
       "symbol": "ONDO",
-      "price": 0.287619,
-      "change_24h": 6.008221086817018
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 374.21,
-      "change_24h": 4.879530668798657
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 277.17,
-      "change_24h": 3.9364759591348406
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03382437,
-      "change_24h": 3.419465366119988
+      "price": 0.287476,
+      "change_24h": 5.5854475848349905
     },
     {
       "name": "POL (ex-MATIC)",
       "symbol": "POL",
       "price": 0.097402,
-      "change_24h": 2.497861061147983
+      "change_24h": 3.5292346759829165
+    },
+    {
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 3.01,
+      "change_24h": 2.7406295668477116
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.03393641,
+      "change_24h": 2.252685212607667
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 276.18,
+      "change_24h": 2.1969541959364194
     }
   ],
   "bearish": [
     {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 0.701788,
-      "change_24h": -3.8268917647744325
-    },
-    {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.122754,
-      "change_24h": -2.6084267080745307
-    },
-    {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00769963,
-      "change_24h": -2.413150078810775
+      "price": 0.00766505,
+      "change_24h": -2.82679894822659
     },
     {
-      "name": "Ethena",
-      "symbol": "ENA",
-      "price": 0.102224,
-      "change_24h": -2.260306855908467
+      "name": "Pi Network",
+      "symbol": "PI",
+      "price": 0.177543,
+      "change_24h": -1.7545600342620187
     },
     {
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "price": 0.05458,
-      "change_24h": -2.1794815482865713
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.697982,
+      "change_24h": -1.641253485668147
+    },
+    {
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.0293703,
+      "change_24h": -1.6129839911313046
+    },
+    {
+      "name": "Midnight",
+      "symbol": "NIGHT",
+      "price": 0.03159994,
+      "change_24h": -1.1525893797436517
     }
   ]
 }
