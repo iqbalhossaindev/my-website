@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-03 07:53 UTC",
+  "updated_at": "2026-05-03 09:17 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 78370,
-      "change_24h": 0.22998535453835886
+      "price": 78386,
+      "change_24h": 0.1050887587548186
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2309.57,
-      "change_24h": 0.3852763328397186
+      "price": 2308.02,
+      "change_24h": 0.12998568888487616
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 617.19,
-      "change_24h": 0.2565819285578563
+      "price": 618.78,
+      "change_24h": 0.5334082955506062
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 83.91,
-      "change_24h": 0.2422197340073718
+      "price": 83.93,
+      "change_24h": 0.04452005318288606
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.39,
-      "change_24h": 0.12662433646818758
+      "change_24h": 0.10125844921644339
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.249009,
-      "change_24h": 0.5680716145198905
+      "price": 0.248356,
+      "change_24h": -0.045505439045901576
     }
   ],
   "bullish": [
     {
       "name": "Algorand",
       "symbol": "ALGO",
-      "price": 0.117447,
-      "change_24h": 10.968348378834328
-    },
-    {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "price": 291.52,
-      "change_24h": 6.331385556794136
+      "price": 0.11645,
+      "change_24h": 9.180995601843518
     },
     {
       "name": "Render",
       "symbol": "RENDER",
-      "price": 1.81,
-      "change_24h": 5.808614432763357
-    },
-    {
-      "name": "World Liberty Financial",
-      "symbol": "WLFI",
-      "price": 0.056627,
-      "change_24h": 5.09885454833655
+      "price": 1.8,
+      "change_24h": 4.906063030301852
     },
     {
       "name": "Kaspa",
       "symbol": "KAS",
-      "price": 0.03365796,
-      "change_24h": 4.042909463548052
+      "price": 0.03391114,
+      "change_24h": 4.57282570616722
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "price": 285.23,
+      "change_24h": 3.861930947167431
+    },
+    {
+      "name": "Aster",
+      "symbol": "ASTER",
+      "price": 0.681032,
+      "change_24h": 3.630210232860371
     }
   ],
   "bearish": [
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.03330505,
-      "change_24h": -4.14642027646009
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "price": 0.00982033,
-      "change_24h": -3.995188305113364
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "price": 0.118878,
+      "change_24h": -2.950469367256879
     },
     {
       "name": "JUST",
       "symbol": "JST",
-      "price": 0.082971,
-      "change_24h": -3.5377556239126458
+      "price": 0.083786,
+      "change_24h": -2.701572355903472
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00758483,
-      "change_24h": -2.77169239417178
+      "price": 0.00755278,
+      "change_24h": -2.5299112467969143
     },
     {
-      "name": "Arbitrum",
-      "symbol": "ARB",
-      "price": 0.119149,
-      "change_24h": -2.7237038195121404
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 0.977414,
+      "change_24h": -2.4949676776935545
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "price": 41.25,
+      "change_24h": -2.4550567510689048
     }
   ]
 }
