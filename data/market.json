@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-04 08:33 UTC",
+  "updated_at": "2026-05-04 11:00 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 79743,
-      "change_24h": 1.7150404106507329
+      "price": 78909,
+      "change_24h": 0.6515141882383266
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2361.29,
-      "change_24h": 2.2986894551396735
+      "price": 2337.6,
+      "change_24h": 1.1268646495473826
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 628.09,
-      "change_24h": 1.7720624935342433
+      "price": 623.98,
+      "change_24h": 1.041861843802295
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.85,
-      "change_24h": 1.1735596793431209
+      "price": 84.03,
+      "change_24h": 0.26774740851487544
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.41,
-      "change_24h": 1.815132865130854
+      "price": 1.4,
+      "change_24h": 0.5267613408142136
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.251851,
-      "change_24h": 1.266319717339089
+      "price": 0.2484,
+      "change_24h": -0.015470923123879975
     }
   ],
   "bullish": [
     {
       "name": "SkyAI",
       "symbol": "SKYAI",
-      "price": 0.585341,
-      "change_24h": 51.20054506683851
+      "price": 0.6464,
+      "change_24h": 90.02817045297118
     },
     {
       "name": "Dash",
       "symbol": "DASH",
-      "price": 49.37,
-      "change_24h": 32.71901665916123
-    },
-    {
-      "name": "Siren",
-      "symbol": "SIREN",
-      "price": 0.849638,
-      "change_24h": 23.22944768696654
+      "price": 46.25,
+      "change_24h": 20.418730386844253
     },
     {
       "name": "Ondo",
       "symbol": "ONDO",
-      "price": 0.313667,
-      "change_24h": 12.006824588053286
+      "price": 0.304659,
+      "change_24h": 10.244764183436493
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "price": 416.45,
-      "change_24h": 7.97699830882206
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.770545,
+      "change_24h": 9.292298338959332
+    },
+    {
+      "name": "World Liberty Financial",
+      "symbol": "WLFI",
+      "price": 0.060381,
+      "change_24h": 7.351566828084836
     }
   ],
   "bearish": [
     {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 2.73,
-      "change_24h": -7.598256505390806
+      "price": 2.66,
+      "change_24h": -10.493810708017834
     },
     {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.114635,
-      "change_24h": -2.9709511463096088
+      "name": "Provenance Blockchain",
+      "symbol": "HASH",
+      "price": 0.01048877,
+      "change_24h": -7.571096802067901
     },
     {
       "name": "Arbitrum",
       "symbol": "ARB",
-      "price": 0.117686,
-      "change_24h": -1.1454576038877073
+      "price": 0.114396,
+      "change_24h": -3.441348773597193
     },
     {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.033035,
-      "change_24h": -1.1277506016543142
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "price": 0.11235,
+      "change_24h": -3.0554915796091153
     },
     {
-      "name": "Ondo US Dollar Yield",
-      "symbol": "USDY",
-      "price": 1.12,
-      "change_24h": -1.124843710149679
+      "name": "Rain",
+      "symbol": "RAIN",
+      "price": 0.0073769,
+      "change_24h": -2.514870785261265
     }
   ]
 }
