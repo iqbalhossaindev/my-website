@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-05 02:11 UTC",
+  "updated_at": "2026-05-05 05:37 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 80414,
-      "change_24h": 0.6407390150730408
+      "price": 81118,
+      "change_24h": 1.3349934039019056
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2368.13,
-      "change_24h": 0.3534859538749226
+      "price": 2385.67,
+      "change_24h": 0.24393313715630974
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 624.91,
-      "change_24h": 0.23178967233183417
+      "price": 627.57,
+      "change_24h": -0.8708408509116965
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 84.47,
-      "change_24h": -0.6288617066110165
+      "price": 84.97,
+      "change_24h": -0.4535725310529286
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.4,
-      "change_24h": -0.5220531922027163
+      "change_24h": -0.6038095596175227
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.25127,
-      "change_24h": -0.4628010426145428
+      "price": 0.253008,
+      "change_24h": 0.04445339506653021
     }
   ],
   "bullish": [
     {
       "name": "Toncoin",
       "symbol": "TON",
-      "price": 1.78,
-      "change_24h": 30.059356981300827
+      "price": 1.72,
+      "change_24h": 23.381033010599477
     },
     {
       "name": "Terra Luna Classic",
       "symbol": "LUNC",
-      "price": 9.936e-05,
-      "change_24h": 14.083620816999392
+      "price": 9.857e-05,
+      "change_24h": 11.38092390143424
     },
     {
-      "name": "Dash",
-      "symbol": "DASH",
-      "price": 47.39,
-      "change_24h": 11.152162881057368
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "price": 2.15,
+      "change_24h": 8.880038069511924
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "price": 0.01076854,
+      "change_24h": 5.947920560953846
     },
     {
       "name": "World Liberty Financial",
       "symbol": "WLFI",
-      "price": 0.064117,
-      "change_24h": 8.94611768530221
-    },
-    {
-      "name": "​​Stable",
-      "symbol": "STABLE",
-      "price": 0.0346052,
-      "change_24h": 5.891421296714205
+      "price": 0.063157,
+      "change_24h": 5.244924268960378
     }
   ],
   "bearish": [
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 2.68,
-      "change_24h": -10.605579683653893
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.746137,
+      "change_24h": -14.4029243460072
     },
     {
       "name": "Provenance Blockchain",
       "symbol": "HASH",
-      "price": 0.01050331,
-      "change_24h": -6.231265638264177
-    },
-    {
-      "name": "Aptos",
-      "symbol": "APT",
-      "price": 0.970728,
-      "change_24h": -3.4208635460445462
+      "price": 0.01049723,
+      "change_24h": -7.629947528517787
     },
     {
       "name": "Quant",
       "symbol": "QNT",
-      "price": 67.33,
-      "change_24h": -2.9007918528069663
+      "price": 67.11,
+      "change_24h": -4.388145995911147
     },
     {
       "name": "Ethena",
       "symbol": "ENA",
-      "price": 0.101594,
-      "change_24h": -2.507341178506499
+      "price": 0.102211,
+      "change_24h": -3.9996218567623547
+    },
+    {
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 0.975268,
+      "change_24h": -2.8479685902478837
     }
   ]
 }
