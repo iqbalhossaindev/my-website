@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-05 20:57 UTC",
+  "updated_at": "2026-05-05 22:00 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 81631,
-      "change_24h": 2.1290777871884417
+      "price": 81437,
+      "change_24h": 1.3844568248471874
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2382.36,
-      "change_24h": 1.3804117551241168
+      "price": 2375.98,
+      "change_24h": 0.5193993737289718
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 633.38,
-      "change_24h": 1.6526903969285487
+      "price": 633.67,
+      "change_24h": 1.3403295834845448
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 86.61,
-      "change_24h": 3.0260997752958327
+      "price": 86.67,
+      "change_24h": 2.6723114120875464
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.42,
-      "change_24h": 1.6239528512791879
+      "change_24h": 1.362553131450105
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.260991,
-      "change_24h": 4.525003854256257
+      "price": 0.263969,
+      "change_24h": 5.056461522477247
     }
   ],
   "bullish": [
     {
-      "name": "Toncoin",
-      "symbol": "TON",
-      "price": 1.97,
-      "change_24h": 32.80020037725828
-    },
-    {
       "name": "MemeCore",
       "symbol": "M",
-      "price": 3.43,
-      "change_24h": 26.179133225526268
+      "price": 3.52,
+      "change_24h": 28.64385831946068
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "TON",
+      "price": 1.99,
+      "change_24h": 25.790037565071266
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 486.84,
-      "change_24h": 17.450528008382054
+      "price": 512.88,
+      "change_24h": 20.292331196502
     },
     {
       "name": "Internet Computer",
       "symbol": "ICP",
-      "price": 2.77,
-      "change_24h": 17.09806850827993
+      "price": 2.71,
+      "change_24h": 13.74954267371927
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.01141867,
-      "change_24h": 14.116959664988446
+      "price": 0.01123097,
+      "change_24h": 11.177944621919957
     }
   ],
   "bearish": [
     {
-      "name": "SkyAI",
-      "symbol": "SKYAI",
-      "price": 0.753976,
-      "change_24h": -2.399171216585036
+      "name": "Dash",
+      "symbol": "DASH",
+      "price": 48.61,
+      "change_24h": -3.7678798484057885
+    },
+    {
+      "name": "​​Stable",
+      "symbol": "STABLE",
+      "price": 0.0338951,
+      "change_24h": -1.9546619464838215
+    },
+    {
+      "name": "XDC Network",
+      "symbol": "XDC",
+      "price": 0.02891427,
+      "change_24h": -0.9989374243788169
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00743788,
-      "change_24h": -0.5220705968269019
+      "price": 0.00741141,
+      "change_24h": -0.8481133490711371
     },
     {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "price": 0.315786,
-      "change_24h": -0.41775682978725925
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "price": 0.147109,
-      "change_24h": -0.23483021564823686
-    },
-    {
-      "name": "USD1",
-      "symbol": "USD1",
-      "price": 0.999738,
-      "change_24h": -0.010509249996120929
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price": 1.88,
+      "change_24h": -0.3926338947575325
     }
   ]
 }
