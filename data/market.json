@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-05 15:48 UTC",
+  "updated_at": "2026-05-05 17:17 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 81645,
-      "change_24h": 2.3159830336725973
+      "price": 81322,
+      "change_24h": 1.1068696023400353
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2385.76,
-      "change_24h": 1.5243928910304194
+      "price": 2365.45,
+      "change_24h": -0.026452685154804676
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 631.82,
-      "change_24h": 1.0121824159369277
+      "price": 628.64,
+      "change_24h": 0.189022644499734
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 85.6,
-      "change_24h": 1.3283549587586272
+      "price": 85.3,
+      "change_24h": 0.46456864110544116
     },
     {
       "id": "ripple",
       "symbol": "XRP",
       "price": 1.41,
-      "change_24h": 1.1062309539598576
+      "change_24h": 0.041528938758015964
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.257422,
-      "change_24h": 2.79659507361913
+      "price": 0.257513,
+      "change_24h": 2.4786384710484786
     }
   ],
   "bullish": [
     {
-      "name": "MemeCore",
-      "symbol": "M",
-      "price": 3.38,
-      "change_24h": 25.275767513177215
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "price": 0.00011903,
+      "change_24h": 28.538072731745384
     },
     {
       "name": "Toncoin",
       "symbol": "TON",
       "price": 1.8,
-      "change_24h": 25.00543327251793
+      "change_24h": 26.01077188039432
     },
     {
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "price": 0.00011192,
-      "change_24h": 19.84575274310986
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 3.32,
+      "change_24h": 24.662119872860835
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "price": 0.01168094,
-      "change_24h": 16.8365855986471
+      "price": 0.01169536,
+      "change_24h": 16.61594344214614
     },
     {
       "name": "Morpho",
       "symbol": "MORPHO",
-      "price": 2.26,
-      "change_24h": 14.212405715334853
+      "price": 2.25,
+      "change_24h": 12.465715704499573
     }
   ],
   "bearish": [
     {
       "name": "Dash",
       "symbol": "DASH",
-      "price": 45.5,
-      "change_24h": -5.18584480176219
+      "price": 45.7,
+      "change_24h": -3.3308564786336308
     },
     {
-      "name": "Provenance Blockchain",
-      "symbol": "HASH",
-      "price": 0.01046278,
-      "change_24h": -4.257022295184963
+      "name": "Siren",
+      "symbol": "SIREN",
+      "price": 0.764116,
+      "change_24h": -1.4259156254206669
     },
     {
-      "name": "Figure Heloc",
-      "symbol": "FIGR_HELOC",
-      "price": 1.029,
-      "change_24h": -0.7783671197678869
+      "name": "Cosmos Hub",
+      "symbol": "ATOM",
+      "price": 1.86,
+      "change_24h": -1.3653317158861655
+    },
+    {
+      "name": "Aptos",
+      "symbol": "APT",
+      "price": 0.964491,
+      "change_24h": -1.2438010725046564
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00744507,
-      "change_24h": -0.7303456886544466
-    },
-    {
-      "name": "XDC Network",
-      "symbol": "XDC",
-      "price": 0.02926101,
-      "change_24h": -0.47738246316619254
+      "price": 0.0074297,
+      "change_24h": -1.0725433309035712
     }
   ]
 }
