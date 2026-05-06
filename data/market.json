@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-05-06 05:51 UTC",
+  "updated_at": "2026-05-06 08:14 UTC",
   "prices": [
     {
       "id": "bitcoin",
       "symbol": "BTC",
-      "price": 81243,
-      "change_24h": 0.31752664700768873
+      "price": 81526,
+      "change_24h": 0.8171144197120984
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
-      "price": 2363.26,
-      "change_24h": -0.7031716059922939
+      "price": 2375.76,
+      "change_24h": -0.2998400000468924
     },
     {
       "id": "binancecoin",
       "symbol": "BNB",
-      "price": 634.32,
-      "change_24h": 1.0340108309916711
+      "price": 640.15,
+      "change_24h": 1.8124932855093934
     },
     {
       "id": "solana",
       "symbol": "SOL",
-      "price": 87.19,
-      "change_24h": 2.6938399059078355
+      "price": 87.84,
+      "change_24h": 3.5225832076282484
     },
     {
       "id": "ripple",
       "symbol": "XRP",
-      "price": 1.42,
-      "change_24h": 1.4560463785964983
+      "price": 1.43,
+      "change_24h": 1.784319311873334
     },
     {
       "id": "cardano",
       "symbol": "ADA",
-      "price": 0.263322,
-      "change_24h": 4.145851262757253
+      "price": 0.265465,
+      "change_24h": 3.0405098222441453
     }
   ],
   "bullish": [
     {
       "name": "SkyAI",
       "symbol": "SKYAI",
-      "price": 0.807805,
-      "change_24h": 45.38898723506271
+      "price": 0.78654,
+      "change_24h": 40.3203398621337
     },
     {
       "name": "Zcash",
       "symbol": "ZEC",
-      "price": 541.84,
-      "change_24h": 28.552680255551934
+      "price": 591.83,
+      "change_24h": 39.86618864819993
+    },
+    {
+      "name": "Dash",
+      "symbol": "DASH",
+      "price": 54.24,
+      "change_24h": 18.770549031425755
     },
     {
       "name": "Toncoin",
       "symbol": "TON",
-      "price": 2.13,
-      "change_24h": 24.102181352132426
+      "price": 2.15,
+      "change_24h": 16.89966334358776
     },
     {
-      "name": "Filecoin",
-      "symbol": "FIL",
-      "price": 1.13,
-      "change_24h": 19.458496854098577
-    },
-    {
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "price": 0.0001148,
-      "change_24h": 16.93188355408806
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "price": 2.75,
+      "change_24h": 13.628041411407436
     }
   ],
   "bearish": [
     {
-      "name": "Sky",
-      "symbol": "SKY",
-      "price": 0.079175,
-      "change_24h": -2.7937304354815833
+      "name": "MemeCore",
+      "symbol": "M",
+      "price": 3.55,
+      "change_24h": -2.3169577595092394
+    },
+    {
+      "name": "JUST",
+      "symbol": "JST",
+      "price": 0.083772,
+      "change_24h": -1.8496756450665957
     },
     {
       "name": "Rain",
       "symbol": "RAIN",
-      "price": 0.00731285,
-      "change_24h": -2.733524547885739
+      "price": 0.00739594,
+      "change_24h": -1.1003480632683518
+    },
+    {
+      "name": "Sky",
+      "symbol": "SKY",
+      "price": 0.079708,
+      "change_24h": -0.9452262262006393
     },
     {
       "name": "Canton",
       "symbol": "CC",
-      "price": 0.147954,
-      "change_24h": -1.6099321556422648
-    },
-    {
-      "name": "KuCoin",
-      "symbol": "KCS",
-      "price": 8.45,
-      "change_24h": -0.7755052131812281
-    },
-    {
-      "name": "Algorand",
-      "symbol": "ALGO",
-      "price": 0.11915,
-      "change_24h": -0.7646402479533535
+      "price": 0.148251,
+      "change_24h": -0.7873133085553383
     }
   ]
 }
